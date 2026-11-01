@@ -1,0 +1,58 @@
+name: Refresh data
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # The Wire: news + Decline League
+    - cron: "7 6 * * *"      # daily: statistics (fetch_data.py)
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Also run the daily statistics refresh (fetch_data.py)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch news (The Wire)
+        run: python3 scripts/fetch_news.py
+
+      - name: Fetch statistics (daily)
+        if: github.event.schedule == '7 6 * * *' || (github.event_name == 'workflow_dispatch' && inputs.full)
+        run: |
+          if [ -f scripts/fetch_data.py ]; then
+            python3 scripts/fetch_data.py
+          else
+            echo "scripts/fetch_data.py not found; skipping"
+          fi
+
+      - name: Commit data if changed
+        run: |
+          git config user.name "europoor-bot"
+          git config user.email "europoor-bot@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep 5
+          done
+          exit 1
