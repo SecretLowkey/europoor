@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>EUROPOOR</title>
+<meta name="description" content="Europe is getting poorer. The Europoor Index, the Decline League, a live departures board of setback news and three daily games, from the Directorate-General for Decline. Satire built on official statistics and real news.">
+<meta property="og:title" content="EUROPOOR — Directorate-General for Decline">
+<meta property="og:description" content="Europe is getting poorer. We measure it, rank it, and print it on a banknote.">
+<meta property="og:image" content="assets/img/europoor-logo.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@theEuropoor">
+<meta name="theme-color" content="#12309a">
+<link rel="icon" href="assets/img/europoor-logo.jpg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,400..900&family=IBM+Plex+Mono:wght@400;500;600&family=Nanum+Pen+Script&family=Public+Sans:ital,wght@0,400..800;1,400..700&display=swap">
+<link rel="stylesheet" href="assets/css/europoor.css">
+</head>
+<body class="s-cotton">
+<script>document.documentElement.classList.add("js");</script>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+  <filter id="stamp-ink" x="-5%" y="-10%" width="110%" height="120%">
+    <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="2" seed="7" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -1.6 1.25" result="holes"/>
+    <feComposite in="SourceGraphic" in2="holes" operator="in" result="inked"/>
+    <feTurbulence type="fractalNoise" baseFrequency=".04" numOctaves="1" seed="3" result="w"/>
+    <feDisplacementMap in="inked" in2="w" scale="2.2"/>
+  </filter>
+  <symbol id="star" viewBox="0 0 24 24"><path d="M12 1.5l3.1 6.9 7.4.7-5.6 5 1.7 7.4L12 17.6l-6.6 3.9 1.7-7.4-5.6-5 7.4-.7z"/></symbol>
+</svg>
+<div class="grain" aria-hidden="true"></div>
+<a class="sr" href="#app">Skip to content</a>
+
+<div class="microband" aria-label="Satire built on real news. Every filing links to its source. Not affiliated with the EU, any government or any news outlet.">
+  <div class="microband-track" aria-hidden="true" id="microband"></div>
+</div>
+
+<header class="head" id="head">
+  <div class="wrap">
+    <a class="logo" href="#/" data-route aria-label="Europoor, home">
+      <svg viewBox="0 0 40 40" aria-hidden="true" id="logoStars"></svg>
+      <span class="logo-word">EUROPOOR</span>
+      <span class="logo-dg">Directorate-<br>General for<br>Decline</span>
+    </a>
+    <nav class="nav" aria-label="Main">
+      <a href="#/wire" data-route data-nav="wire">The Wire<span class="dot" aria-hidden="true"></span></a>
+      <a href="#/index" data-route data-nav="index">Index</a>
+      <a href="#/data" data-route data-nav="data">Data</a>
+      <a href="#/league" data-route data-nav="league">League</a>
+      <a href="#/map" data-route data-nav="map">Map</a>
+      <a href="#/play" data-route data-nav="play">Play</a>
+    </nav>
+    <div class="head-tools">
+      <a class="pill" href="#/index" data-route id="idxPill"><span class="lbl">Index</span> <b>–</b></a>
+      <a class="xbtn" href="https://x.com/theEuropoor" target="_blank" rel="noopener" aria-label="Follow @theEuropoor on X">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.9 1.2h3.7l-8 9.2L24 22.8h-7.4l-5.8-7.6-6.6 7.6H.5L9 13 0 1.2h7.6l5.2 6.9 6.1-6.9Zm-1.3 19.4h2L6.5 3.3H4.3l13.3 17.3Z"/></svg>
+      </a>
+      <button class="menu-btn" id="menuBtn" type="button" aria-expanded="false" aria-controls="menu">Menu</button>
+    </div>
+  </div>
+</header>
+
+<div class="tape" role="note"><div class="wrap"><span><b>Satire built on real news.</b> Every filing links to its source.</span><span class="more">Not affiliated with the EU, any government or any news outlet.</span></div></div>
+
+<nav class="menu" id="menu" aria-label="Menu">
+  <button class="menu-btn menu-close" id="menuClose" type="button">Close</button>
+  <a href="#/" data-route data-path="/">Front page</a>
+  <a href="#/wire" data-route data-path="/wire">The Wire</a>
+  <a href="#/index" data-route data-path="/index">The Index</a>
+  <a href="#/league" data-route data-path="/league">The League</a>
+  <a href="#/data" data-route data-path="/data">The Data</a>
+  <a href="#/map" data-route data-path="/map">Small change</a>
+  <a href="#/play" data-route data-path="/play">Daily games</a>
+  <div class="menu-foot">
+    <a class="btn" href="https://x.com/theEuropoor" target="_blank" rel="noopener" style="font:700 .95rem/1 var(--sans);opacity:1;transform:none;border-bottom:0;padding:0 18px;justify-content:center">Follow @theEuropoor on X</a>
+    <p class="micro">Satire built on real news. Not affiliated with the EU, any government or any news outlet.</p>
+  </div>
+</nav>
+
+<nav class="tabbar" aria-label="Sections">
+  <a href="#/" data-route data-nav="home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 10.5 12 4l8.5 6.5"/><path d="M6 9v10.5h4.5V14h3v5.5H18V9"/></svg>Home</a>
+  <a href="#/wire" data-route data-nav="wire"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="1.5"/><path d="M6.5 9.5h5M6.5 12.5h8M6.5 15.5h4"/><path d="M15.5 9.5h2"/></svg><span class="live" aria-hidden="true"></span>Wire</a>
+  <a href="#/index" data-route data-nav="index"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 17a8.5 8.5 0 0 1 17 0"/><path d="M12 17l4-6"/><circle cx="12" cy="17" r="1.2"/></svg>Index</a>
+  <a href="#/league" data-route data-nav="league"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 20V12h4v8M10 20V7h4v13M15 20v-5h4v5"/><path d="M3.5 20h17"/></svg>League</a>
+  <a href="#/play" data-route data-nav="play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7.5h16v3a1.8 1.8 0 0 0 0 3.6v3.4H4v-3.4a1.8 1.8 0 0 0 0-3.6z"/><path d="M14.5 7.5v10" stroke-dasharray="1.6 1.8"/></svg>Play</a>
+</nav>
+
+<main id="app" tabindex="-1"></main>
+
+<footer class="foot s-night">
+  <div class="wrap">
+    <div class="foot-piggy" aria-hidden="true"></div>
+    <div class="foot-top">
+      <div>
+        <h4>Directorate-General for Decline</h4>
+        <p class="about">We read Europe's statistics so you don't have to, then print them on a banknote that loses value while you look at it. Satire built on official figures and real reporting. Not affiliated with the European Union, any government, or anyone who could fix this.</p>
+        <a class="btn" href="https://x.com/theEuropoor" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.9 1.2h3.7l-8 9.2L24 22.8h-7.4l-5.8-7.6-6.6 7.6H.5L9 13 0 1.2h7.6l5.2 6.9 6.1-6.9Zm-1.3 19.4h2L6.5 3.3H4.3l13.3 17.3Z"/></svg>
+          Follow @theEuropoor
+        </a>
+      </div>
+      <div><h4>Read</h4><ul>
+        <li><a href="#/wire" data-route>The Wire</a></li>
+        <li><a href="#/index" data-route>The Europoor Index</a></li>
+        <li><a href="#/league" data-route>The Decline League</a></li>
+        <li><a href="#/map" data-route>Small Change, the map</a></li>
+      </ul></div>
+      <div><h4>Look up</h4><ul>
+        <li><a href="#/data" data-route>Data hub</a></li>
+        <li><a href="#/data/france" data-route>France, for example</a></li>
+        <li><a href="#/country/germany" data-route>Germany's dossier</a></li>
+        <li><a href="#/index" data-route data-anchor="method">How it's made</a></li>
+      </ul></div>
+      <div><h4>Waste time</h4><ul>
+        <li><a href="#/play/poorer" data-route>Poorer or Richer?</a></li>
+        <li><a href="#/play/europoordle" data-route>Europoordle</a></li>
+        <li><a href="#/play/real-or-satire" data-route>Real or Satire?</a></li>
+        <li><a href="#/play" data-route>Achievements</a></li>
+      </ul></div>
+    </div>
+    <div class="foot-word" id="footWord" aria-hidden="true"><span>E</span><span>u</span><span>r</span><span>o</span><span>p</span><span>o</span><span>o</span><span>r</span></div>
+    <div class="foot-bot">
+      <span class="micro">Figures: Eurostat and national statistics offices · Headlines: their publishers, linked · Engravings: the Directorate's print room</span>
+      <span class="micro" id="footGen">Series 2026</span>
+    </div>
+  </div>
+</footer>
+
+<div class="shred" id="shred" aria-hidden="true"></div>
+<div class="shred-label" id="shredLabel" aria-hidden="true"></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+  // Where open pages look for new filings. The refresh job commits data/ to this
+  // repository, so new news needs no site redeploy. Empty = same folder as the page.
+  window.EP_FEED = "https://raw.githubusercontent.com/SecretLowkey/europoor/main/";
+</script>
+<script src="data/data.js"></script>
+<script src="data/news.js"></script>
+<script src="assets/js/charts.js"></script>
+<script src="assets/js/fx.js"></script>
+<script src="assets/js/games.js"></script>
+<script src="assets/js/app.js"></script>
+</body>
+</html>

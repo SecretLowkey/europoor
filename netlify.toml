@@ -1,0 +1,6 @@
+# Netlify serves the folder as it is, with no build step.
+# Commits that only touch data/ are skipped: open pages read new filings straight
+# from GitHub, so the news sweep never needs a Netlify deploy.
+[build]
+  publish = "."
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)data'"
