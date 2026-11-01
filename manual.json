@@ -1,0 +1,30 @@
+{
+  "_readme": "Hand-entered values merged by fetch_data.py ONLY where Eurostat and the live national/international APIs return nothing (set \"override\": true to force). Keyed by display country code, then measure key. Use \"v\" for values already in the measure unit, or \"local\": {\"value\", \"currency\"} for prices in national currency per kWh (converted to EUR at the latest ECB monthly average from Eurostat ert_bil_eur_m). prev/y1/y5 are in the same unit as v/local.value.",
+  "countries": {
+    "GB": {
+      "electricity": {
+        "local": {"value": 0.3379, "currency": "GBP"},
+        "period": "2026-S2",
+        "prev": null, "y1": null, "y5": null,
+        "src": "https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges",
+        "note": "Ofgem default tariff cap, GB average, direct debit: mean of Jul-Sep 2026 (26.11p/kWh + 57.19p/day) and Oct-Dec 2026 (26.32p/kWh + 54.83p/day), standing charge spread over 2,700 kWh/yr (Ofgem typical consumption, inside Eurostat band DC)."
+      },
+      "gas": {
+        "local": {"value": 0.0858, "currency": "GBP"},
+        "period": "2026-S2",
+        "prev": null, "y1": null, "y5": null,
+        "src": "https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges",
+        "note": "Ofgem default tariff cap, GB average, direct debit, incl. 5% VAT: mean of Jul-Sep 2026 (7.33p/kWh + 29.04p/day) and Oct-Dec 2026 (7.97p/kWh + 29.68p/day), standing charge spread over 11,500 kWh/yr (inside Eurostat band D2)."
+      }
+    },
+    "CH": {
+      "electricity": {
+        "local": {"value": 0.277, "currency": "CHF"},
+        "period": "2026-S1",
+        "prev": 0.29, "y1": 0.29, "y5": null,
+        "src": "https://www.elcom.admin.ch/dam/de/sd-web/znXqHISH0pFP/Newsletter_09-2025_D.pdf",
+        "note": "ElCom (Swiss Federal Electricity Commission) median regulated tariff for a typical household (profile H4, 4,500 kWh/yr) for calendar year 2026: 27.7 Rp./kWh; 2025: 29.0 Rp./kWh (prev/y1, converted at the same current rate). Swiss tariffs are set per calendar year."
+      }
+    }
+  }
+}
