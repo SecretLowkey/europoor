@@ -1,0 +1,43 @@
+name: Fix folder layout
+
+on:
+  push:
+    paths:
+      - ".github/workflows/fix-layout.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Move files into their folders
+        run: |
+          mkdir -p assets/css assets/img assets/js data scripts
+          move() { if [ -f "$1" ]; then git mv -f "$1" "$2/$1"; fi; }
+          move europoor.css assets/css
+          for f in engraving-bridge.png engraving-europa.png engraving-piggy.png europoor-logo.jpg; do move "$f" assets/img; done
+          for f in app.js charts.js fx.js games.js; do move "$f" assets/js; done
+          for f in data.js data.json news.js news.json news_archive.json version.json; do move "$f" data; done
+          for f in build_artifact_page.py build_single_file.py fetch_data.py fetch_news.py manual.json; do move "$f" scripts; done
+
+      - name: Commit
+        run: |
+          git config user.name "europoor-bot"
+          git config user.email "europoor-bot@users.noreply.github.com"
+          if git diff --cached --quiet; then
+            echo "Nothing to move."
+          else
+            git commit -m "Move site files into their folders"
+            git push
+          fi
+
+      - name: Start the first news sweep
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run refresh.yml --ref "${GITHUB_REF_NAME}"
