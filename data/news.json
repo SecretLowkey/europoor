@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-15T13:50:32Z",
+ "generated": "2026-11-15T14:14:51Z",
  "next_refresh_minutes": 15,
- "sources_count": 1881,
+ "sources_count": 1882,
  "items": [
   {
    "id": "a9596d6178c9",
@@ -104,6 +104,23 @@
    "corroboration": 1,
    "also": [],
    "memo": "Directorate notes: the trend remains, regrettably, a trend."
+  },
+  {
+   "id": "bf8965c1dfea",
+   "title": "UK house prices hit 24-year low in real terms",
+   "source": "Share Talk",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA3el9DVVF2UTQyX1RyeHoxeVBUcWhoUEVJVmt0QVNXaE9yNk9NMG1MeVYyZk9ubW53X2pvNUZPakIxb1I5eF9KaW5Kdy1hNnJEajJNTU5QWnJUaDBVLUdaZE9HRWNnajJaVUlSUEVINjVGRG9hNlBRT1pKamdhZw?oc=5",
+   "published": "2026-11-15T12:17:03Z",
+   "category": "housing",
+   "countries": [
+    "GB"
+   ],
+   "severity": 0,
+   "direction": "up",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Improvement noted. Not to be confused with a trend."
   },
   {
    "id": "a9fdb10abd4c",
@@ -2275,23 +2292,6 @@
    "memo": "Filed under: things that were supposed to be temporary."
   },
   {
-   "id": "9b8f58a02299",
-   "title": "Glasgow ‘hasn’t had its fair share’ from UK Budget, council leader says",
-   "source": "The Herald",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ1hVa0dqYU5wZFNxQl9RTGVXZTVSX1kyYmZ0SG94by1LakdXdm5CYlpGNFk3OWhRUWF3cVRaemgtemJfNThSa1diaXpxakNYTEhqSGlRTWlhLTJQdFRobzJiX3Fad0tZT21zXzdCX25VRVR4anBXXzcwcHhOemk3amdpVEF2U2M?oc=5",
-   "published": "2026-11-14T05:00:38Z",
-   "category": "government",
-   "countries": [
-    "GB"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Action: a working group will be convened to consider convening a working group."
-  },
-  {
    "id": "329121ab9a73",
    "title": "BoE’s Huw Pill Thinks UK Rates Have Further To Rise",
    "source": "Finimize",
@@ -2893,10 +2893,10 @@
    "memo": "Status: noted, minuted, ignored."
   },
   {
-   "id": "97c8e08c5c4a",
-   "title": "The right to a home: Spain’s cooperative answer to the housing crisis",
+   "id": "d6f6722a4971",
+   "title": "Video. The right to a home: Spain’s cooperative answer to the housing crisis",
    "source": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNU5vVEw0ejNGUC1tMWZfM3pINkhWcjc3bHZYMVM0dENCN2czcDRHS2VCYkthX1FLLWk1NTRuZ0dpVmUzemh2ZnBPdlRMQWpNc2FrMlpWQzV6RHBrNjFBMmdKUTk1TzYzN01oVWV0NHRqUWxoNE9IY1BxZWZnYWZNQmJfd2s2aWgxaE1ENnYzRGFBRFNOWTA2Zm5tSXBHZGNIak83VVhB?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdEdMQmZOZzdEZjU1RFdXdDZteGtFWm54bXpjM1FfUmJlLUxmQlNjN0hIMnU3NDZaSWN4UXZOMlZLV00yaDRWQzh3ZWptYkRlOEtZV1lITkQtVmR1Zkt6UmFXQ3Y2OUhVQWpYMXlmQmZtT1dwelplM0FRYS12QVl2MjdkNGxoZFUwRXVCSkVnQU05VDJZdDNDcWlKTzBoLVViTHVDZWp0bTBMbjhfdUE?oc=5",
    "published": "2026-11-13T14:00:56Z",
    "category": "housing",
    "countries": [
@@ -2912,7 +2912,7 @@
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNU5vVEw0ejNGUC1tMWZfM3pINkhWcjc3bHZYMVM0dENCN2czcDRHS2VCYkthX1FLLWk1NTRuZ0dpVmUzemh2ZnBPdlRMQWpNc2FrMlpWQzV6RHBrNjFBMmdKUTk1TzYzN01oVWV0NHRqUWxoNE9IY1BxZWZnYWZNQmJfd2s2aWgxaE1ENnYzRGFBRFNOWTA2Zm5tSXBHZGNIak83VVhB?oc=5"
     }
    ],
-   "memo": "Directorate notes: the trend remains, regrettably, a trend."
+   "memo": "Planning application lodged some years ago. Status: being planned."
   },
   {
    "id": "3a051f6b7791",
@@ -7153,7 +7153,7 @@
  ],
  "league": {
   "window": "7d",
-  "updated": "2026-11-15T13:50:32Z",
+  "updated": "2026-11-15T14:14:51Z",
   "table": [
    {
     "pos": 1,
@@ -7161,9 +7161,9 @@
     "slug": "spain",
     "name": "Spain",
     "flag": "🇪🇸",
-    "score": 200.7,
-    "filings": 112,
-    "points": 181.5,
+    "score": 199.6,
+    "filings": 111,
+    "points": 180.5,
     "coverage": 81.8,
     "form": [
      "D",
@@ -7179,11 +7179,11 @@
     "filings_season": 237,
     "zone": "crisis",
     "weekly": [
-     62.7,
-     65.2,
-     51.3,
-     40.6,
-     184.3
+     62.8,
+     65.1,
+     51.4,
+     41.5,
+     183.3
     ]
    },
    {
@@ -7192,10 +7192,10 @@
     "slug": "united-kingdom",
     "name": "United Kingdom",
     "flag": "🇬🇧",
-    "score": 81.7,
+    "score": 81.6,
     "filings": 103,
     "points": 137.0,
-    "coverage": 281.4,
+    "coverage": 281.6,
     "form": [
      "W",
      "L",
@@ -7204,14 +7204,14 @@
      "D"
     ],
     "movement": 2,
-    "score_28d": 427.6,
+    "score_28d": 427.4,
     "filings_28d": 495,
-    "score_season": 445.9,
+    "score_season": 445.7,
     "filings_season": 515,
     "zone": "crisis",
     "weekly": [
      36.5,
-     124.1,
+     123.8,
      97.9,
      89.7,
      75.0
@@ -7242,8 +7242,8 @@
     "zone": "crisis",
     "weekly": [
      43.1,
-     70.0,
-     77.0,
+     69.9,
+     77.1,
      110.0,
      68.9
     ]
@@ -7272,7 +7272,7 @@
     "filings_season": 56,
     "zone": "crisis",
     "weekly": [
-     32.9,
+     33.0,
      15.1,
      29.5,
      20.9,
@@ -7304,7 +7304,7 @@
     "zone": "mid",
     "weekly": [
      71.2,
-     36.7,
+     36.6,
      14.3,
      31.7,
      51.3
@@ -7334,7 +7334,7 @@
     "filings_season": 113,
     "zone": "mid",
     "weekly": [
-     135.6,
+     135.7,
      32.8,
      22.7,
      49.3,
@@ -7366,8 +7366,8 @@
     "zone": "mid",
     "weekly": [
      86.1,
-     219.8,
-     152.0,
+     219.4,
+     152.1,
      125.4,
      37.7
     ]
@@ -7396,9 +7396,9 @@
     "filings_season": 178,
     "zone": "mid",
     "weekly": [
-     79.7,
-     93.0,
-     85.9,
+     79.8,
+     92.8,
+     86.0,
      48.7,
      35.1
     ]
@@ -7428,7 +7428,7 @@
     "zone": "mid",
     "weekly": [
      112.6,
-     59.4,
+     59.3,
      34.5,
      18.9,
      34.6
@@ -7440,10 +7440,10 @@
     "slug": "greece",
     "name": "Greece",
     "flag": "🇬🇷",
-    "score": 33.4,
+    "score": 33.2,
     "filings": 10,
     "points": 18.75,
-    "coverage": 31.6,
+    "coverage": 31.8,
     "form": [
      "L",
      "L",
@@ -7452,17 +7452,17 @@
      "D"
     ],
     "movement": 8,
-    "score_28d": 136.1,
+    "score_28d": 135.7,
     "filings_28d": 48,
-    "score_season": 161.9,
+    "score_season": 161.4,
     "filings_season": 59,
     "zone": "mid",
     "weekly": [
-     51.3,
-     63.2,
+     51.2,
+     62.9,
      18.1,
-     20.2,
-     30.6
+     20.1,
+     30.5
     ]
    },
    {
@@ -7471,10 +7471,10 @@
     "slug": "hungary",
     "name": "Hungary",
     "flag": "🇭🇺",
-    "score": 32.0,
+    "score": 31.9,
     "filings": 12,
     "points": 15.75,
-    "coverage": 24.2,
+    "coverage": 24.4,
     "form": [
      "D",
      "D",
@@ -7483,17 +7483,17 @@
      "L"
     ],
     "movement": 14,
-    "score_28d": 88.9,
+    "score_28d": 88.6,
     "filings_28d": 36,
-    "score_season": 97.1,
+    "score_season": 96.7,
     "filings_season": 38,
     "zone": "mid",
     "weekly": [
-     16.2,
-     28.6,
+     16.1,
+     28.5,
      13.8,
      11.5,
-     29.4
+     29.3
     ]
    },
    {
@@ -7520,8 +7520,8 @@
     "filings_season": 51,
     "zone": "mid",
     "weekly": [
-     113.0,
-     30.7,
+     113.1,
+     30.6,
      30.9,
      18.4,
      28.1
@@ -7533,10 +7533,10 @@
     "slug": "poland",
     "name": "Poland",
     "flag": "🇵🇱",
-    "score": 29.3,
+    "score": 29.2,
     "filings": 18,
     "points": 21.0,
-    "coverage": 51.4,
+    "coverage": 51.6,
     "form": [
      "L",
      "D",
@@ -7545,17 +7545,17 @@
      "D"
     ],
     "movement": -6,
-    "score_28d": 140.2,
+    "score_28d": 139.9,
     "filings_28d": 69,
-    "score_season": 158.7,
+    "score_season": 158.4,
     "filings_season": 81,
     "zone": "mid",
     "weekly": [
-     36.8,
+     36.7,
      18.4,
      24.5,
-     50.9,
-     26.9
+     50.8,
+     26.8
     ]
    },
    {
@@ -7583,7 +7583,7 @@
     "zone": "mid",
     "weekly": [
      19.9,
-     59.9,
+     59.8,
      12.8,
      51.1,
      26.6
@@ -7613,8 +7613,8 @@
     "filings_season": 56,
     "zone": "mid",
     "weekly": [
-     70.0,
-     12.1,
+     70.1,
+     12.0,
      21.8,
      24.4,
      20.7
@@ -7644,10 +7644,10 @@
     "filings_season": 66,
     "zone": "mid",
     "weekly": [
-     84.7,
+     84.8,
      34.3,
      6.8,
-     33.1,
+     33.2,
      20.5
     ]
    },
@@ -7675,8 +7675,8 @@
     "filings_season": 91,
     "zone": "mid",
     "weekly": [
-     59.6,
-     40.3,
+     59.7,
+     40.2,
      15.5,
      62.1,
      20.5
@@ -7707,7 +7707,7 @@
     "zone": "mid",
     "weekly": [
      24.4,
-     23.1,
+     23.0,
      20.4,
      8.5,
      18.6
@@ -7737,9 +7737,9 @@
     "filings_season": 21,
     "zone": "mid",
     "weekly": [
-     51.7,
+     51.8,
      16.9,
-     22.3,
+     22.4,
      7.0,
      15.9
     ]
@@ -7769,9 +7769,9 @@
     "zone": "mid",
     "weekly": [
      91.2,
-     43.0,
+     42.9,
      25.6,
-     167.2,
+     167.3,
      15.1
     ]
    },
@@ -7833,7 +7833,7 @@
      59.1,
      0.0,
      5.7,
-     16.0,
+     16.1,
      14.0
     ]
    },
@@ -7863,7 +7863,7 @@
     "weekly": [
      17.0,
      20.8,
-     49.9,
+     50.0,
      17.7,
      12.5
     ]
@@ -7874,10 +7874,10 @@
     "slug": "latvia",
     "name": "Latvia",
     "flag": "🇱🇻",
-    "score": 10.8,
+    "score": 10.7,
     "filings": 5,
     "points": 5.0,
-    "coverage": 21.6,
+    "coverage": 21.8,
     "form": [
      "L",
      "D",
@@ -7886,17 +7886,17 @@
      "D"
     ],
     "movement": 6,
-    "score_28d": 63.5,
+    "score_28d": 63.2,
     "filings_28d": 22,
-    "score_season": 79.1,
+    "score_season": 78.7,
     "filings_season": 27,
     "zone": "mid",
     "weekly": [
-     31.1,
-     13.9,
-     27.6,
+     30.9,
+     13.8,
+     27.5,
      3.5,
-     9.9
+     9.8
     ]
    },
    {
@@ -7986,7 +7986,7 @@
     "zone": "mid",
     "weekly": [
      7.1,
-     9.5,
+     9.4,
      2.7,
      14.5,
      6.6
@@ -8017,7 +8017,7 @@
     "zone": "fine",
     "weekly": [
      28.2,
-     108.6,
+     108.4,
      19.1,
      22.5,
      6.5
@@ -8079,7 +8079,7 @@
     "zone": "fine",
     "weekly": [
      45.1,
-     30.3,
+     30.2,
      13.3,
      14.8,
      4.6
@@ -8119,18 +8119,18 @@
   ]
  },
  "stats": {
-  "items_24h": 72,
-  "items_7d": 1665,
+  "items_24h": 73,
+  "items_7d": 1666,
   "severe_7d": 26,
   "by_category": {
    "inflation": 134,
    "debt": 64,
    "jobs": 147,
-   "energy": 153,
-   "housing": 138,
+   "energy": 152,
+   "housing": 140,
    "living": 84,
-   "government": 299,
-   "economy": 646
+   "government": 298,
+   "economy": 647
   },
   "most_filed_country": "ES"
  }
