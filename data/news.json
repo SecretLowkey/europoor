@@ -1,8 +1,994 @@
 {
- "generated": "2026-11-19T09:30:11Z",
+ "generated": "2026-11-19T15:38:26Z",
  "next_refresh_minutes": 15,
- "sources_count": 1990,
+ "sources_count": 2003,
  "items": [
+  {
+   "id": "40f83fcb03d2",
+   "title": "EU Commission partly grants Croatia's 2.67 bln euro payment request",
+   "source": "SeeNews",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjdibHFnRkZSdFowWkotaHo0UG9jSHY3WkRUOVptYUJwaU1XMDdHVFVRZmJ6aFpORkdLQWoxQmk0VC1CMkkwT2RJTlIxV05GS1MyV3I4Q09NLWNOZ2lpNW8yTTNmRUVQTVRPV29FWWtjcUMzRlNSUllFNkVxT1UzOWswdDJtM3o1aGVkaVJuNU1MNTNPZVNDYV94RW5oYm9Z?oc=5",
+   "published": "2026-11-19T15:20:28Z",
+   "category": "economy",
+   "countries": [
+    "HR",
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Classified as 'regrettable'. Filed alphabetically."
+  },
+  {
+   "id": "67a87433ece4",
+   "title": "Gender pay gap: French women work \"for free” from today",
+   "source": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdl96TExwRzhWbWFsWkV0TDR5OTdScW5EbmthRlRURWt4cnE5REFsRmhEbjVScmk1djBFLVpMNGFqb2s5b29fZENMLWl2THZqNmtJcS1nUHJabnd6WmxNVEtIZ1NfQkdFUXBvRmM2TE5EZmVmb2xHT3h2bkRJWUhsd0NxdjQtS2c?oc=5",
+   "published": "2026-11-19T15:13:29Z",
+   "category": "living",
+   "countries": [
+    "FR"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Purchasing power confirmed to exist, theoretically."
+  },
+  {
+   "id": "27db7566b71b",
+   "title": "OPINION: Foreign buyers helped rescue Spain’s property market but now face blame over its housing crisis",
+   "source": "Olive Press News Spain",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmYyUjU1VlZvdldESFRhNUpPempaZ1lERTBEY2tBdU5tWkhDc2h0THl6R29aWER4T0g0OFZES1Z1bXlzVGEzT2h3XzQtaWo3TzNoQl9sZlY2aWFHT3ZiZDBRUjVMM1Y0Z21YemFOcW5oYXptbXQxazRFQ1JrV0oxNzFzMkNvZFplcDRyUl91NENGZjY1?oc=5",
+   "published": "2026-11-19T15:10:00Z",
+   "category": "housing",
+   "countries": [
+    "ES"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Filed in triplicate. Two copies lost in a restructuring."
+  },
+  {
+   "id": "848dc37ea487",
+   "title": "Spain’s hard-left candidate proposes seizing 100,000 homes from vulture funds",
+   "source": "The Local Spain",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTThZRFVReUtmcTcyaGRIZXV1ZkpWTDU0N1JkbWgyTVk5YVZhNE1VWEZBLXF0V1FaQTI3a1BVMVZLcmVIczY1RDFHdDUwdzZVWDRWQ0lWbHRRRWR5ZTR1UkpJVkdOckMtZUFiaWUwVms4eFhjSTVoa0dSZ1ljY254S3RhVDdURG52OUQ4N0p5dXZESkp2NENIWDd6NWx2SjJEQ25pNDl5amI1OGZR?oc=5",
+   "published": "2026-11-19T14:59:52Z",
+   "category": "housing",
+   "countries": [
+    "ES"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Forwarded to the relevant committee, which is itself under review."
+  },
+  {
+   "id": "efbdb91ba6b8",
+   "title": "Agreement between Germany and the Italian bank Unicredit to unblock the first major merger in the European financial sector",
+   "source": "Diari ARA",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQb2RwUDVtMmpPc0tBUnMzZFhSczRNUmVVbV9WM0pWUGY5WEFIbFo3ODdBeWlyemczN1BwVGp0bFhMYnVlMURZa0w5NVVCbzhrdnFINEprUUJNY1BWczY1MVJQV2ZYMmRGdF82alFtNXdJak01YWZyRF9jVmp1ZU44a1d5LXI2S0tKSS1DcmpWOTZkZmxUNW5rWEJqVXJfMHNmSWtJTG1qNkE1b0t4cWJ0b2UtMWliWEI0S01EWkhFUUJpTHZTd2FzemtSM0RWMGptTkNRWGdweXNMcHIyWDVOaS1SemptVHNaNngycm44UGlSQ2FSUDhoLQ?oc=5",
+   "published": "2026-11-19T14:40:50Z",
+   "category": "economy",
+   "countries": [
+    "DE",
+    "IT",
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Classified as 'regrettable'. Filed alphabetically."
+  },
+  {
+   "id": "030115a54af5",
+   "title": "The Bundesbank sees another interest rate hike as a decisive signal against inflation",
+   "source": "Demócrata",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdHNid3I2MFcydHA3NThrejlTeVZFUEFSRmxQXzlnR2ROUWpnWU9RV2NpaVU2Q3M0SzlDTl9Bc3lpOWgtVVJzSG90SUFLWV9ZVFZzSWtWTUI0azFwNUstMXRTdktNNVFaSEc5Z1cyVTBid2phZXhLeGJOLXFCX0FOWG1sY2dzWG9uM3h2c2pua1doT3RXSVBMT29mekVIekkydUQwaUw1bWxidjVrSVJ5QlpqWlRWZlhpWE1qUUt3a9IBxAFBVV95cUxQS0xyUHdrRDFCT3cwSHdCUHJyNU5kNnFoZzNwVi1rX2lvSDd6TTBZOXBKSFdTbnpBejk0bVh5TFR1eHplZnBWQ0tXOFNDVEpJeURiMkdWaDhMc0VFNTUwb0hILUxIWE02dWxPNjdaeGNKRGRfNGgzcEpMX3lpTnQtT2FSMkVpY1UtVDJNRlgyZm4zNVdJTFBKclNuWS00ZDdQMUJlUE1SYUlmUkczSGdnVTYyVVdFcWM5NzFrNGNaQUJvRll5?oc=5",
+   "published": "2026-11-19T14:40:36Z",
+   "category": "economy",
+   "countries": [
+    "DE"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Assessment: not ideal. Further assessment: also not ideal."
+  },
+  {
+   "id": "f5e6ec58d385",
+   "title": "European truck and bus manufacturers urge EU policymakers to address barriers to zero-emission transport",
+   "source": "ACEA - European Automobile Manufacturers' Association",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdXVFT2ZzUGtrWEg1Xzh0dGR5cklwUzZCMkxaMFlBSDZUQ2FxWlNzWlAxRGtvN2RKenVGcXpLcGsyUlpjd0N0clJBMFRRT0xEc1Z2QkVkRW83WnZYMGdCYnl4UU1EeGo0VWlMQkFzOGtDR2Z3elRvTGVXV2lUMHJwZVlQVHE1eUhVVVMtaXFNT2RrLVo0YkhaUlRqa0lKZ1hRQjNaUzhVd1FCNHFQbGdJNk8zZDFiLTgxVnloRy1lTktBLXJuWmdUSThieFBCWUZaZ01ja1JCQl8?oc=5",
+   "published": "2026-11-19T14:21:21Z",
+   "category": "economy",
+   "countries": [
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Classified as 'regrettable'. Filed alphabetically."
+  },
+  {
+   "id": "2c892d273a27",
+   "title": "Fraport Greece forecasts 4.5% passenger growth in 2026",
+   "source": "eKathimerini.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHE2andzTl9MZmpyd3ltZFJPendOVjFRTHNIaFNzR3Q1Qm0zY2diV1p5Vk9xVmNLTmI3MDdvUW1TSnBwUjRRU2gyWkNHandEbGpvQ2JLNTZiRHFhNUkyVmFwOEhoRThJMnlpUGZOczJPR3EyZEJPSmUzZzZkT2JpMVNLREpGTjlsVnJ0YWw3QS1SUFRFQmsxODkzei0wcnZp?oc=5",
+   "published": "2026-11-19T14:18:43Z",
+   "category": "economy",
+   "countries": [
+    "GR"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Directorate notes: forecast revised, again."
+  },
+  {
+   "id": "e3a27eec380f",
+   "title": "Launching an Investment Fund in Luxembourg: What Sponsors Must Settle Before the First Closing",
+   "source": "TechBullion",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPblZGZXVBeFQ3aC0xb1VXLTlpcm94V1Jsd01iQTN1T1dMVHc2V2FsdHVZdWRhbjlzM2pXRy0yY0ZiSExNYkJ1VWpEYjVydDhQQXpQdU1mQnl1aTU1b2h2N3VDVUpoUHEzMEg5S0NQWlRudEI3eVN4TXV0WHgyeG9QbGRjMm5SQk1TdDVSN2R0MWU0YkFETzhHa3BOZlFBVnlkbC10OVJXbUJOTXRVTkhNN2JyTWVMakI4dlE?oc=5",
+   "published": "2026-11-19T14:08:28Z",
+   "category": "economy",
+   "countries": [
+    "LU"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Filed for completeness. Completeness remains elusive."
+  },
+  {
+   "id": "aba42d23b14b",
+   "title": "France: Retirees march against 2027 budget cuts",
+   "source": "France 24",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RZmxxYjRlTjV6Vk5sSl84SlhQQzE2TURGYnZybnFENVYzNjQtUnNTTEx6ZFFxWnBOTU5OSzJ4cWtucEtfTnZmTk1ZamUwLTZGbmtPSlZrWHFDdXpuVGRYYmJYV3ptYy14bGtMYll4TWo4UUFtcURHWU1EZnQ5aEk?oc=5",
+   "published": "2026-11-19T14:04:15Z",
+   "category": "government",
+   "countries": [
+    "FR"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Statement issued. Statement contained words."
+  },
+  {
+   "id": "2a1934350bad",
+   "title": "UK Government sets AR8 initial budget",
+   "source": "TGS 4C Offshore",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYTduZDR5NWRUZDZJYlNzeUQzZy1pSEtJTXo4a2FUaGlIS3VzYmxwdVJhejFlcWJMejZ4bnYwZXZQNWsyVjZoeVMzNXNmSWtDT1ZISVRvbUNyWGlJTDJvNV9ja2RKZ3EwZlJTYmNGWjVMSlE1UXJodk5oNG12YUxCcHl1UVB5bjZabHY0TWVFNWFsaFZIZE92Yk85SFlGcHJEMUJ0NVZ3?oc=5",
+   "published": "2026-11-19T14:04:02Z",
+   "category": "government",
+   "countries": [
+    "GB"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Nothing happened, officially. Minutes to follow."
+  },
+  {
+   "id": "8b21a3cc7c8f",
+   "title": "Archbishop’s Curia backs Green Ribbon campaign in support of non-EU workers",
+   "source": "Times of Malta",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdTZLMFU4OGJYeExxeGV0aDFfQjBNUmJRY0xwcHRLOFk3WHB1VmdpdW5aaFBOc0NZenlCOUFzd1BXMEdsOHVxR1o4QVNxZmFqSzZYVndTZTY5aGhUVkFGZjVwUjZsZ29DVDRBZ25SYkJkTWlzQ2JEV3hINXVSeFk2R1pjVnN2Q2JzSm5remlheEJQbFQyaXpVLXN1RlRqOXJsYnJNZ3pzQ1k4YTA?oc=5",
+   "published": "2026-11-19T13:51:00Z",
+   "category": "jobs",
+   "countries": [
+    "MT"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Filed for completeness. Completeness remains elusive."
+  },
+  {
+   "id": "5bcff3f87615",
+   "title": "Budget deficit reduction plan will be presented in spring – PM",
+   "source": "Delfi",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMTdjTUVESzU4QW92M2xKNW9UbF9sRU56YTBoQUstZlhBX19OMjV4NC0tdkxyXzRnZnh1ckhic3BIdTZqeWgzRVlGVENRNWlYUFR5b2N3NGh6eWdSMUU0NzNUYTBlN3FKN0ZzUENxU01XbTVjUEVfb2lvZlVscmxQT1Iyd3JWTUo4blV0Nk1RaTVmbktPc3hpbFI2dlpjMDdaOGpqNUp3?oc=5",
+   "published": "2026-11-19T13:43:23Z",
+   "category": "government",
+   "countries": [
+    "LT"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Ministers are monitoring the situation closely, from a safe distance."
+  },
+  {
+   "id": "8bb13c477434",
+   "title": "Hiring ICT talent from abroad: opportunities for Dutch firms",
+   "source": "Clingendael",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMXR0S0FidjRkVVVfLXFpUHFLNGpxQ2kwekV6aVp5WXI3cVNMT1dHenRudzhWRHVBN3pHV1QycGRtNDJvYkRJeG1IWFNESUt0MHlyUEkxNG4xdFJqcWxMbE93RnlDNWFYTmNoT18yRnVBYUdURlBGbmtyZkhSODNma29jdTlFRkI1eXJlR3dwQlZNMFla?oc=5",
+   "published": "2026-11-19T13:40:59Z",
+   "category": "jobs",
+   "countries": [
+    "NL"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Status: noted, minuted, ignored."
+  },
+  {
+   "id": "ee063e4c00b1",
+   "title": "The UK Budget has set the direction for AI. Now government must deliver.",
+   "source": "Global Government Forum",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUllQnIzV3gzOV9XajV2T1l5OFFKYTFXQm42dkg2UVZGbzNqMUJYSHFueUprR29CaVhxV2syT0l3SkJOajduSWtYQ0dyTjNHTGNzZWJubnByVDBpUUFubV9DR09NRWJ5VERyTEdtMHd2QTEzQmFIVm9XV2kxR3ZxSmw2NUNzSkhRYmY0UGFsYXBzNEtFZ0VSaktxbVNmZmd5c21hcGcyU1EtT0pvcHc?oc=5",
+   "published": "2026-11-19T13:21:42Z",
+   "category": "government",
+   "countries": [
+    "GB"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Action: a working group will be convened to consider convening a working group."
+  },
+  {
+   "id": "d93a907c6b0b",
+   "title": "Cyprus and US Energy Ministers discuss GSI at meeting in Warsaw",
+   "source": "Cyprus Business News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVluT2hrT1Z4LXdMMmZDcmgtMW1PS3RqS0xRN21aRDZTQ2piTTZrTGZoSFR0TWVUZXR5TUtwUXJ5VW4yV1gxMWVlV3MxcTlsb1dUMndaaUdsOHRlOHNrRk9PSzk3SXl6SzJwckhVTWI3ZWhJZ1JmaG55MVhpYWJzT29XUVAtckdDaXZvT25DVEEybjE5LWM1OGhkQlpjbjVFdmhR?oc=5",
+   "published": "2026-11-19T13:21:16Z",
+   "category": "energy",
+   "countries": [
+    "CY",
+    "PL"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Classified as 'regrettable'. Filed alphabetically."
+  },
+  {
+   "id": "c92838fec6ef",
+   "title": "UK Travel & Tourism Faces 925,000-Worker Shortfall by 2036, Putting US$84 Billion in Economic Contribution at Risk",
+   "source": "Hospitality Net",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYlFvRnp3WkxSUzRDc0VqQnN2ajREWlZHVFVjZDF4WFhVbHBSU0xtUk4xNWtGTHZleGxzLU5KQlJsVUctNDhkMnZJYzRJemhuZTJWanRzUlFtR2FrLWZhN1Y5NVhOdm9wYktmcmRyZUxRMkgxNHJIb08zX0ZpaXlKblVvYk4ySmNRTjhHLUN1ekFiZ2xwaktpWFc4LWNwTGk0RDliYWR1MVdsSlJNU2Z3VVl6Y1p3OUFwSGJvSjEzUUM3bzdYd3JZdXJUWTdaTlM0QWJVMUlfN25JUUdmZTRGM3FrVVFsNnlj?oc=5",
+   "published": "2026-11-19T13:16:46Z",
+   "category": "economy",
+   "countries": [
+    "GB"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Action: a working group will be convened to consider convening a working group."
+  },
+  {
+   "id": "6d830953b975",
+   "title": "UK government will not set budget for renewables auction – for now",
+   "source": "Recharge News",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWGdtdXAwS2FTUTJXQ3AzYmVHeDYxQVllZXRVTWl2bDU4OV9Na1JHaGF2TjBoaXlDYWtfNTg3cGxTTVJkamdXR002N3NGMW41Y3Z1ZGlEa25TcnQwT2tkR0hzZVVOTmtRTXZpZi1jZFRZOHhmQnpLVzlWUmxDLUxJSEhYRVVtTXVTVEZEZmdkVE41YWU2RV9SQ0FYbGs3X3l2TlVvZmlSVnhnWTV2U0dCN1B3eEI?oc=5",
+   "published": "2026-11-19T13:13:36Z",
+   "category": "government",
+   "countries": [
+    "GB"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Filed for completeness. Completeness remains elusive."
+  },
+  {
+   "id": "33e0278e8d5d",
+   "title": "Dm Croatia's FY 2025/2026 sales rise 10.6%",
+   "source": "SeeNews",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmc2OEt4cEFNTHZwNHgtNThiVk9CVXVTclVNT2ZyMzludFZkMHB5anVxTDh1aFVPMFNELS1FQjJ6S0VzUnVLOFAzY09yc3dzekd5aVlrVnM1Y1hxUmJnWHFLd09hZ1BlZkJCbUtZaHlNazlkOXB1MTQyRnNXZFd0eDBjeFNCTHM?oc=5",
+   "published": "2026-11-19T13:13:14Z",
+   "category": "economy",
+   "countries": [
+    "HR"
+   ],
+   "severity": 0,
+   "direction": "up",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Good news received. Verified twice. Filed under 'anomalies'."
+  },
+  {
+   "id": "a7645b6cf557",
+   "title": "Netherlands and Spain challenge EU over €2.5 billion in loans to Africa's second-largest economy despite 85,734 drop in welfare households",
+   "source": "Business Insider Africa",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVpMLVp5dWNVY2FwcFdsdEZsSnAzVzhCTjA3NjZ1bVVzcW9FanBJNFlSOVJfSE9pZUdCWWE3WWIxYkRUUm9LV1diLVZDZ0x4cmhkVk9COFpRU1BVUm11NUJIajRmd05Nck9tLUsxSmVIZHFhd2k3Zm9oQzVaR2xlSEgxV21BU0JxYzF6R2h0dG91ei1POEFQY2kyMHozRU8wUmJwaXAtRFVHY2lHV1lDOWJhejliSkJLYzFHRno5T0NGTWN4TjNhaHZRTnhMUHJxNEQ0?oc=5",
+   "published": "2026-11-19T13:04:37Z",
+   "category": "living",
+   "countries": [
+    "NL",
+    "ES",
+    "EU"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "The squeeze continues. The Directorate regrets the word 'continues'."
+  },
+  {
+   "id": "3d4bbf3c86b4",
+   "title": "Bulgaria’s draft 2027 budget has merits, but shies away from major reforms",
+   "source": "БНР Новини",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc0lLRmxaVEtoZXBzSlFabjJMMENqX2tCZzVjRUtXNWdyWVhVZ3hMcVVYSWMxcjNveFVsaGZyNGNLcFE3NjB1OUZ1Qlk4WEt1VGRZYUNrU01BdjhnNktuUlRiYUh2dTRIOEZCdXBXdlNlUWh2Y3pXZVRCQ20yM3I1LUJWZ3A5YWxDa2pISHh4UW1KY0YxUDl6djF3SURCMnY3by1VVjhod3JOZw?oc=5",
+   "published": "2026-11-19T13:01:24Z",
+   "category": "government",
+   "countries": [
+    "BG"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Forwarded to the relevant committee, which is itself under review."
+  },
+  {
+   "id": "176f06366da2",
+   "title": "OECD Meets Iceland: Let’s Talk Trade",
+   "source": "Iceland Review",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmItSEdrS1dvU0RCMWwtTlhYNjUzYUNfbWpnOUZ3N0l2T1FwZFFnbHBsZVJ1QlZ1TUFKTnd5UWxGb3dZZnAyMWJQdjdhb3pSZTVtdFF2aWhrcEdmeTkwZGdpYXcwb0hLYjJQY1dONHFGZkE0VGRGMzZGTmVfY1MtZzFZaXM0bDI3?oc=5",
+   "published": "2026-11-19T13:00:34Z",
+   "category": "economy",
+   "countries": [
+    "IS"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Nothing happened, officially. Minutes to follow."
+  },
+  {
+   "id": "301047be4a11",
+   "title": "UK Sets Nominal £1 Renewables Auction Budget as Grid Costs Soar",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZzNTR1JMbkllTW0xTDNlQ1NDZjdWUG9DdHY3bXRudkdrNHdzUWg5VXQ0QnQ0dEZiUS1VREFKVS1qOF9pM1NGNlBWak9ub05YQ1ptSGowS19KN29oUmJVQVBaY1ZoMmVzLXhkcnVkb29tZDNkU0lmdUVEaW9IckMwSXduWlRQSTR5RUc3U0ZsOTlFMzNyaTVXekR3dFlJbU1YUk5vQUlsOHJTbnZOUVp5bnU1ZDM5R2VXS2VjQldrMll1UkFXaGxaUmpsZ0pkWjQ?oc=5",
+   "published": "2026-11-19T13:00:00Z",
+   "category": "energy",
+   "countries": [
+    "GB"
+   ],
+   "severity": 2,
+   "direction": "down",
+   "points": 2.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Classified as 'regrettable'. Filed alphabetically."
+  },
+  {
+   "id": "deeb1a58b282",
+   "title": "Lithuanian parliament sends 2027 budget back to government amid criticism",
+   "source": "LRT",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSWdCczExNmlDcC0tNGxFZHVFcTZwR1JBQm1IZjdMR3YtNzhTMER0d2pRSEYwTGxsM09UMzNQMGtqV3JIWldocWxuZENrbENkb2V4N0VlNUptYlltMXpXd3NPcmZBTWU1a0QwVnNyT29sMXZ5Nk1QNU16aWZrMmdiay1EaWtvNl9QOEdKMXVyaV9ZMUh4LWNyYzVUdGNKN28yT2ZhRXBYYnZadXViYlpaNlZQVVl6RFp0QzdWR1M3OA?oc=5",
+   "published": "2026-11-19T12:46:00Z",
+   "category": "government",
+   "countries": [
+    "LT"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Filed for completeness. Completeness remains elusive."
+  },
+  {
+   "id": "cf51b4e58e7f",
+   "title": "Germany's Bike Industry Loses €2 Billion in Revenue and 2,400 Jobs as Post-Pandemic Slump Continues",
+   "source": "TodoMountainBike",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2s0SmdEMUVyTU9HcDVJcVdwQ1R4a2ViYk5vYjVEQW5JZ19fNFRfY3JNWWVRNWpCeGxZLUwzVDN1d2llMmE1TkYyOGZZdnZiNVdzbll3WjJfSGE0SEg2Wkc2Z0VseHQ0MUxBeXRCRTZtQUhsMzkyeVNQWjE2MU1tbi1OQmI0am4t?oc=5",
+   "published": "2026-11-19T12:34:22Z",
+   "category": "economy",
+   "countries": [
+    "DE"
+   ],
+   "severity": 3,
+   "direction": "down",
+   "points": 3.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Upgraded from 'concerning' to 'deeply concerning'. Stationery order placed."
+  },
+  {
+   "id": "a847a0652fb2",
+   "title": "ECB’s Nagel Says December Rate Hike Would Send Clear Signal",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzdveHVtY29ENG9EWkRTNS1TbTBuWTN5bkU0dDlUWUNhTnFPWUdMMnc1M3BaN0Y1aVg3OElXcnVwMDNNV3R4M01WQkJPbzI3VkdsMWlvMlRjZGYwbE9MU0piSWU3TEZURzd1UXBuT25TZWNhU29BZUh0X2loUTVtU2tCRW1Ld1NjYjZzeHNXQmVVV3luQkc2TTFnaUx1OEc5b2wzUFY2ZEJyUi1IdU5J?oc=5",
+   "published": "2026-11-19T12:30:00Z",
+   "category": "economy",
+   "countries": [
+    "EU"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Stamped, scanned and placed in the tray marked 'eventually'."
+  },
+  {
+   "id": "1047fcd314ab",
+   "title": "Graduate unemployment reaches record high in Germany | DW News",
+   "source": "Modern Ghana",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9IMURQdngtRklFVE82TGpxTGRSSEZJNGQ5VTFYR2hUdWxSVVRwRDQ5MHNGRm44TUlfMDZSai03UEFMUDJMNEQ1UUN6aENLX0hCcHc4R2NFN3pWOG5BbXfSAVxBVV95cUxOOF9LRFBnUkpzdFlNdG1PcjdFT3dzN19lekJpRXNDQU5jWmhIOGQ0MFNhOERwcm5YaHlydnBUV2hYMU9VSklHd1J4RVo1NS1LX0JFMngwYy1kZU1YbQ?oc=5",
+   "published": "2026-11-19T12:30:00Z",
+   "category": "jobs",
+   "countries": [
+    "DE"
+   ],
+   "severity": 3,
+   "direction": "down",
+   "points": 3.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Labour market described as 'adjusting'. The adjusted were not consulted."
+  },
+  {
+   "id": "0e1ffe1b70f3",
+   "title": "India and Italy Target €20 Billion Trade by 2029; Focus on Manufacturing and Investment",
+   "source": "nationpathindia.com",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1ZkaFg0bEQwcTc3OFpza0NPWXdOWGdYTi1MZ3FmUm16Q0hsRElJOEdDMHJ5WVBUdnIzSmNad0JRdUhaTzhRMW5SUkFvQklNVnZTeFh6b3RpNERYazNEQU45czdFUkU2VTFFTV9pRHZlNGhnZ1QzRXFuU0FTUTIzdDV3QmkzeV9GNTM2cWZhak9ZbEE4ZVZ1SXRwSC1mWFVS?oc=5",
+   "published": "2026-11-19T12:28:40Z",
+   "category": "economy",
+   "countries": [
+    "IT"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Statement issued. Statement contained words."
+  },
+  {
+   "id": "aa70ce8f0c02",
+   "title": "Audi and BMW plants face stoppages as German labor fight spreads",
+   "source": "Automotive News",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZURWTjB1UFVCTjNCNy1vZUNULUdtWDJoNk5EUFloQkd4d1BkOFZScGNFekFYQ29vRTM5UnZkTHM0UXY2TEhqQWlVd1ZIQkJXbk9ralJrSHc1T2lvbW5CbWMtNmtYLWRiaUVoWjg0VXlXY1h6b3dpZ2RWY3RaZXNySDE3R3NqVEM1?oc=5",
+   "published": "2026-11-19T12:23:00Z",
+   "category": "debt",
+   "countries": [
+    "DE"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Spread widening noted. Spreadsheet widening also noted."
+  },
+  {
+   "id": "04b426e9afa3",
+   "title": "Brussels weighs a strategic gas reserve. Europe enters winter with less in storage than last year",
+   "source": "oEnergetice.cz",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM0JkZ2lEbi1ROFlvQjBmT2k2R3hZcWMybHB5WjZzX2RwQzJlaFBrYmdoZ0VPNTd3QXNUcVNLdVhfVXFzbUt5cS1Mb2dyZlAxS29TRXBoSkxqTDhsWVlseVNDeUJLOVducmRwU0xhNkgwS0pxdkJtbThFMWtsYXMxaGEzWjRMWjFFZDE1bEtUTTdEWlFheVZhRzhCRDR5Um83b3FEUmFlcldXa2NDT2YtM1VOVF9sWXFKYmpJQnZJdlhTUndzVjVwSFhvdVZDTTQ?oc=5",
+   "published": "2026-11-19T12:12:00Z",
+   "category": "energy",
+   "countries": [
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Status: noted, minuted, ignored."
+  },
+  {
+   "id": "c4296e0c59b5",
+   "title": "UK October CPI Rises to 3.6%, a One-Year High; Cooling Services Inflation Dampens December Rate-Hike Expectations",
+   "source": "finance.biggo.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SX2FLZGlyd2Yza1lXSV9KNkZlRGNscl9WYUN4amFRZlZTbHJiMUN5Z0tnZDhkSkhHUnZlSzZJR2V2OUlVcDZvU0JrV2cwU3BjeGN6REg0WWl1SHhXa1hSSm81V2szc0d5YjZucjRzTFAycHBjX1E?oc=5",
+   "published": "2026-11-19T12:05:00Z",
+   "category": "inflation",
+   "countries": [
+    "GB"
+   ],
+   "severity": 0,
+   "direction": "up",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "A rare positive filing. Staff have been asked to remain calm."
+  },
+  {
+   "id": "c9578419faaa",
+   "title": "UK business births rise to 326,000 as deaths fall to 271,000",
+   "source": "ABC Money",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNGlEdERWOXNUcGtpVnlSek05RW5obmh1Z3E5OWFmRkFDWWlOUlhTRk1OMG9DQTRzQlVaOFR3SGJfcnhNd2dwMGdYR2tyYmUyUFlZTnl1R0pGeXR1cmxwRHhEc0VZeGpJVXYxbVROVGh3QVo0Q1kteDNQYkswSW9MTzNieUk5bWRsTmYyM3FR?oc=5",
+   "published": "2026-11-19T11:47:36Z",
+   "category": "economy",
+   "countries": [
+    "GB"
+   ],
+   "severity": 0,
+   "direction": "up",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "A rare positive filing. Staff have been asked to remain calm."
+  },
+  {
+   "id": "b96e866dc87c",
+   "title": "Has Grand Theft Auto 6 really hijacked the economy?",
+   "source": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWmtjUG5kMUhIWHp3dkN2Uk9fYmRxSUR6M0VCajhSQ0kzOEVHR0c0SjVINnM1cVpJZHVuTXpacF8xLTVxeUdNa3pJSDhnVGZva1dPT1A3dFZQV3ZCeGFUdDFQSFhoT2pfc3RQRHhvRzFIRmRGb09rdEw5MzVNQlhRLU8wUHFwMHgwa0VfN240Tlc2eGk4STJZM0E0eEw4Q2g0QUw2QWFNaXNhdw?oc=5",
+   "published": "2026-11-19T11:37:00Z",
+   "category": "economy",
+   "countries": [
+    "GB"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Action: a working group will be convened to consider convening a working group."
+  },
+  {
+   "id": "8a1afe9dbda1",
+   "title": "Eurozone construction output edges up in September",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMWpmUGN1WjRiR0phTlU1eVBJejV6ZkN3dGVMSHhicjV0Z2VVMjkyN2ljb2xQLTd6QjdlTXJhV1ZRSEFUMXlKM1VYVFprTUpuc2NPSU9vZi1kd3pRdkpfZ0h4MV9NdjNfTm5IbjFDV3B3T2ZubWlWM3NMcU9fTVByVDFhWFkzMkNid3gwcmUyN25VVnl2VDA0UGdPM3ZhdmJnS2VsUA?oc=5",
+   "published": "2026-11-19T11:28:49Z",
+   "category": "economy",
+   "countries": [
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "up",
+   "points": 0.0,
+   "corroboration": 2,
+   "also": [
+    {
+     "source": "Sharecast.com",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUVZnTmtLbTJkM3hVQ3ZROGd3akltTy1HZExqaW9VYTFILWthNTJWUnNnVEQ3TjdBRGU5bnVlNEFyTk83bDRkTENYaEFCYlJLb2duUVVJSElzeDN1Z3VyWXBEbElwN0NkS3RQV1V2SzB1SXJDdkhsWW4zbElFcVMzaWV1d3FFQ29VV3R3TU1tWXllT0Z1RVNNQURNSGtCSkRRcWlvUGNPYVNrODlsb3hlQUUxdlpzeTM1S18tWE5yVmlRTUJxYU5LMU50bFEwTTdvR3V3V3lndFM?oc=5"
+    }
+   ],
+   "memo": "Positive development logged. Ministers will claim it shortly."
+  },
+  {
+   "id": "e5a896373ae9",
+   "title": "Portuguese families could spend 83% of average net income on rent, study finds",
+   "source": "Euronews",
+   "url": "https://www.euronews.com/2026/11/19/portuguese-families-spend-83-of-net-income-on-rent-idealista-study-finds",
+   "published": "2026-11-19T11:28:30Z",
+   "category": "housing",
+   "countries": [
+    "PT"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Filed for completeness. Completeness remains elusive."
+  },
+  {
+   "id": "e61e9eac178b",
+   "title": "The price of owning everything: Protecting Norway's sovereign wealth from systemic risks",
+   "source": "Institute for Energy Economics and Financial Analysis (IEEFA)",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcUFmay1hOTRiTzlfT1VrUEx3OWNpcFNYd2N6TEtZSkp1T1FtYWZQZm1JeFRQVjBNNGxMMzRhNVdHWjA1X2t1YmYtVTEzZWpJRWJxTVBSVjc4clN1YjR2RmFGZHFHNnBDSzhVWjB6ckU5WGdkVEx2b3V2TTdwZWkyZ2xDQmF2V0pheGw1TEtWN0ZJWWRqVnkwVXF3Vm9YS2JLTFo5Tg?oc=5",
+   "published": "2026-11-19T11:27:13Z",
+   "category": "debt",
+   "countries": [
+    "NO"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Status: noted, minuted, ignored."
+  },
+  {
+   "id": "f0d8162baa14",
+   "title": "University students protest against tuition and cost of living in Lisbon",
+   "source": "China Daily",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94VVRnTEJ2STNfVlg2NTIyYmwyallWNzd1WkhyVUdGZHUzQU9EeGh4d1pOcjZlUkR1bWJYdFJRUGM0RWw4MHdzWVdlSEZGMVhDdUVaRjNYbHRLei1kZXlrS2NxcUxzYlRwZng5c3hnWkZYa05HdjFQSFZYVlA2dw?oc=5",
+   "published": "2026-11-19T11:26:58Z",
+   "category": "living",
+   "countries": [
+    "PT"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "The squeeze continues. The Directorate regrets the word 'continues'."
+  },
+  {
+   "id": "8006eb0e51c6",
+   "title": "Eurostat: EU agricultural output value rises 4.8% to record €558.7 billion",
+   "source": "Dairy News Today",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMGdYV3BONkU5ckdVY3dhemZOMHF4RlBKZGlzMXFCaWRDVkFrdWNuYm9jbEhaVVdMUHdyazhWdGJQbFBlNEQ2dXVNak5MTTg2TTI3a2drTDBsZExmRGs5OEs2NzZ4Y2VLVm81a08zSDVjNVQ3QnZkMTlxVHIxSWhPeEtMNDBnTjlvSV9pR3pNaXF1OXFFUHgzZ1lNcVg3X0l0NlA5cDlReExyNWotVlF2bEoyUE1fRXBSeXh4dQ?oc=5",
+   "published": "2026-11-19T11:26:24Z",
+   "category": "economy",
+   "countries": [
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "up",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Improvement noted. Not to be confused with a trend."
+  },
+  {
+   "id": "3e55c99d7be9",
+   "title": "Spain’s Election Race Tightens As Sánchez Ramps Up Spending",
+   "source": "tovima.com",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVJUU0MzWG9Hbkg3WTBZZjNrTXY2aVFNODNRRGNkX04zYzZKbS1XNm5ldE0tZ1d3bkVnTFloN0ZOTUEzXzgxeVJEYThDYWVYYVpCVDJHOXNJQWJYUzU1ZjI3eHNIcTRCSVRNUUFBd2o5XzFWeUVqNHBjVWpoUnZIN1hQZ0NoVWtweWMtZFJHX0kzUQ?oc=5",
+   "published": "2026-11-19T11:20:26Z",
+   "category": "government",
+   "countries": [
+    "ES"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Directorate notes: the trend remains, regrettably, a trend."
+  },
+  {
+   "id": "f08fdf4c069f",
+   "title": "Citi Sees Romanian Carry Appeal With Budget Key for Bond Rally",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUDRJTG9NYlV2bWlzT2pVV3dxbVJuTkItb3RDVjYyejNCWG1hYUNPX2Vhb29waThUbFB5RHJUelh0bEF6UXg0VmxUQ3E2cVkwaThBYlRpaWxkUGpBOWJ4OTRnVFBIYURlZG01a2dNSWRWWUdlUXFSVzRKYlZmVjhRTDAtWG00cG5BbGVWcXRpYzhEWUhGX2MwVF9hT0thMlNZRTlKTktFZmhQYXdJelVFbnd1UQ?oc=5",
+   "published": "2026-11-19T11:15:21Z",
+   "category": "government",
+   "countries": [
+    "RO"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Statement issued. Statement contained words."
+  },
+  {
+   "id": "89ce42d8bb8c",
+   "title": "Wales imports England’s inflation guesswork",
+   "source": "Wonkhe",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE44RU1qUlpBZ1hObnpwX1RRUVFPMXFheGt1TGxjeFBqc0xwdHljN21lZ05EUmYxZFZtTFFlaGY2b3lyVE02dlctQTZOZFc1Y2IwTWRZcFBvM2tuRGhSVW9hYU11OTRxWGVocHVqSFZsVEZfdE1VN09mUGI3N1Rwdw?oc=5",
+   "published": "2026-11-19T11:04:42Z",
+   "category": "inflation",
+   "countries": [
+    "GB"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Action: a working group will be convened to consider convening a working group."
+  },
+  {
+   "id": "73ccb34a0ac3",
+   "title": "Stormont faces ‘impending crisis’ if budget not agreed, Sir Chris Bryant warns",
+   "source": "Belfast Live",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakdOelhqcmgxWE1MeTR3Qmtua3Z4T3FUanc5eF9jT2lCc0w5NXlkc2VuUUw0UkxKaldqVGdCbUNreHpEcFZjYWV1SWY5eWFDb3NKZTdjOUZteVNrYVotNXBtYmRtT3NSQ1dJc1d4cVBhX201aUgyUG5lWXQ4SHFjUXNwcm1BMTRZemV6OWdrd0k0YlVKNEFkMS1oY9IBoAFBVV95cUxQaUc2eUNPZ2g2YXliTmtDRmtmTXB1X0pDTFNLY2NMQXg4dlBwMUMzakh3S0JVYkV4XzNRajBEaWtzdXo2aXhfSGZpYnd1OFBZWVJGYTNCc2EwenByTDkxN2ZfU05ONE0xS3dmMmU2a2Z3RVZEWlRaQmxmdzVwb3hXTGtyaHRSSG1lMEZvZngtb3BVdllwQmJwZlV6YU5GVjJQ?oc=5",
+   "published": "2026-11-19T10:51:00Z",
+   "category": "government",
+   "countries": [
+    "GB"
+   ],
+   "severity": 2,
+   "direction": "down",
+   "points": 2.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Ministers are monitoring the situation closely, from a safe distance."
+  },
+  {
+   "id": "fdd150052e3a",
+   "title": "Tories say PM not prioritising cost of living crisis",
+   "source": "ITN",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlQ2MXA4eEplYVBUWEVub2tDQ0NvY0pZRHEwWEZZeV9kT0Z0clU2QjNoOU10MGxTeERkSWZKcWlEdlVNSERBRXd1cXlaZzh2d041R1REN1FGOXBTQ2k5Q1JTY1YwdzRDVDN0ZEJQOUVoNFZZeDhkX0V5NFJpTWFFYVBhQ3U?oc=5",
+   "published": "2026-11-19T10:27:32Z",
+   "category": "living",
+   "countries": [
+    "GB"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Cross-referenced with last year's file. It is the same file."
+  },
+  {
+   "id": "8d7e0b3deb5f",
+   "title": "Employers Urged To Act As Workplace Conflict Costs Northern Ireland Economy",
+   "source": "Business Eye Magazine",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN2kxakRNZEphNHdScmhRSWlJd01Zd2Jjbll2QTFSNDB6Y0JwM3AyY25ncHhXYlAwMC10Ym9UZS1QbDBxbWoxSlhmc0tWYTllUEEyLVhTM3ZlRENxMUhvZDRNdEhuM01HNDE3RG8xRVNLQlh2TWNzZWxFTzdDdFp6a3hNQ0hINWw2ckNmV1lkNEk5VkNvQ1RYMG00M1J3ejdxSXRFMU5VeTZXUUMybEx1YQ?oc=5",
+   "published": "2026-11-19T10:27:14Z",
+   "category": "jobs",
+   "countries": [
+    "GB"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Forwarded to the relevant committee, which is itself under review."
+  },
+  {
+   "id": "2e01239e61d3",
+   "title": "PM Niculescu: Romania-France economic relation is doing very well; trade exceeds 13 billion euros",
+   "source": "Agerpres",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZkxmMnNhZnJpV0xtWTBaTTRqLVVVXzFCdjlrSUdIRktrck1PVjA2MEU0ZVZwM3A5ajhZbE5URDVLODFBVHRRMDY3OE90ai16dU9GNGpjSkhlZ2Y0Qnl4Y3c5VS0ydzZEY3JWbWxiVG9qRzdnYUJoVzBKTXNpcnU5S0RuSEJYVTJDVUx6WkZnUVlPR0l6Vi10MmJQSmxOODMxTFZ1V3FPaU1RVHNsQjRfRXotY05DRVZOdHNraGFINl9qV3B2cnpoMnFQVVNZZWpUZ0xvanJ3VzBiZWc?oc=5",
+   "published": "2026-11-19T10:20:04Z",
+   "category": "economy",
+   "countries": [
+    "RO"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Status: noted, minuted, ignored."
+  },
+  {
+   "id": "411389a424a6",
+   "title": "Average gender employment gap in EU regions at 9.7 pp",
+   "source": "European Commission",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94dl9IYVFEaEhCSFgtZ3FpcWJDRDY2azdsNHhqZVdOQ01sZThLMzJoWkhWMWw1SjRORmhWN0lzQWRVaThZWEZLa2VRUmQ0aGZlb2pvVWtJQkdHR1ZXbTJYc1ZoN3ltcGw5RFlrQ1FQUkpwVWlPa084OERvYmh1QQ?oc=5",
+   "published": "2026-11-19T10:16:43Z",
+   "category": "jobs",
+   "countries": [
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Status: noted, minuted, ignored."
+  },
+  {
+   "id": "fce00ca8a891",
+   "title": "ECB’s Kocher Warns Changing Climate Is Impacting Monetary Policy",
+   "source": "Bloomberg.com",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRVVRbFFvU3ZPNWlmTHFvU1JzSm9FMW5yRXlqRkk0eWMyTkNORHBuN24wSXI4VTlpR0pqRzh1SWllb1gxXzFyU05WOUh6SWl1Skdvell5dFl3NVBZczJETUhLckpORGhPS3RiWVpfRjdha3psMG00Yy03QTBEMHl4NlNPclRCT21kMXN1YWFnV2RNVXVDTWxoYk5TNWxjOFp1NFJ6YmhBaUthbkltbG14eVJSUVpVQQ?oc=5",
+   "published": "2026-11-19T10:14:57Z",
+   "category": "economy",
+   "countries": [
+    "EU"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Cross-referenced with last year's file. It is the same file."
+  },
+  {
+   "id": "2ff44c7faeba",
+   "title": "+58%, +44%, +38%: Which UK stocks are rising as inflation hits a one-year high",
+   "source": "Investing.com UK",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZUtOVUlCRnA3ZVRQQ2phZ0hKUlZmUFE0czFWUk43aHBwbjFTVzRyc0E1Z2hfQjd6VGFVNGlxU1FRTzJiNGRjRURnbUNnTHNEZXVtb3BzWFR3YTh4T1NLV01zdWJWNGpYbFZGZGN2U1JEczVQR2tNUW8zMGtmZDhmSFdXMFFXYTl5MXoxSXRqZmlpNjZFSVRXaWJTdC1qNHMyQkY5R0NFX1c1V2FPQ01ycGNKUWphTFRRb1IzcjNfM0VrZw?oc=5",
+   "published": "2026-11-19T10:11:00Z",
+   "category": "inflation",
+   "countries": [
+    "GB"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Price stability remains the objective. Prices remain unaware of this."
+  },
+  {
+   "id": "540f3f82c6bf",
+   "title": "Germany sees Azerbaijan as key energy partner, seeks closer economic ties",
+   "source": "Yahoo",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdDZSZVFrNzB0UWRMTTBkaWJIWURlUGZXbWJ0akpHVEJIOUpLQXp3TFZPQjcya2ZGOVNYUklaLXhybjl6LWxUVHg1MWpsbmoxRnNQNTNFLXVDOHRvRkIxWkJzeS0wYzZpOVkwYTYzUmV3Szh3RlMyM1REaWplNHl3di10N2FsRm9TM0FRR3BBUDczeVR1Z0E?oc=5",
+   "published": "2026-11-19T10:06:27Z",
+   "category": "energy",
+   "countries": [
+    "DE"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Statement issued. Statement contained words."
+  },
+  {
+   "id": "10e68bf7ec44",
+   "title": "Sterling Slipped, But Markets Still Like The BoE Story",
+   "source": "Finimize",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPanhrbUl5c0FjXzY4OUhVVmc0NTJwNnVyVU9fd3dCa1o5Z2RNQTRNWlJGbVZWeEpUQXFZMUppN0tnT3NRbks3QVlEZkFWaHM4d0NYZDBFMS1RYm1hS1hmT2kzeVhxcU5nYlJnUV9yUW04TXF2aHljVm5uamlQaXFmejdxNC1ITm0zdFE?oc=5",
+   "published": "2026-11-19T10:05:35Z",
+   "category": "economy",
+   "countries": [
+    "GB"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Classified as 'regrettable'. Filed alphabetically."
+  },
+  {
+   "id": "48d717b5bc3e",
+   "title": "Hold Your Horses: Iceland Keeps Interest Rate at 8%",
+   "source": "Iceland Review",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFBfeC1hd3VaaGRsdTRScGVPRjhGRC1sSGFZSFplNjhmejJsOUhxUC1FcWdEdGxGMDczUnU4QlFvTGVNekVuOEJvNWxTbDM1aXpmT0NtRmhmVDNtX0hxR2x1ajRoQklrYXNMSnU3bWhDanh5TktpdjZKSTJKT1EyakFsakNBdmRa?oc=5",
+   "published": "2026-11-19T10:00:32Z",
+   "category": "economy",
+   "countries": [
+    "IS"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Officially a 'soft patch'. The patch now covers most of the map."
+  },
+  {
+   "id": "cfbfb677af4a",
+   "title": "Wicklow consultancy taps into Northern Ireland’s ‘blue economy’ as new Belfast hub brings 12 jobs",
+   "source": "The Irish News",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOS1ZZa3lXT0p2NFZpWHpTNGhJVG1ydC1zOXVzclU2a0J1SkY5WGtTSlUwUkFrQ0tDRHRSX1NvVEMyeGdxVkRIa09WeTFRMUpLM1Exd0Z6RU5zaWVDTHByUjAwMVBVR191NENYQ2laMlZmT0lJZUxCMWZvM1pDbEtTZ3JfdF9UT2FYZHJFM1dMd2VBLTVYRVpBczlYWVdObWZ6dUxrVjMxbnlFZDYwVFRLTW55a2twQnNyWUF1cTZaVFNDZ2FVdU1YVGI4TWsxMXh5azJlMU9NTlg4dHUtV0Y5VFF5dmJTMmdTTzBIQXBxdWlhSUpj?oc=5",
+   "published": "2026-11-19T10:00:00Z",
+   "category": "jobs",
+   "countries": [
+    "GB"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Assessment: not ideal. Further assessment: also not ideal."
+  },
+  {
+   "id": "2a3c33f39b32",
+   "title": "Production in construction up by 0.1% in the euro area and down by 0.5% in the EU",
+   "source": "Zprávy Kurzy.cz",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3psNXhvVGxjNWM2bWk1QnBzQ3gtN3dET1Q1Mm96MHRYOE5sd09ETVJhRjZQRzU2QnljYk01cVgxeU5OT0t5bDJTSVZJaUlTVXEzcUxoQ0FuMHNkaDFqa3VEVkxZZkpxY1dSRUw5ckZrUnZkZTh1V3dvMGY5bkJ2TFB3MU1qbENfZWxPWXVOc2JxOTNKNlM1dEMxSzZsNGJZb3Q5TzJRZWRITmtXeGd6Qg?oc=5",
+   "published": "2026-11-19T10:00:00Z",
+   "category": "economy",
+   "countries": [
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "up",
+   "points": 0.0,
+   "corroboration": 2,
+   "also": [
+    {
+     "source": "European Commission",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUnlKMEwwUUZFdUZ5TEZ6cGx5aDhTaURZOGZabmQ2ZUxUS1Y4X00xUTEybzZNTURFZ05ab3hsNkUtNVR1dmdYUHF2M0JCdHZJYUhuRFIxcEt5RE41LVRqUmI5VEhEeWVxVlU1WHJ1SkJkSGthcW5vSDZ5dUI1S0k?oc=5"
+    }
+   ],
+   "memo": "Positive development logged. Ministers will claim it shortly."
+  },
+  {
+   "id": "49ed94e71eea",
+   "title": "Up-skilling, housing and AI boost in Guernsey economy wish list",
+   "source": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xblJDZEM3TjUyZThCUGlyb3NySDFSZmpybjU3UVVjU3l1Qjc4bTk3bFpBQTNGMzJGQl9qR0Zrb21ra1Z1dUJoUEVqX0gydlk4RGpzdG5ueTdMdk95MUE?oc=5",
+   "published": "2026-11-19T09:55:37Z",
+   "category": "housing",
+   "countries": [
+    "GB"
+   ],
+   "severity": 0,
+   "direction": "up",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Good news received. Verified twice. Filed under 'anomalies'."
+  },
+  {
+   "id": "f4381345b711",
+   "title": "Housing rent in Spain increases by 3% in a year, according to Fotocasa",
+   "source": "Demócrata",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWZwWm1YVEN1aWthN0d1bFRZLVVNY0dTTWdwTG1ZRmtMWml3d0dhMUhIWmQtTVBxRFllaEhjeHFyVVlKTmlzYUZ6RnZqamNYb2dhbFhCbWdqbHprbC1mc3hFV3VBVGQwbUx0TEQzNE5vTHY3MUF6TXRqekg2VUI2UjVnbnBkOVplaE1sUnlLTUV6OWdCZkZ6dXpKaEcyOTd1dHNTTXdGaVXSAa4BQVVfeXFMTk8weXBwbXNMN0hBM083MjJ0Q1F4S2xSTURIcl95d0M0Y3NDaDZwbExVc2xOZGRBa3BSaS13N0RLbTRrM3dvejhWTkxQSkZObnZJNGxqczNLQmI1ckFSUmxSRXNXeUZlNmN4enFDQzdIeWY1RnBCRkY4bG5KdTMyazlOVEZpbGVES2dvNmNnLXR4SEp3WXFjTUxKUDFHbHJYT2RuZFlGRVd5dXZ6OEdB?oc=5",
+   "published": "2026-11-19T09:48:46Z",
+   "category": "housing",
+   "countries": [
+    "ES"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Lessons will be learned at a date to be confirmed."
+  },
+  {
+   "id": "4560a4e8719c",
+   "title": "Low Countries wealth tax ruckus flags EU policy vacuum",
+   "source": "Tomorrow's Affairs",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVWl1Uk9pMW5uckZBNG9mRk9fMmcyaGVNSWxBa25ZelpENTRfdU12UDZwVkRpMFVMYjBXR1BLclJWV1d6aWI5SzNfNDZUMUNzWGduVnBaX3dXZkdKR2RFTGtSUzk2UVVFbzZ6YUxDZU5ZT1Z2RWF5RU9KaGg0WFVfVlRjZ3Bsc0c4cFVF?oc=5",
+   "published": "2026-11-19T09:44:12Z",
+   "category": "government",
+   "countries": [
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "up",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Improvement noted. Not to be confused with a trend."
+  },
+  {
+   "id": "38740fc3d3ad",
+   "title": "Romania's financing requirement seen falling to 46 bln euro in 2027 - finmin",
+   "source": "SeeNews",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZTRuWHB2ZHluaHBZT3RFQnJZaVo3MWx2d05EbHR1VzdiNnlHYWI1Y0VMVWJaalMtajN1c2tZQzRhOFViOFkyQk5KdktOS0pDSFQ4RGJNS09ad3VlajN2cHVmY1JCY09KYmdtOXcxb3BQWHVQRjR2N2NnbFRfa3pMb0lSWjdYY3RSTkNyWG5KdGk2eFJQLVloU21EeEI5SVRqVnFfU2U2Z1pyZw?oc=5",
+   "published": "2026-11-19T09:33:26Z",
+   "category": "economy",
+   "countries": [
+    "RO",
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Officially a 'soft patch'. The patch now covers most of the map."
+  },
   {
    "id": "b0d3e68c18f8",
    "title": "Swiss exports pick up in October",
@@ -21,6 +1007,23 @@
    "memo": "Improvement noted. Not to be confused with a trend."
   },
   {
+   "id": "56885e92927b",
+   "title": "EU industrial emissions fall 3.3% as CBAM expansion eyes more aluminium products",
+   "source": "AL Circle",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUVRlYlVHVTlLaDBOd3RHMFNvbDBoaHZuZ0tqOENpTV9YOUltckc2YzFpcnJyWi1tS0NsRWUwNWF4RHJEX0xOeEJVZVBNUlVMUTFxQncyY01sTGl6bWRqZm54ZVh6SGZtWEVuUXRSQ09DVm9iUXpHa0cxZlVHZnRwOGUtU2NxZG8yZkI3cU1LVjZobG5wbGItRXNjbU1DWFdlRlpicG81NXFUUXJfT2FpUzhadl9OUEE?oc=5",
+   "published": "2026-11-19T09:25:00Z",
+   "category": "economy",
+   "countries": [
+    "EU"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Action: a working group will be convened to consider convening a working group."
+  },
+  {
    "id": "c7d41856d663",
    "title": "Vietnamese steel faces increasingly stringent protectionist measures from the EU.",
    "source": "Vietnam.vn",
@@ -36,6 +1039,23 @@
    "corroboration": 1,
    "also": [],
    "memo": "Status: noted, minuted, ignored."
+  },
+  {
+   "id": "3864c91beb14",
+   "title": "Unlocking euro corporate bonds with active ETFs",
+   "source": "BNY",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMld3WWdCSEs5X2lkSjdwcmFkQ05fQTVTRUFCdXNheTFNLTNGMVJmU05XbUFfa3NXc1kwQnBuRXljQkJiSFQ1T1c1N1dLX2FhZG1JcU9sYmtEbkJLaGhaM3p1RWF1ZWViRmJiMlhBcU5qRFVVb0hfUXM1dDhFSHJyNWZjVGx4VWpxeEdvR3ZJODBfc2c5Y2lSS3M4Z0JHNHZudEp1cnBaR0dPZUNqXzhMd2hBNi1TMkJ6UmFneWd3clctR21ESThhUmtEdjk2Y3oz?oc=5",
+   "published": "2026-11-19T09:18:14Z",
+   "category": "debt",
+   "countries": [
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Nothing happened, officially. Minutes to follow."
   },
   {
    "id": "69f9d1534596",
@@ -91,6 +1111,23 @@
    "corroboration": 1,
    "also": [],
    "memo": "Nothing happened, officially. Minutes to follow."
+  },
+  {
+   "id": "d4cf46e87892",
+   "title": "Alantra Solar secures €90mn HoldCo financing from Eiffel Investment Group to advance its N-Sun Energy’s Italian portfolio",
+   "source": "Alantra",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRm1aUTE0QkdtR0F1QnlhZndhRXlTY1ZBazBWZUc0aHBPeFFKNm5EdlIzdThfWnFCMjZtUFR1MVVpTGMweElCbVd4bFYwWTRBV3BVSG5YUkJmZXYwZXBnTGtmWUtpZEhhRDZrM1dEVmVuX214XzQtXzBzU294WUYwczlia2xzM0p3WXUzbDZSSUZ6TmQ3Ulp3c0dKdFJxT2NtdjFZMDREVVJJaW5mRzg3UWZwMGJOeHBpVHFIVEhCN01rRWNvM0dXbWluV2lyS2RpSHRkbnJCS3VhVzJPalE?oc=5",
+   "published": "2026-11-19T08:49:22Z",
+   "category": "energy",
+   "countries": [
+    "IT"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Energy security strategy updated. Strategy remains: hope for a mild winter."
   },
   {
    "id": "8f2a189406eb",
@@ -157,8 +1194,13 @@
    "severity": 0,
    "direction": "up",
    "points": 0.0,
-   "corroboration": 1,
-   "also": [],
+   "corroboration": 2,
+   "also": [
+    {
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR01OS1NPVDhfbnRKNDNEa0lmcjd2YXRmZlY5b2lfek5za2RlYUtoSmh6SUtMN2FuNEhPOE8zQUhtQklfNzBNZDktQi03a2o3SXRtMEpCc3Z1bzdRaW9BTGtyUHVVTzZTbTBCUF8wYXVRbjRsNVhIVThJY1NxZU9tRG04UV9sdU5MVVZDUTkwZEs1RFNoblZVbTI3d0g0eDlNcEtMWTdveVlIRzh5Sm9hQm1R?oc=5"
+    }
+   ],
    "memo": "Positive development logged. Ministers will claim it shortly."
   },
   {
@@ -225,9 +1267,14 @@
    ],
    "severity": 1,
    "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
+   "points": 1.25,
+   "corroboration": 2,
+   "also": [
+    {
+     "source": "Bloomberg.com",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaXg4UV9aVlBMRE1iVnJXd0VEbGpEYl9qUGR3MDNuYlhjeWs3TUVKd1hCdVB4aV9SdGVVekluM2Q5TFF5cXdKU2Jxa21yblRfbVAxMEhFVVE5dkJyUE5aRWNldmFNYkw0cEhfQjFFc2czVG42MDlDeHYzWklmbi1EOElOWDlaVVJKbXBxMkxwbkZrQ0xlODNWbk1ibmY4VkRGOHZHMm9UVEo1MHllcVJFUUJQODI1aEMtWlcwTEt3VXBCSGtU?oc=5"
+    }
+   ],
    "memo": "Filed in triplicate. Two copies lost in a restructuring."
   },
   {
@@ -283,6 +1330,23 @@
    "memo": "Positive development logged. Ministers will claim it shortly."
   },
   {
+   "id": "7de2c8feaa87",
+   "title": "Spain’s 'imputed' income tax can apply to holiday homes even if you never rent them out - how to take care of it without fines",
+   "source": "Olive Press News Spain",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOekRfV2ptcWtsTHk5OHdWX1M3N3ZkMHpkNGlRVDJxWE92VzlQZjY1bWJZcGNiNElpam85VnhRdjAyY3BoVzEyblVQc2xzZ3ZTUTNCcmZ0a2NEbE5vSVlzS0ZuaFloTnQtX3lBQkxQREtmVmVRQkRnTmNqNG82WXlzVkdJN080Y3dJNkZjTXFn?oc=5",
+   "published": "2026-11-19T07:09:00Z",
+   "category": "housing",
+   "countries": [
+    "ES"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Nothing happened, officially. Minutes to follow."
+  },
+  {
    "id": "3252a79df42a",
    "title": "UK-EU Trade Reset Faces China Electric Vehicle Challenge",
    "source": "Global Banking & Finance Review",
@@ -316,6 +1380,23 @@
    "corroboration": 1,
    "also": [],
    "memo": "Nothing happened, officially. Minutes to follow."
+  },
+  {
+   "id": "1f99012bb084",
+   "title": "Nov 19: Petrol fuels inflation; Mustang GTD 1901; Interest rates latest; ZEV mandate warning",
+   "source": "Car Dealer Magazine",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ0JjY19zZEpwYkZ3MTNLZVNrTm9UaHViOHZkbnpsUWswMlAyTjE2UXpOTWNMbTJQeGJZaGxJb3RGRmhrUzZBZ3hkTEM1M2RReVhOT2JkOUVRR21ZWU9rQ2RpWDQzQXl5MGlRd3NVVDB1UDVHUVcydXBEaFV4Z0lIb3NrMlJvdGxad1lzcXV0cjc3QXhOZDVUN3VMa0dEWW81eldadDFPSjM2bVFqOXgzVGRBb3VVcU9jV1k2VDZPdGtTbHZybkE?oc=5",
+   "published": "2026-11-19T07:05:23Z",
+   "category": "economy",
+   "countries": [
+    "GB"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Assessment: not ideal. Further assessment: also not ideal."
   },
   {
    "id": "c0698595866e",
@@ -384,6 +1465,23 @@
    "severity": 1,
    "direction": "down",
    "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Action: a working group will be convened to consider convening a working group."
+  },
+  {
+   "id": "9234bee3e574",
+   "title": "Romania may extend state aid scheme call for manufacturing projects to attract more applicants",
+   "source": "Romania Insider",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNlhzbjFTaU5USEZNd0J4TXZOVDBXZHVxRFFzczk1NTFxZ3A1SnZfejNpVjB0UU1NLU1aWUhjYWdiNjRrZ2d4OGFjUDdkQVJtRVJHLWhuVExfaHdGRjlZelRjb0VLaDQyTTg1UGdiMmp1YWJQWGhrb1F6dFJxTUpibkFIemxvQ3oxM3o1MkFDUnVqS2EzNkE?oc=5",
+   "published": "2026-11-19T06:31:49Z",
+   "category": "economy",
+   "countries": [
+    "RO"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
    "corroboration": 1,
    "also": [],
    "memo": "Action: a working group will be convened to consider convening a working group."
@@ -514,23 +1612,6 @@
    "memo": "Cross-referenced with last year's file. It is the same file."
   },
   {
-   "id": "0de0f6191def",
-   "title": "Czech Energy Regulatory Office warns of extreme impact from capacity mechanism charges. Industry will bear the brunt",
-   "source": "oEnergetice.cz",
-   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1B3elhlUTE1NW9BdjI4elpFSjJ5d3lkeWI0cjU5ZDliVkxCT0tBYTJuTVRTMVZFdTZrbkJBa1k0Y0hzc0VwLTFYYS0yUDNXTFUzZUZBQmh5MlhoRkxSbmxsSjRoWXpzYmpBOF9pamhTZDJ0V2RXZXp6U2x3OEVXUXkyOU1QZXc4ZnNYSlV1ZndLVmtYVVJyYlB2bjhzbktVV05TUUpUVktjYXk3Q2tjOF9Qb3RDeXZGZkl0aVBoclJnNTg1NllZaEdMM1NGeG1vX2poM2lhWTRWbGlhOU9OUHpSX0hiRVJqTU5DcXVxM0xoQQ?oc=5",
-   "published": "2026-11-19T05:46:00Z",
-   "category": "energy",
-   "countries": [
-    "CZ"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Classified as 'regrettable'. Filed alphabetically."
-  },
-  {
    "id": "fc6697d22e4c",
    "title": "Czech energy regulator warns of capacity mechanisms, expects extreme impact on industry",
    "source": "oEnergetice.cz",
@@ -548,6 +1629,23 @@
    "memo": "Stamped, scanned and placed in the tray marked 'eventually'."
   },
   {
+   "id": "0de0f6191def",
+   "title": "Czech Energy Regulatory Office warns of extreme impact from capacity mechanism charges. Industry will bear the brunt",
+   "source": "oEnergetice.cz",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOU1B3elhlUTE1NW9BdjI4elpFSjJ5d3lkeWI0cjU5ZDliVkxCT0tBYTJuTVRTMVZFdTZrbkJBa1k0Y0hzc0VwLTFYYS0yUDNXTFUzZUZBQmh5MlhoRkxSbmxsSjRoWXpzYmpBOF9pamhTZDJ0V2RXZXp6U2x3OEVXUXkyOU1QZXc4ZnNYSlV1ZndLVmtYVVJyYlB2bjhzbktVV05TUUpUVktjYXk3Q2tjOF9Qb3RDeXZGZkl0aVBoclJnNTg1NllZaEdMM1NGeG1vX2poM2lhWTRWbGlhOU9OUHpSX0hiRVJqTU5DcXVxM0xoQQ?oc=5",
+   "published": "2026-11-19T05:46:00Z",
+   "category": "energy",
+   "countries": [
+    "CZ"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Classified as 'regrettable'. Filed alphabetically."
+  },
+  {
    "id": "2377c7ec09d5",
    "title": "Ghana, Norway to deepen maritime, oil and gas cooperation – Ablakwa",
    "source": "MyJoyOnline",
@@ -560,8 +1658,13 @@
    "severity": 0,
    "direction": "flat",
    "points": 0.0,
-   "corroboration": 1,
-   "also": [],
+   "corroboration": 2,
+   "also": [
+    {
+     "source": "3News",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMklLQW1sUDlhZWV5VS1aQjRvUmJRUGd1amNPUHE1Zm9pYndUamJnQTRvLXliMGw1M0t1VTk5SkhuOWZJX19CaUhrbnhpNWFENDMxVjhCRklPdi1BYk1nb3UwMU9vaWVMNkswNk8yVGVuLU5sR09QU3pSUWk3dy03Tkx4NHpwS2Z2b2d4WHBlN1dVUFoz?oc=5"
+    }
+   ],
    "memo": "Filed for completeness. Completeness remains elusive."
   },
   {
@@ -663,9 +1766,14 @@
    ],
    "severity": 1,
    "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
+   "points": 1.25,
+   "corroboration": 2,
+   "also": [
+    {
+     "source": "China Daily Global Edition",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTThmNndqNmItbmlZak9LYW5aRnU2WU1pcGhvZ1hZcDk5SFQzc2dzTWN5eTNPUE5TNGxhSmlCSUVPUkFUUy16WTVmZmdYV3pYUXd1aHZMeE4wcFJOUFQtOVVaZTUxbEJWN0dma25KNmFDWEpVZkRSME1rYWptWjVCTjRB?oc=5"
+    }
+   ],
    "memo": "Directorate notes: the trend remains, regrettably, a trend."
   },
   {
@@ -770,6 +1878,24 @@
    "corroboration": 1,
    "also": [],
    "memo": "Situation stable. 'Stable' is used here in its relative sense."
+  },
+  {
+   "id": "608c29ff53dc",
+   "title": "Why China's EVs could throw a wrench into EU, UK trade talks",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQmVWbXJnQkY3VjV6T2FGcnlvendxcEJmWXVhclphaGtWSW00enZvcmJ2Q0RpaVc5bjlhWU9FQzVEUUNfczNralRudWcwaHdVa2txWjJRblJFQWZKcjRpcWNlT1dadXFfTnBpLUpYSXFOMzBBNzZIQUtqaHpVVVVHcTVyVEdablZ0YWc?oc=5",
+   "published": "2026-11-19T00:46:48Z",
+   "category": "economy",
+   "countries": [
+    "GB",
+    "EU"
+   ],
+   "severity": 0,
+   "direction": "flat",
+   "points": 0.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Statement issued. Statement contained words."
   },
   {
    "id": "bd0e03757baf",
@@ -897,75 +2023,6 @@
    "memo": "A rare positive filing. Staff have been asked to remain calm."
   },
   {
-   "id": "6c3c2485c88b",
-   "title": "Ukrainians brought 21.5 billion euros to Poland’s economy, but they are increasingly less likely to plan to return home",
-   "source": "АНТИКОР",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLWFoLVJuSmdWa0NaczhOcW55MFRyVkdDa0dQSEZIbGpqNG1zWUVxdnktcTltSFNpaTVjUjdMVG0yWkN0ZVJXYVJISXV2ZzFNQmRrWjJFR3dGX25TVXBSN3dKVEQ3N3RkWUtaRHhiWl9MZmNUcU5WeEdZWTFydHMteG5qWHV5XzRubzlvRWVTbFNOQ2wxTmI3bDRrejhEQU9uTzNjcGFId3Zzdjd6eEVadU84cWpMS2w0a1diMFNlQVhuZmRlWEtRVGpjdHVDZzBqSU8yb3doNVI?oc=5",
-   "published": "2026-11-18T22:20:19Z",
-   "category": "economy",
-   "countries": [
-    "PL"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Statement issued. Statement contained words."
-  },
-  {
-   "id": "fa6791c4a168",
-   "title": "Greece Has Fourth-Highest EU Inflation at 5.7%, Eurostat Confirms",
-   "source": "Greek City Times",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeVlxMTlHMkZmem5vcUpBS29adTEydTc3dTd4b0h6X0k0a3p4TUlPWDZkMmtodm9OcnRrUDhDUElwSUZMdC10Q0Q5eC12RFNmYUhzVEFUR05RTW1NcDFvWkhENXVQS0RXQVJwbjRUSmtGc25lazE0NlhfWXk5Q0dvcXdsazl0QXRPemc?oc=5",
-   "published": "2026-11-18T22:13:16Z",
-   "category": "inflation",
-   "countries": [
-    "GR",
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Situation stable. 'Stable' is used here in its relative sense."
-  },
-  {
-   "id": "718015d8ee5c",
-   "title": "Data watchdog probes massive Deutsche Bank leak of 15M files",
-   "source": "Euronews",
-   "url": "https://www.euronews.com/2026/11/18/data-watchdog-probes-massive-deutsche-bank-leak-of-15m-files",
-   "published": "2026-11-18T21:44:27Z",
-   "category": "economy",
-   "countries": [
-    "DE"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Nothing happened, officially. Minutes to follow."
-  },
-  {
-   "id": "984190a05df2",
-   "title": "GTA VI gives the EU six reasons to watch the gaming industry",
-   "source": "Mezha.net",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCRTZhb0x3c1lRaXZlWXdMUEVtS2w4NVFUYVhLYksxMGxKMXdEWVZQdGZ4YW0tUW1DN21EYkcwX3o1dy1MdjNmcEtobXBxT0RhbzhJNFc4ZW11cmEya19pNERndFV6X25DQ3ZGMzlKRExmNzVDb1h6U1Y1bw?oc=5",
-   "published": "2026-11-18T21:39:17Z",
-   "category": "economy",
-   "countries": [
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Competitiveness report commissioned. Previous report still in its envelope."
-  },
-  {
    "id": "8a7ed01af2fa",
    "title": "British Pound: Inflation spike seen as contained – MUFG",
    "source": "www.tmgm.com",
@@ -1005,23 +2062,6 @@
    "memo": "Competitiveness report commissioned. Previous report still in its envelope."
   },
   {
-   "id": "1ac1d861f6e5",
-   "title": "Teflon Pound Sterling Holds Firm, GBP/EUR Still Challenges 1.20",
-   "source": "CurrencyNews.co.uk",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOXFDZmtuUk9CUnpVcndRbnVIMnF6UHpqQkVOTEdFZ2FuQjZORy1RbDVmdEtIMk5vZUdRUllHS1NrSEpzUTM4OXRvNVFzR25tbDdGSER0WU5SeTY2Rk90NGVmb3Bma2xLamZCVGJXdUU3NHB0MkxBOGtNT1M4ZUNqSGE5anVDWU50ZDE0RkJ3VGJ0SUZuc2dFRXFqQjNUTkhnc0pFbDA1NWYybWNLZVlmTVA2QlpPWHlVd1JoT0VESQ?oc=5",
-   "published": "2026-11-18T21:16:01Z",
-   "category": "economy",
-   "countries": [
-    "GB"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Action: a working group will be convened to consider convening a working group."
-  },
-  {
    "id": "f1ae33164533",
    "title": "Italy's Acqua & Sapone prices €500M secured notes to refinance debt",
    "source": "Dealroom",
@@ -1037,23 +2077,6 @@
    "corroboration": 1,
    "also": [],
    "memo": "Debt sustainability reaffirmed, with fingers crossed in triplicate."
-  },
-  {
-   "id": "d2976fb90664",
-   "title": "PM is toast if he can't get cost of living down - Labour are taking us for fools",
-   "source": "The Sun",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRTlQY0NzUlNGTVFvVy10MW56Y2JWaFgzNW5zQ3NVQ2l2Q1ByUVgzTGVvNXAwaUs5VEE5MFMtblZpNzFQQ3lIMktkSW9VakNsNkVGbjE1R0hUX1l0SDdXdTM5R3Bvb1Jobk1wdFgwOTNfMmhSTkVZS19ocW44VnRud0N3?oc=5",
-   "published": "2026-11-18T21:00:00Z",
-   "category": "living",
-   "countries": [
-    "GB"
-   ],
-   "severity": 0,
-   "direction": "up",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Good news received. Verified twice. Filed under 'anomalies'."
   },
   {
    "id": "8b6a18b272fd",
@@ -1073,23 +2096,6 @@
    "memo": "Forwarded to the relevant committee, which is itself under review."
   },
   {
-   "id": "7b1d485122c9",
-   "title": "The Curious Case of Excessive Inflation in the UK",
-   "source": "Haver Analytics",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmdYWmx5cFRhdUw3T2ZDaGI5WkJIZWE1bmlsZWFqUGc2Y0JPcDk5ZUkyS2lVakZycTFQRVhFTXR6MjNJT0daMk44X002dWo4Zi0wQW5LUXFnVjNzQWtTQUJDdjhMcktJT3lIZHY5VU04WmVOdVBkMzEzZ2V0bmhnUkk4c0x0NVk?oc=5",
-   "published": "2026-11-18T20:43:53Z",
-   "category": "inflation",
-   "countries": [
-    "GB"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Filed under: things that were supposed to be temporary."
-  },
-  {
    "id": "b99c87259ea1",
    "title": "ECB Warns Hedge Funds Pose Risks to European Sovereign Debt and Insurers",
    "source": "Beinsure",
@@ -1101,27 +2107,15 @@
    ],
    "severity": 2,
    "direction": "down",
-   "points": 2.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Debt sustainability reaffirmed, with fingers crossed in triplicate."
-  },
-  {
-   "id": "7107cb66697d",
-   "title": "Why Would the ECB Force Banks to Hold More Cash Without Paying Interest?",
-   "source": "Coinpaper",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVdIRlBSaTNkREtDTGxtR21lTkNLQzRyS0c0SG1BMGotX0FRU2xOLUt3UjlKWUcxeUhwRnFycHViZUppbUZrbVozT3c0SGYzTmVVTUFfQWVrU0FVZ0YyWjFUSUVjWGI1S3dxSGJLdHRXa2JLMkZGOU1BMVNVZGFXOFk3RWdFVWs0VVRtSm1iTFdLdVMyRVNLY0ZnYU1LR2Vl?oc=5",
-   "published": "2026-11-18T20:12:13Z",
-   "category": "economy",
-   "countries": [
-    "EU"
+   "points": 2.5,
+   "corroboration": 2,
+   "also": [
+    {
+     "source": "Hedgeweek",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTHpBTlh1NjNkaEg0TUhvWTJmWUR1VzRja3ZzTTNYdjhuTm1uQXpIamhjWHFldVlXa1NxME91VTJ3M2ZEeXVMbldrV1pqMkI4bnNHRGl2NmgtbG9kZzZQem5XekxaS3VBTW1jNkgwZmVZeEVtTjFJLW9ZMkJWY0I0LXdaelp1MUlXV1dwOGVLcjlwZnZPQ2tmWGhONkRzUQ?oc=5"
+    }
    ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Forwarded to the relevant committee, which is itself under review."
+   "memo": "Debt sustainability reaffirmed, with fingers crossed in triplicate."
   },
   {
    "id": "924e634180f3",
@@ -1139,41 +2133,6 @@
    "corroboration": 1,
    "also": [],
    "memo": "Directorate notes: transitory, again, for a further consecutive year."
-  },
-  {
-   "id": "ff3fa50c6793",
-   "title": "Financial worries are growing in Switzerland, 38% of employees face economic difficulties",
-   "source": "Gazeta Express",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDZFQmpxOV9yS2YweDJ1THQ5eG1rWXJYSk9EZDRHZ2ZrOS1DckNOMkI2cVU1RnRqUnNXbzdUdFVPN2RDRWpyMkR2cklDWVhJNG9xUHVuSGxHY0tLa2tGRnVNTU5ZcUwxaGpqcnF0c1FZLTVlUVVVTWM2NGZndXRLSk1qSEtnQ2VHekpldWRLaWlNZWYyd0hmWnNHNmxRRFFDUzRXdjUwNkZROFkwUGtsWGExUlhGTFZ5cGc?oc=5",
-   "published": "2026-11-18T19:53:00Z",
-   "category": "jobs",
-   "countries": [
-    "CH"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Action: a working group will be convened to consider convening a working group."
-  },
-  {
-   "id": "f0e47c92b290",
-   "title": "Hungary seeks long-term oil supply deals via Croatia",
-   "source": "Report.az",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmxBQkRYOXVka3M4ZWZ4UmstaFljdHU2S0lXMHE5MG02SDRqWkViTDRsTi1mSG5KeENtNE54ci1YeGhsellDQUJXVjF0NlZSWjhPV2NFbldzYnQwb3g3a0JVWmVzY2x0b1haZllKbmQ1QjBkaDhTLWFDTG9UZlFva3BuQzRvWFpLTjF6Q3hsT1NIR0E?oc=5",
-   "published": "2026-11-18T19:44:25Z",
-   "category": "energy",
-   "countries": [
-    "HU",
-    "HR"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Situation stable. 'Stable' is used here in its relative sense."
   },
   {
    "id": "26be3c744c04",
@@ -1196,23 +2155,6 @@
     }
    ],
    "memo": "Filed under: things that were supposed to be temporary."
-  },
-  {
-   "id": "a6f17f44e829",
-   "title": "EU bets on electrification to cut energy bills",
-   "source": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUzZ2cnVKbWg4RE0zVWU1blMwWlBWYVNicmVnbHBLLW1xcnNuUklxc1R4WEM4NlR0anZ1ay1KMG5qWXg4VTZYaFhqVGVrZW1ZaHIxS0llMkdkcDkwWjVoeE5sZXhGd2tMMlpQY19wM3V3c0lYX21MQ3hXWUpGekoyZk1VMm93ckdDbWMtUFpUcmg2bjR1ZGVQVlJnTVFBSzMzMjVkYVJlQlRtYnhzSjcwd0xLMF9DNHhZWkl1eVZnZHhOZFVV?oc=5",
-   "published": "2026-11-18T19:28:24Z",
-   "category": "energy",
-   "countries": [
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "up",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "A rare positive filing. Staff have been asked to remain calm."
   },
   {
    "id": "aee67307d44f",
@@ -1250,23 +2192,6 @@
    "memo": "Communique drafted. Adjectives softened."
   },
   {
-   "id": "827d7f30adcb",
-   "title": "ECB to debate doubling banks' minimum reserve requirement next week, Reuters reports",
-   "source": "MLQ.ai",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeUdpTS1tb29GTlU0dkt6LUtTUUxtczM2T0dtM19MWXBQWHJhcm1qODhvWGE4aklTVVlUMHoxOGZmaGxoVG9JYnVqcHdfNlVJQ1BZN1FVVzRBdzNHMWxxd3V3c3ZtNnhzdG1yRXZ1TlV1ZjVNakJ5eDU0VlRJQ1hpbFFUV3UzRDRxS2JRUS1vZ2QySDNsdkR3MVlQd0ZUX2lacEFiMlV3?oc=5",
-   "published": "2026-11-18T19:08:34Z",
-   "category": "economy",
-   "countries": [
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Nothing happened, officially. Minutes to follow."
-  },
-  {
    "id": "60892d609bfa",
    "title": "Screen Gems Sees Layoffs Under Newly Appointed Fede Goldenberg",
    "source": "Yahoo News UK",
@@ -1301,23 +2226,6 @@
    "memo": "Action: a working group will be convened to consider convening a working group."
   },
   {
-   "id": "80432e688f11",
-   "title": "Spain adds 10,500 luxury homes of more than three million and 80% is concentrated in Málaga, the Balearic Islands and Madrid",
-   "source": "Demócrata",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeDRqYTdWTXZXd2phbjcweGRuUi1mT0RfWjVDYVo5c2drUkFVUFdScE5ZWlpNMDJWY1JfcW1CRWVRdGVqNXhqV3c4XzhKVHJDbVVkQnBrVUdwT24tdFRKX05QdmpEaGlZNWNSaHM5bUJkR0lHTFJEMWhSX0xvbFIyYXpTYWlpOEFrZHFjangyeVloZlQ5NWZzS3Nja0VwMm1xNWdZQTdVd2tOaVVXQzJsWE9USlg4Z0RKa2pWSkhUTk1GWFIzclg2cV9HdU5vMUswX0dKdUF1V3Rxa0lpdm5qVUxXMTZYZE5MSG1ianczZmnSAfYBQVVfeXFMUC1qVUMwVzZOMlN2eVlvaFpVNnAxUXQycm1kZXdGem55SElNbkNTRXd2X3dsWE84YlJUeUpTdjJnNEVDZWFzS2h1STBFMUFIaHhNNDZ0YVlBUGs1cVI2OXFqcDB1dlRyZUpHOTNqcXpnU1BZeEhXX1ZGNk44OUZlakRnTEhqNWw4QmZJR1Z4aDl6alcwXzJxX01GYWxORV9STHdPSDJpeWRrUWRBOHRWOE1wUTBCZm9TeFUyQ1NCQ0x4TG96Zk9PZHpnQTBNM2VnUGZSODl3c0EtVWlmLTVwOXJfeHlSdUdJQ0NOTzU3ckN1YzlSYWlB?oc=5",
-   "published": "2026-11-18T18:44:32Z",
-   "category": "housing",
-   "countries": [
-    "ES"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Classified as 'regrettable'. Filed alphabetically."
-  },
-  {
    "id": "fd5fb174d743",
    "title": "BAE set to cut more than 1,000 jobs",
    "source": "Financial Times",
@@ -1333,58 +2241,6 @@
    "corroboration": 1,
    "also": [],
    "memo": "Communique drafted. Adjectives softened."
-  },
-  {
-   "id": "0418ce1ec2a1",
-   "title": "Grand Theft Auto VI is here. The EU has 6 reasons to pay attention.",
-   "source": "POLITICO Europe",
-   "url": "https://www.politico.eu/article/eurocrats-meet-gamers-six-reasons-brussels-should-care-about-gta-vi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-18T18:35:37Z",
-   "category": "economy",
-   "countries": [
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Status: noted, minuted, ignored."
-  },
-  {
-   "id": "72ba157ff333",
-   "title": "Businesses overwhelmingly back Britain to rejoin EU",
-   "source": "Newswav",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZXYyWDF0OVY3bVl0bkJQRWMxMGxiS1B1dENveDBtRWl2Q0xPdHdSbkd5NFF4UEhxTVUzZm1aOHNwdDhPd1dlb2k0b0Vta3c0MjlTdlNENDZhTU5SQklXM2FWS1JHY2FqS1BmdXRSN3Z5SF9oWFJZQ25UUVBaSURPR2YyOGMwbzdybkVnck9CbUI4alc2OGxN?oc=5",
-   "published": "2026-11-18T18:14:16Z",
-   "category": "economy",
-   "countries": [
-    "GB",
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Competitiveness report commissioned. Previous report still in its envelope."
-  },
-  {
-   "id": "849e47649b03",
-   "title": "Europe Ditched Russian Fuel. Now It’s Hooked on Chinese Green Tech Instead.",
-   "source": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkYtQ2JqYndoanZnY3ozS2poZXc5a3JZdjZmaVRhTGs5ZGtvX3dRaENsUEtoU1RaVGpFbk1FTkxMSHFSeFlNbWRVTWRnWlVFTVlFM3E1bDFiUEVvSTdSS2dGUkx4blRBanZPaXpJdjNpby1YUlZWdlNVby1rQ0d2a3RQaUlQTWNURHZDbExfYkw0R3h4ZDVZS0o1MVpUWllDRlJzcVNVUzlPN182dmhUalBMcUNkclFJOTZLVU9B?oc=5",
-   "published": "2026-11-18T18:00:16Z",
-   "category": "energy",
-   "countries": [
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Action: a working group will be convened to consider convening a working group."
   },
   {
    "id": "fdf5bc4dca50",
@@ -1438,57 +2294,6 @@
    "memo": "Filed in triplicate. Two copies lost in a restructuring."
   },
   {
-   "id": "11db1e5950df",
-   "title": "Drakić: Poland is an important partner for the Montenegrin economy",
-   "source": "vijesti.me",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXhDdXltbFZfWUVDNUVHTGItem51YXVfemtnX3E2eHdHbzRaMGdGWUhxa0lGV0QtS2JKM1BBaXVYRGJRSEI4ZEtLUTlMQW9qOWxxMlJfQlhTcF9BLXhza3VlaHRuOVlnNTAtTlotRkxrLUxJN2xLRFhncWN6R1FsdTI1aHRkZ3Y4QWR2TUEyQnYwM0ZoNTluTTE5bWZxSFQ4SUg5ZDdhT2JONDhVZERSY9IBnwFBVV95cUxNNmZmT0U2N1ppQnZpQjFmNFdObHQtc3JBSVB3TElSWVczcVplVHJnbmhuUXh4VkFTekkwdFpXQXJXM3VFSWRVUVBJYlN2WWhLb3QwWlJaQkpvNWdueEZXWEYzWFZiemdXenBoVGFKWjJ6eF9UMHI1VlphbmxmVW1JTExqVXhUSzRScnZaaVJRaTcyakNVbEprNmUydnpSN0U?oc=5",
-   "published": "2026-11-18T17:43:25Z",
-   "category": "economy",
-   "countries": [
-    "PL"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Classified as 'regrettable'. Filed alphabetically."
-  },
-  {
-   "id": "b3498e877331",
-   "title": "Large-scale testing campaign: MPs criticise budget adherence and public procurement shortcomings",
-   "source": "RTL Today",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbWx2aUI5MHhZZUpxTVNJdWZjYmVGaGVodm9IaDZISWRMenFIOUVFeVZXT2k2RVZINmE2bWtaR0NNdXZrZk1KaWIwVUNCNDN4bmxQNi1tb2tXelpzcVZNM1lJUkljOVpxQWt5NTFHdmdObHBNMDJFVlVQZlRRLWVDMFp6VUp1UXdjR3pZai1PWHE1VmtJYy1ueDNtOGdfajdGM2N2NWFLTlBSWU9kVTlWcnBUZWM?oc=5",
-   "published": "2026-11-18T17:42:09Z",
-   "category": "government",
-   "countries": [
-    "LU"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "A consultation will be launched on whether to hold a consultation."
-  },
-  {
-   "id": "5692862b98c6",
-   "title": "Austrian Airlines A320 Economy Class Review (VIE-ZRH)",
-   "source": "Live and Let's Fly",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3Z29wb0dCOXY0NnM5dXctU3ZmNi1BRF9vYkdKamJNanZsdEF3RTNBSVc1OW83ZnNJbGxWSHhOaVAxUVVYbDlWcWZaRHlDVzItdm9BTENrQU1tN1BCOTR0d2pYbjNPVHBwcXZvM1RXbUFCYXFBbXpXdWY3OA?oc=5",
-   "published": "2026-11-18T17:39:38Z",
-   "category": "economy",
-   "countries": [
-    "AT"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Forwarded to the relevant committee, which is itself under review."
-  },
-  {
    "id": "ebe3b789f757",
    "title": "Evening briefing: Bryant says negotiations tough as parties ‘won’t sit in the same room’, House price inflation accelerates, adventure park approved for Belfast",
    "source": "The Irish News",
@@ -1504,23 +2309,6 @@
    "corroboration": 1,
    "also": [],
    "memo": "Status: noted, minuted, ignored."
-  },
-  {
-   "id": "5dd0fef74958",
-   "title": "Bulgaria's 2027 budget sets aside €65m to design motorways, including Black Sea route",
-   "source": "BurgasMedia",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSXktNk9aYU9rUXV1VTUtaVBBOUgwT3h6TEMtNElUSEVld1VmbldCeGdoTmtUNFRYR3JmVTV6UHpMTnJlR3hBZHA2Z3FEdWN3MnF2TEJoY19vOGhNX1pSZmJoNUp5OUdKZ1UwY0FmZ25FQU1tQmUzUXRKSUNNbkh6Wi1SeGl6WDVkVnp1UE5RdmpvX0tVQ2dNMk9Cb1NURkF0cHhYQ3pkeE9XNUVMYWlLdWhDQndjOWhaRFFIQ1dB0gHDAUFVX3lxTE5tVFZNU21STWcya09UcXpXejhqVUpaUGtYUGRUTGZFVzhhY0dxaUwtcFIzOERTaVUwSjhLNm55LXVWeW12TkhpaG1mNDhvMmo1dnh4ekhFTXp4VWlDTENHTkl5N2lCMG11UF9sZmk1NXVyVmVwb3RfLVhVTUFLaHJSR0VhMUQxQnF2UmUySzExdTFwdEl5eVFvbUVSeW5fYXdXMVlYY3BtZnhuSFdqelV1WWRLQnlNVHc1WnJGVXFKX0VXWQ?oc=5",
-   "published": "2026-11-18T17:22:01Z",
-   "category": "government",
-   "countries": [
-    "BG"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Action: a working group will be convened to consider convening a working group."
   },
   {
    "id": "a006cc73be67",
@@ -1578,44 +2366,15 @@
    ],
    "severity": 1,
    "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
+   "points": 1.25,
+   "corroboration": 2,
+   "also": [
+    {
+     "source": "Wards Auto",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHlZRDI1OTZyaWI2MlF5SU1LTzg2c2pEdWE1ZVI4ZjVNTjBqVlkwOGZSUGVsRDFubGR3ZVJtMTlRSVExTXhnTkZHczZfZTliMDg2cnhUbGcyZFRCdVliYkJyUHpkUVZtd0ZYZ3ZpMkcxVnBuT2lrOVdvY1BCTGxJX2QyQWk2YXlpakdFWklPWDhSajBtRDR2OXQtYjhNWjF2?oc=5"
+    }
+   ],
    "memo": "Classified as 'regrettable'. Filed alphabetically."
-  },
-  {
-   "id": "f844377695e5",
-   "title": "Germany’s DAX Slips As Inflation Firms And Tensions Rise",
-   "source": "Finimize",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYW9LcU5MUnJkLWVhNC1GbUlvQk1raEN3NjhDTVE2NlJ1WF9kU2p4YTZBTVRhNGhVRi1kYUxJSzYyZXRnNjZ3bC1IQUxnOHJBVHFSd25qdmZsNVBEemVrV1VQeko0bTEyUjZDdFVvc2xyRmVJN00yT3hkLUZGWS1fXzNiTmNBNHhFQmt1Mw?oc=5",
-   "published": "2026-11-18T16:58:17Z",
-   "category": "inflation",
-   "countries": [
-    "DE"
-   ],
-   "severity": 0,
-   "direction": "up",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "A rare positive filing. Staff have been asked to remain calm."
-  },
-  {
-   "id": "a19ec7ef8457",
-   "title": "Luxury homes in prime areas will rise by 4% in 2027 in Spain, according to Dils Lucas Fox",
-   "source": "Demócrata",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQjZQRFZrX0hIeHR0ZXhhcXp3QUZLWl82TlJVOHZtZlFINWFySmF6bEkzQlppaFJNMXppY1RNRjNyQU1iUUZKRUlGYWZRWFpxdFFVX1QxLTFmdV9PSFBfVVZYbmRpRkZobWFYVkdPeTNzbDUxcWhyZlh1NVE2SXJ0WlprV0FvLWZTRm9LanJLSXF1WXExaHVaWDR1NS03ZTV3Nm9LSlJpY1Jmbmxza0VFWFJyTGFuV2ZfUnFsdVBleGZMZ9IBxwFBVV95cUxQMklZZmJOcldiNnBDTGJGTEthcnRBc2lzdEN2ODlaVlV5d3RYVklvOG5YZWJFZmVzZXdEelctOVpiR3dvTFJQZDNHc3M2TGwyQWlQM3BUNFBIdWUyb3l2R0VZVEhuWTBsbGhfMkNzakFqTEI3NDRzaE9KWmNkWmctYkRHWWFqZUdzV0RRTERaaHVZNVlQSXNVY2xIQnRxZTFhNmdQR1BOa0RyNDliVy1aT2NNQXNObnFJUW9VWjdBOFZ1MldwNFpr?oc=5",
-   "published": "2026-11-18T16:52:41Z",
-   "category": "housing",
-   "countries": [
-    "ES"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Statement issued. Statement contained words."
   },
   {
    "id": "096f1e2c6dfd",
@@ -1650,40 +2409,6 @@
    "corroboration": 1,
    "also": [],
    "memo": "Cross-referenced with last year's file. It is the same file."
-  },
-  {
-   "id": "0580866069c1",
-   "title": "Welsh students face being 'turned away from college' over budget gap",
-   "source": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XUEw4bDBZSTF5WWlPbVEzVUlKTjlmOU5aRTNHYVJfYWJRWDJ4bHpfOFF5blQtbGlkblhudUN4VGNGcGEzTzAyc2lyaXJmSE94WkMtT19TeFBQSGRCQUE?oc=5",
-   "published": "2026-11-18T16:40:08Z",
-   "category": "government",
-   "countries": [
-    "GB"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Nothing happened, officially. Minutes to follow."
-  },
-  {
-   "id": "a16f1dff9063",
-   "title": "Europe closes lower after inflation data",
-   "source": "Breakingthenews.net",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWGlnS05SdG9YRUZMNW5xckNOb2lJaDB2MTI0T2huOG4yTFE1T19wMzhWcmgtZWhBc3BzR2l3X0dTVmx0ZUtPU2NhQk91ZElwWFR6aDhEaXhzaDhzRE9uUUMxbWNybXpEMmxULWxrb1RhOEZUdzYxM1VHWS10a29wZHQxUjZOZUJ6?oc=5",
-   "published": "2026-11-18T16:37:00Z",
-   "category": "inflation",
-   "countries": [
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "up",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Better than expected, expectations having been managed accordingly."
   },
   {
    "id": "2fc1563e9035",
@@ -1772,59 +2497,6 @@
    "memo": "Action: a working group will be convened to consider convening a working group."
   },
   {
-   "id": "56c0a2a3df58",
-   "title": "Greece Cites OECD Data to Show Lower Cumulative Inflation Than EU Average",
-   "source": "PravdaReport",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSjdPM21aNThWRWo2OTFaMXFQamZpZm5XZThYZU9GYjU5UW1wODZiRE1iWkFCZmgwSUt5QXFxTDJDZG0wN3hxTGhZOGpBTmd3ZUpQblNZMGtUc2pBcUhrLUxsRHItdXVvTW5RYWlMT0pydmJwMEppTy1zbnB3TGZaY2RqYw?oc=5",
-   "published": "2026-11-18T16:09:00Z",
-   "category": "inflation",
-   "countries": [
-    "GR",
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "up",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Better than expected, expectations having been managed accordingly."
-  },
-  {
-   "id": "021b7b82fe16",
-   "title": "Swiss Senate committee backs federal budget",
-   "source": "SWI swissinfo.ch",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZUVOZWktSFNUbkV0QmN1SVhrM19KUGxvS1hMLTBqOS1IcldNa1VMZ2NLdGdPa0hDSVpSbEFzdG8xQ19WTlpTbjZiYUhXaXc4cTZIcTBpNEg0MWQzb0lwVGN4YXVHLXlXRGxlTHdOLUJGNlpzVUlfZnp6MWhkMy1KaXJfVmZxOFYzWFFKS0Y0MGVUcXFxalRJXzYxT2VjSFMzRWZxNHRqSDY?oc=5",
-   "published": "2026-11-18T15:59:40Z",
-   "category": "government",
-   "countries": [
-    "CH"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Action: a working group will be convened to consider convening a working group."
-  },
-  {
-   "id": "34dfbf57ad57",
-   "title": "Debate at the European Parliament: Dan Nica calls for lower energy prices and funding for Romanian industry / “Romanians pay the most expensive electricity in the EU”",
-   "source": "Informat.ro",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVlR4LU94MXJJTW42eVQ2dFJKQUVRN3VwMmhDTDZUTUU5WWkzVTRJNmV2b1IxRTg1UWJ0dlUzcVpyMjN1VHQ2OFNFenlvY3h3NjhiS0NQNERHMlJkUlgxbDR1Y05fNnhVbFA3VS1LaVlzY3IxMWl0WDdPQVlUVW9Ic1RzU3VORjUwckhLSy04QmtqeVRRNHBJTURiaVV6cl9IR3c?oc=5",
-   "published": "2026-11-18T15:57:17Z",
-   "category": "energy",
-   "countries": [
-    "RO",
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "up",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Improvement noted. Not to be confused with a trend."
-  },
-  {
    "id": "6ce10b1fc326",
    "title": "France Debt Warning Moves to the Macro Spotlight as Eurozone Borrowing Costs Rise",
    "source": "kalkine.ca",
@@ -1875,57 +2547,6 @@
    "corroboration": 1,
    "also": [],
    "memo": "Debt sustainability reaffirmed, with fingers crossed in triplicate."
-  },
-  {
-   "id": "1d17b408ef96",
-   "title": "Britain's long wait for 2% inflation tests public faith in Bank of England",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTkRJb3hBX2dpMzUtNm1SbGRmQ3ZmX1ZEUi12Q2NqSy1ZX29RLVU2bkFDSEJZbElUSDE5eDhCRnNKdElKYzZHQUtrUGhnVVF5aWFKUDM3RnlpZmRReHJ4c0Y0ZzZrMU9UUzBnQm9STEhsQWhIYy1YYkRqdUZuM2F5NEFVelNfWEZ3R1RKS3VoalpCRjNrOHE4cExQQy03d25qRTJMN2R0V1hXMlE?oc=5",
-   "published": "2026-11-18T15:42:50Z",
-   "category": "inflation",
-   "countries": [
-    "GB"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Nothing happened, officially. Minutes to follow."
-  },
-  {
-   "id": "b49748ffb1f5",
-   "title": "Hopes inflation can be brought down without causing further damage",
-   "source": "Iceland Monitor",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQS1Y5Ty1JR0U5WGgtTlB6VXJBUW5ZSDNtdjZ2anlNRjIzcklOQU5PSU5fSjlEVXh6YmZ5eFF6TFpZNXZEalhfVER2TFBTZ20wVVdvdHJPdHluaU5ObzhHTC1MVllOZ0RNSzJTb0pFVlROYmdISEFFbVlINlJSeWJ6N0RZZGZMQzhaSXdXTFBGS3YxZ0lnT1ViZlUtN2V4b0MtM3N5aDNsekJ2VkxOcVFiMktyNDZUVUxrMzlZ?oc=5",
-   "published": "2026-11-18T15:25:00Z",
-   "category": "inflation",
-   "countries": [
-    "IS"
-   ],
-   "severity": 0,
-   "direction": "up",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Improvement noted. Not to be confused with a trend."
-  },
-  {
-   "id": "2266cf152e1c",
-   "title": "ECB Weighs Doubling Banks' Minimum Reserve Requirement to 2%, Saving €4.4 Billion in Interest Annually",
-   "source": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvZWJocUVxZXJ1dmhKN2hld2w5MHF3aFM3Q2VtNlYxbWlPaGJHVloxMGZXRGY5Vl82Yi03cVcyZVZ1ZGtTQ3B1X202VWd3VENWdkNjX1JjOG1OWHBlVGR1NEJ1S29lRGVWd2hzeml1UjROeEgxbXc?oc=5",
-   "published": "2026-11-18T15:25:00Z",
-   "category": "economy",
-   "countries": [
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Filed for completeness. Completeness remains elusive."
   },
   {
    "id": "f1d4b59cd397",
@@ -1997,23 +2618,6 @@
    "memo": "Action: a working group will be convened to consider convening a working group."
   },
   {
-   "id": "c9093f1e16f1",
-   "title": "Euro slips as hawkish Fed remarks, strong Retail Sales boost US Dollar",
-   "source": "www.tmgm.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0VhTlNjeHZnUXpyd1RYSjJJLXJ3bFRoV0EteDFBd0J4MHdqMVdPV1dpUDNZcTFsWmlEZUtBYTdWVVBISThnTDdsZ25MdlJHeC16WTlNQVdBMnlVSU1FbVBsMDF5OHc1X1JtVURCUkwxRUJjbzlSWnB2Z2RIcnA1TGhZekFnUEVxM0hLS2tDNkoxUnE4eXdxRkhPUkJidURDMS1EMGplZlBZNXplbjJlbU1PU2NXeUU5QUFPOF9ZX18ybEIzeE1wc1l0VlpKS3Fi?oc=5",
-   "published": "2026-11-18T15:05:55Z",
-   "category": "economy",
-   "countries": [
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "up",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Improvement noted. Not to be confused with a trend."
-  },
-  {
    "id": "c1369e11c860",
    "title": "Car insurance inflation hits 8% as UK CPI rises for a fourth month",
    "source": "Insurance Business",
@@ -2029,74 +2633,6 @@
    "corroboration": 1,
    "also": [],
    "memo": "Communique drafted. Adjectives softened."
-  },
-  {
-   "id": "b7431b9d0acc",
-   "title": "Can industrial AI give Germany a competitive edge?",
-   "source": "DW.com",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWXdpSUt3bkw4VjRkU1Z0eXVyY19NQ3dpSXFxMWdfY0ppSnhPVG14TUpucnRWTFcxTEt1el96M3FxS3llNkZmclJQZ0lNMVFUaS1QZU1xMkh6NHNEQU5yR2tUNjgxNjJ4aUJHblVaUTRwczJ6QWgxbU43YUtzTEYtVTZuR2hTUGo2ZG5WQXRlS1g?oc=5",
-   "published": "2026-11-18T14:49:08Z",
-   "category": "economy",
-   "countries": [
-    "DE"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Action: a working group will be convened to consider convening a working group."
-  },
-  {
-   "id": "3c95dceb7a00",
-   "title": "Police seize 800 cannabis plants in eastern Switzerland",
-   "source": "SWI swissinfo.ch",
-   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNSDNodVZVVXktcmZUMEExcGdZeVVrZWwyblBZYmZYSnRscklhb0FOb2ZjNmdVYnpvT3VlRXMwME82TDUwVUhlUTU1TEhKck9CYnhkblJSN1N5R1VlRUc5UFBFVFVYaWk1UXZMWjBQQjk4QzVrc1k2SkpaNWpXMmFBT0lEV0tqb0hueGNsQUlNdnpyVXdZcW1lT1huLVRCTDU5blh1dWlnZ2Z6M1VDdVE3V1oyMUdJQmRNMzlwNFNpc1Jtemp4MUo3cXJOWjJyN24tZC1yd1dfMFBQTzZlMTMwS3Uta3FJSV9aemdxWUQ5S3dDTDFBNWNBSENTR3ZiRjFXYjZheC1tU2NIcGY1aWEyVFJoOG5xNmNpZTR2V1BmM1BIcWlBMVJUdGpqR1lISzN0U05Edm84OVdMaEZ1WXlJ?oc=5",
-   "published": "2026-11-18T14:42:00Z",
-   "category": "economy",
-   "countries": [
-    "CH"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Situation stable. 'Stable' is used here in its relative sense."
-  },
-  {
-   "id": "52d25c274f8d",
-   "title": "Chinese car sales surge in Switzerland",
-   "source": "SWI swissinfo.ch",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNRGtsVGZYLUJ3djRxRk5ZUmVtbkljbnNNZ2JzX2dOaEY4QzJ5ZUZCbGI5cVFrNGpya29Zb01NbjZTWUY0RWpTTHpIZDFhWm1LeGJUTlRTV1A4M1FmT2lxSXdDUllkbEZERElZaG8tSUlTMXZtemM0dEppenR3M1otUVpaUHlkMkJuaUtMVUtBci1vV1g5NTZKdlhhUlRlU21BbklmcWU4dmNoTnIzVG9TV3IySUVuX2RJQ0pWMm16LUIyaGxjVDBGbW90cDdfQ0RfQ29OQ1dGcENkRF9zc2p3dU9qd0ZVcXZSLWNUdmotUEZHbld2eXl4TGxJdzI2SmhOa3ExUDVHME5XZ09kZnJBUEVWNjUtX2VobnVzaUlMcEFTdmhL?oc=5",
-   "published": "2026-11-18T14:33:51Z",
-   "category": "economy",
-   "countries": [
-    "CH"
-   ],
-   "severity": 0,
-   "direction": "up",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Improvement noted. Not to be confused with a trend."
-  },
-  {
-   "id": "63ea78293699",
-   "title": "Triglav Group posts flattish Jan-Sept net profit, reaffirms 2026 outlook",
-   "source": "SeeNews",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQblVjeWhKV252SHRHZUNQcGVuLUd0Sk1ZeFhOZjNkenh1Ym1KWUdxWllsS0tMX2g4NTVkTlBScWFLYlNTdDAwanN5OUlwSUprZ0oxZDdxdDBHZTJlSWRMaGR1YmlFMDVNZEpuYkM5bVVUblVRY3R2Z2k5ZmtBMkUxZGVneGZxZDlRZmhtY3VYaWEtOVdOREZQcnRWUXlPSkhyY2RyVmtyZw?oc=5",
-   "published": "2026-11-18T14:30:26Z",
-   "category": "economy",
-   "countries": [
-    "SI"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Directorate notes: forecast revised, again."
   },
   {
    "id": "727635c07547",
@@ -2133,40 +2669,6 @@
    "memo": "Assessment: not ideal. Further assessment: also not ideal."
   },
   {
-   "id": "8b6b625dad86",
-   "title": "EXCLUSIVE Ranking of countries in relevant Romanian online sources: Ukraine leads the foreign agenda. Security and the economy define the week",
-   "source": "Informat.ro",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1ejlCdTZpM3hIVDFycUEzRWZPUG5tMGs1QnBxakZwb2Fqd25QSGJHOVpWRmUwNU5BWmQyTTdiaG5JSkFkLTdxSFdjdWFadUp5cVZSWVBzX3pRU1haYjFEQ2ZBNA?oc=5",
-   "published": "2026-11-18T14:25:39Z",
-   "category": "economy",
-   "countries": [
-    "RO"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Nothing happened, officially. Minutes to follow."
-  },
-  {
-   "id": "d004aba606dc",
-   "title": "The ECB questions whether the current provisions of European banks are sufficient in the face of the oil 'shock'",
-   "source": "Demócrata",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQaUZ5UmVEUWh0NkUwTFhDQ1dMU0dXNWVoam1QckNsYi04Q3BHNHYyLVRZWHRXczlkS2VsSEE3TkY2QzY2UllmdU1UYVdJU3RuTUZHMXhiRUZ1a0ZWUl8ydXQ1UGtjMVZhVzBJenM5cjJ6V3c0bUxYVnhoLVRUM2I5d3NsUHkyNEQ0MkpkVVlNbWw3TW94ZjlrUHg4RHl6TE1CT19Wcm5qeGNXUzFIbHpqU2VhTTJ4ekc5cUczbUZiblNrRGJqRE5QWmdjZVZNNHkxYmVuQ3pVRFZHTjVwTEpsd9IB5gFBVV95cUxPUlF3YnpaZDFhbk50RERoMXRtSjhFN3hDWEQtZXdmWWZEM3VCc1dDakhRcW0tZVd0U2dSbmJSdF94YzBWTi13SHZiRDNaVTY4blhIY29uRzBpRnBET1d1ZEZOcjNxMVBlRVBOYmRvQTFxYlNocVZqMWZya3lvV0xiVlhQVDE2cHFtNWp5QXJobWVFbEhqMnJtTkp5WEljR09XZjVQaVBlQ3lyQWh3MVZsZGM0WnNMVVFCYkQ0dWQzM21hbEg1TTNzYl9WSHZNaWNYOVNVdVc1YWxYMGFsbG11ZFozNFpaQQ?oc=5",
-   "published": "2026-11-18T14:25:23Z",
-   "category": "energy",
-   "countries": [
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Classified as 'regrettable'. Filed alphabetically."
-  },
-  {
    "id": "0118b7f8aa56",
    "title": "Eurostat updates EU statistical monitor as growth continues and inflation rises",
    "source": "Traders Union",
@@ -2184,74 +2686,6 @@
    "memo": "Directorate notes: the trend remains, regrettably, a trend."
   },
   {
-   "id": "52331d4cfd3c",
-   "title": "Malta’s maritime industry contributes €1 billion to the economy, new study finds",
-   "source": "The Malta Independent Online",
-   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYlZUV0dpYWk1aE5kbnhmUmloYm5FV2ZTTFB4emc1bW5kTFR5SG54Y3R1eklMdzhYWU5ONWtRYURmUkxuZWFFb1ByTkVGc0lhdjByekhHbnNDOTNhTjJQV01ZbXFvSWw1QXVmZUFCbmU4WmxLWEdiN25fekZBNm5WQS1CSzRGcWVLempYMGRvNUYzVS1jS1REbVlKZ3B6cEpVbExieG8yVkh2Wll5ZWJZOTZKenF6WGFSaV9TeHNxVWp1T1cxZnV1VklqZW4wekcwbk1mWFg0T013RktmQjNQSFhkNUp2QQ?oc=5",
-   "published": "2026-11-18T14:19:00Z",
-   "category": "economy",
-   "countries": [
-    "MT"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Statement issued. Statement contained words."
-  },
-  {
-   "id": "aa1da261ccde",
-   "title": "Why Ireland's economy could be vulnerable to a slowdown in America's AI boom",
-   "source": "Irish Star",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbEZkUkxNaUJPb1ZZLXY5TzdnT1pXQkJqQmI3cTI5VUV2aEE0amllM3RfWUtLUzJvUGszTm9XR1FhaHlfdWRZNGxoLWxsck1HRk5SY2M0OF9VWUdIMnRadFRsSVhreWxTdVpLQ0JkRDJBdDNILXpsVDMtNVlxQk1Vdk11Yk1wNkxMaU1fOGlKQW5hS3RBZHfSAZsBQVVfeXFMUDN1Z0dvb2dmTWdQQy05dHZGTjlGV3Jwd2hsamloM2kxTVpIYy16RFZhaVVJQjNYY2FMZDNrb3A2eW1Ddjl4ZE5PLU9DaFQ0YmR4dklyampfMHZEQWs2c2hLekdzT2g0dm9ZYUh0c0hIbFRJVkFyQUxQZllqRWR6bFBSSkEwOWo2RlhZd3BQY0xETkppRExsbHhwbE0?oc=5",
-   "published": "2026-11-18T14:16:00Z",
-   "category": "economy",
-   "countries": [
-    "IE"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Filed for completeness. Completeness remains elusive."
-  },
-  {
-   "id": "8f3d4e08b870",
-   "title": "Mallorca home to the seventh most expensive shopping street in Spain",
-   "source": "Majorca Daily Bulletin",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcG9ZbkVqMy1BbldTckhwckdzeWZVUWMwcXBpUHNhRGNNejNsLXktMmhBa2NYMXVjRVZfRmFLN0lmeHpteDc2MEJmSVhnMGxNLXp3MUFKdjRmTHBQNDVXY3dkSGl0Y2pwMklZZmRZT3laNjVkZ21xZTJWa1BvMXhSS0VwSXFCZGE1cnFHWXRvMlQyUGJHVVNVNEo0Z0FJb0NzajNJV0c0SGVMZWpFZEc5eXY4M2hkRUxTS1dfWGVMa056UC1feGd0NlNmWnlTZ9IBzgFBVV95cUxQY0JiX1BvY1BfdlhaaWtNbS1fR0sxb3NRdERzMWVZSFdLZEdEb1RQZXJTcG9pWDg1N2tCZzFZakkwTWxsUGdINnJXbWZnTXVnTEg4bks5U1RvQlI2c3JNWEJqSDUxa3RfaDFhMGoxNkxqQVlBT2FqWkE0UW1DaHgtR0s2bXVzR1A5QVZmMWdfZlV0eEVhSmVLaUdRYjNXcDJXLUEtelBnbllCaDNVdVRyYS1yRkUzYzlVOFlrbGpMV2t6eXZxejFMNjAycEpEUQ?oc=5",
-   "published": "2026-11-18T14:13:19Z",
-   "category": "housing",
-   "countries": [
-    "ES"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Action: a working group will be convened to consider convening a working group."
-  },
-  {
-   "id": "e65cdd3f84b2",
-   "title": "Estonia moves to end gambling tax reduction experiment",
-   "source": "iGaming Expert",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkJMbGhpQ0tSM0RCVFJjMWpOVzhXbzhZS29Vemx6SDRVWlV5M210aXNqOWgxckE0N0VxZ0FDRnhxM2EzSFJQZmlfVC0xOVQzSVgzRWx2TUxpaFF4VXhYRnVCdEh3TTRsYW5sMVExTWtHaXRHVHVCZWxSOG8yeUxBN0NBUFhzNnZBODVycFNhTEtUMWJxR0JoUElmMThJQ1kzNnVuZ0VGLW93dThka1HSAa4BQVVfeXFMTjJCTGxoaUNLUjNEQlRSYzFqTlc4V284WUtvVXpsekg0VVpVeTNtdGlzajloMXJBNDdFcWdBQ0Z4cTNhM0hSUGZpX1QtMTlUM0lYM0Vsdk1MaWhReFV4WEZ1QnRId000bGFubDFRMU1rR2l0R1R1QmVsUjhvMnlMQTdDQVBYczZ2QTg1cnBTYUxLVDFicUdCaFBJZjE4SUNZMzZ1bmdFRi1vd3U4ZGtR?oc=5",
-   "published": "2026-11-18T14:08:44Z",
-   "category": "government",
-   "countries": [
-    "EE"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Filed for completeness. Completeness remains elusive."
-  },
-  {
    "id": "74ced17ac962",
    "title": "Germany's leading economic index slips 0.2% in September 2026",
    "source": "Fibre2Fashion",
@@ -2267,57 +2701,6 @@
    "corroboration": 1,
    "also": [],
    "memo": "Stamped, scanned and placed in the tray marked 'eventually'."
-  },
-  {
-   "id": "8e48ac542a7c",
-   "title": "Ryanair again urges lower airport charges to grow investment in Bulgaria",
-   "source": "SeeNews",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZzJ0VlVXRVFQZnp2ek9pc2djVTZTTDB6UGZyRDlfX2ExRUw4UlRoTUpNSGpUY1lzQ2NoQmN4d3FZZHZfbmYzcFNpMUFNNlNOeV9sYU44WmNRVXRKQUhHMTQ2Y3I5bmtNcnBkVkc3emsyUkVBNFJvWE1uTm9fQnpkZmhVWnJrQlZjbDFXMm5RVFJiVDd0a1JDekdicExsd05mdFpvMVFPaWg?oc=5",
-   "published": "2026-11-18T13:55:07Z",
-   "category": "economy",
-   "countries": [
-    "BG"
-   ],
-   "severity": 0,
-   "direction": "up",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Recovery sighted. Officials have asked it not to make sudden movements."
-  },
-  {
-   "id": "477c7618ecf6",
-   "title": "Putin says EU's Russian energy ban caused a 'humiliating' fall in EU living standards",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckNCbEpERmpHdVJoY0h6eVo0X3JPRmlwaUFtYWFkbG41eVpCMEo1M1RwVTJheXlvSHJKY295bFkyOXVOdktyNFJTaG5XcUt0eUsxTFAtM3F2U25ncndzSV9icGdHb3hESlRIVkR5bHRDQnI4OXQweWZzRUJTV0N2NlFHeFlLS281bmVkRUNPZ0pIbzNTcE5zNTVtLTZQQ3NrSkxzUEo1UjdNVE9nZ0hMR29DRkVwR2IyZ0dPVDZ0RmZLMWZ5c2RVVw?oc=5",
-   "published": "2026-11-18T13:50:10Z",
-   "category": "living",
-   "countries": [
-    "EU"
-   ],
-   "severity": 0,
-   "direction": "up",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Good news received. Verified twice. Filed under 'anomalies'."
-  },
-  {
-   "id": "c76076cf9ae8",
-   "title": "Spain’s PM Pedro Sanchez blames tourist apartments and Airbnb for pricing out locals on the Costa del Sol",
-   "source": "Olive Press News Spain",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQk83NVFlWHVrZDNpc0hWeDBCS0FQLXdETWNrRGU5VUpFVjRCdk5McGtRQ2V3WmlhWjI2VVlKTzA5c3QycFgwN1YzSEZCQWE5ZXhZYWVicXhfWi1UQUg0MWtPXzB6M0JsdE1BUGd0NFNhSmViVmV6TFZ0azJUc25xVzhONjdfdHJLTi15ajVYaXl4T0VWSmc1QTFKMlpCTUVhSVpGZXVUajQ?oc=5",
-   "published": "2026-11-18T13:45:00Z",
-   "category": "economy",
-   "countries": [
-    "ES"
-   ],
-   "severity": 0,
-   "direction": "flat",
-   "points": 0.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Statement issued. Statement contained words."
   },
   {
    "id": "2d6d0f1dee86",
@@ -2736,9 +3119,14 @@
    ],
    "severity": 1,
    "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
+   "points": 1.25,
+   "corroboration": 2,
+   "also": [
+    {
+     "source": "Idéal Investisseur",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaVRJMnF1WEFSdE1TVXZRM0phWUtzMFdfRm1YZFBtU1VlbVY5U2pyWDQtNUptRXZzOUdZcUVEelJmRElEZmxQcFpqNEJzc2tCaTUzMVlUMlkzQm9yOENDQm1HUEZRbXdjWHhrZ2ZaMWExb2JpX1ZPQVJwLVh4ODFBZXdoSVB6cndOV0hBdV9rWGtmTC13bHdicjlkUXpPZTZzM1EwR1d0V2NKbWNoSWFYMDlPTVJEWEZkZXhHelJ5cmxrMTVUbnE3dS14ejVWWldqd0E?oc=5"
+    }
+   ],
    "memo": "Classified as 'regrettable'. Filed alphabetically."
   },
   {
@@ -3481,6 +3869,24 @@
    "memo": "Filed under: things that were supposed to be temporary."
   },
   {
+   "id": "97686b5ee2f0",
+   "title": "European Shares Stabilise After 1.75% Decline as Nvidia Results Support Technology Stocks: DAX, CAC, FTSE100",
+   "source": "Yahoo Finance UK",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU2FDMERZMkdxUHlCWTlkd2xmOTFVSjFaNkt6M2J0SG9ienZZWlg1dVIzcVBld3NwcGlHYmRWU2VoSVFKNUlMOVZGdlRmRG9nZ0NjSTIwdDNHUkp1NlFpdFlxc1B1Q0M2YzAyY3lkb3o5QTdPTzdINVVCa1ZwTEV3REpJbFFDQQ?oc=5",
+   "published": "2026-11-18T09:22:23Z",
+   "category": "economy",
+   "countries": [
+    "DE",
+    "EU"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Officially a 'soft patch'. The patch now covers most of the map."
+  },
+  {
    "id": "a79f36bdae2b",
    "title": "UK inflation rises to 3.6% as experts weigh up prospects for further interest rate rises",
    "source": "IFA Magazine",
@@ -4004,10 +4410,10 @@
    "memo": "Classified as 'regrettable'. Filed alphabetically."
   },
   {
-   "id": "2954170e7ed2",
-   "title": "Inflation hits 12-month high after further rise in petrol prices",
-   "source": "ITVX",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlzWEZ2RFFMN0g1allZLTk0MDRFYUF5aG1Mb28tVTBKYnZYX2NIeXlKN1ZBT3E3VDBpYUp6eFFKSmIycWpEalFneTlGNnFITS0yeXhMc3RWVWZaUWlkNjBrWTg2NGtrZ2dVejRkSkNoLS1uWjZBZHBkampDTmprTW41NEItWDVUdWxyLUxkN01Hc2YwTGlnY1I4M1BqXzVLa2c?oc=5",
+   "id": "ac3fd8b621a1",
+   "title": "UK inflation hits 12-month high: What's driving the rise in prices?",
+   "source": "Euronews.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1RtblJWNjJUOVVWQXk0b3N2bzBhYUtRYnlOU2xJR0ZfaWpsRjB5bml4cFhmRHdobUJsTnNyMDhkRS1EaFFWQ0Z6YklXMzl2M0RadTVRN3FIRnlLLUxCbzVic003cEZ3NWIxbTU5X3U5N3plU1ZlRHhQNjd4TVlqZkM4S3hvMlFwa1F2LTNIdUU2VVljWTczX0ZKVQ?oc=5",
    "published": "2026-11-18T07:14:58Z",
    "category": "inflation",
    "countries": [
@@ -4016,8 +4422,12 @@
    "severity": 2,
    "direction": "down",
    "points": 4.0,
-   "corroboration": 6,
+   "corroboration": 8,
    "also": [
+    {
+     "source": "ITVX",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaHlzWEZ2RFFMN0g1allZLTk0MDRFYUF5aG1Mb28tVTBKYnZYX2NIeXlKN1ZBT3E3VDBpYUp6eFFKSmIycWpEalFneTlGNnFITS0yeXhMc3RWVWZaUWlkNjBrWTg2NGtrZ2dVejRkSkNoLS1uWjZBZHBkampDTmprTW41NEItWDVUdWxyLUxkN01Hc2YwTGlnY1I4M1BqXzVLa2c?oc=5"
+    },
     {
      "source": "The Irish News",
      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjcxUUI5elUxSnVjUmo2QkhKX3FTWjdrODV6RzVCdWc4Z0RfRE5uVUdDV2tONkhfaFZYRlRXUWVlQ3VBLTJQd2JoLWQ0SU1UemJWWUhleS1FWTQzQm1nLVVuT2xJZGdkcC1xWFRYYXZWcjZUVFBlVmN2MWNOSTFnNlRUUXJ2cG01R3pnSl9YNFdTWTktZXl1MFRWY0tJRGJ1amkyUFRzUHF1amI3M1J4X1RQQTY4Umx6NnFaUzdBUTUyOXdJ?oc=5"
@@ -4025,13 +4435,9 @@
     {
      "source": "Northwich Guardian",
      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU2lMLXNaT1BrNUo0MnpHRVhEWGhFaW9pRVVBeFk2Zi03LV9XVmZVM2tyMDREZG5iTkR5NThEeUhmdVE2czNXbG82TE9OUktFZ1RHWFktNU0yTjcwcDBFdUxzdXloUFNlTWVpQnphNDREamZKUFQ4UVZOQjdWT2lrSU5MelF4TW9qTUw1cnJwQ01RTDhkaGJFRFlYdkczZzV5SDR2MFBra3BHdw?oc=5"
-    },
-    {
-     "source": "Yahoo News UK",
-     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IajFzOVY0ZjB6aXM4cFlHelhKdTFZRzNNSHl4TjBDRHJCa2dNcmIxWkxDYTB4ak9IUjRLVXFpYmVLbldrSTNQM3lEZ1VnalZLT0RTcWVDNm1qeS0wNENvbnItMnpaUlhHS1d3OHg2QVdZNUhTUFE?oc=5"
     }
    ],
-   "memo": "Filed under: things that were supposed to be temporary."
+   "memo": "Forwarded to the relevant committee, which is itself under review."
   },
   {
    "id": "78e33741cf53",
@@ -4980,6 +5386,23 @@
    "memo": "Stamped, scanned and placed in the tray marked 'eventually'."
   },
   {
+   "id": "e70d878658e5",
+   "title": "European Commission forecasts 500,000 Ukrainians will leave the EU by 2028",
+   "source": "News.by",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN1lnM25ON292SHJqM2E3Sy03eUoyaGpjRG83Qmg5M3BfN0FkZDk5M1ZFVkNvdmpLc0ZXTWRvQVpBRmhzemhXOENTMndyTi15a0lPZVhhMV9sSEdpSC0wMUlvMHpJd0FScG1CWGFwZk5CUkwtdUtSUWRVNzNfaDgyS09pc1JadnhkVVVSRC1YSFc1Ulp3b0ZvRTZuYUdiYkFiSFhPaDNDNHMzeEh1ckRKbGV5U21fdXo5UGR5WXh0YTlfUQ?oc=5",
+   "published": "2026-11-17T16:18:58Z",
+   "category": "economy",
+   "countries": [
+    "EU"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.0,
+   "corroboration": 1,
+   "also": [],
+   "memo": "Classified as 'regrettable'. Filed alphabetically."
+  },
+  {
    "id": "fd2bc3b4bc7e",
    "title": "Spain is growing faster than expected – but inflation is rising!",
    "source": "Spanien Press",
@@ -5277,24 +5700,6 @@
    "memo": "Action: a working group will be convened to consider convening a working group."
   },
   {
-   "id": "9b7386176f16",
-   "title": "EU says Italy could be freed from deficit disciplinary steps in 2027",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY25mSVlVUDdWMXBCcjJDQXY5WnRqVVFRcm5Oa2NEWjlEa3NaSElXRWVOZmxXRVZmWkFNZEU3Mk5ibHlxbFRjbW9XeXJMUVkyam1BMHBEeDg3ZnpZMC0zUHVzSmFaVWZlRDhhU0ZFSEtNZVhYZkJkLVZ1QXU3dDJOUGNjWkpCRHF2UFdKUE9kZjd0QTJWV05wbDJJQzNMTTIyQmozZWRZR0NrT1R0aU9vQQ?oc=5",
-   "published": "2026-11-17T14:08:09Z",
-   "category": "government",
-   "countries": [
-    "IT",
-    "EU"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Assessment: not ideal. Further assessment: also not ideal."
-  },
-  {
    "id": "2df3cbb14a64",
    "title": "EU Commission cuts Croatia's GDP growth forecasts for 2026, 2027",
    "source": "SeeNews",
@@ -5311,6 +5716,29 @@
    "corroboration": 1,
    "also": [],
    "memo": "Cross-referenced with last year's file. It is the same file."
+  },
+  {
+   "id": "9b7386176f16",
+   "title": "EU says Italy could be freed from deficit disciplinary steps in 2027",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY25mSVlVUDdWMXBCcjJDQXY5WnRqVVFRcm5Oa2NEWjlEa3NaSElXRWVOZmxXRVZmWkFNZEU3Mk5ibHlxbFRjbW9XeXJMUVkyam1BMHBEeDg3ZnpZMC0zUHVzSmFaVWZlRDhhU0ZFSEtNZVhYZkJkLVZ1QXU3dDJOUGNjWkpCRHF2UFdKUE9kZjd0QTJWV05wbDJJQzNMTTIyQmozZWRZR0NrT1R0aU9vQQ?oc=5",
+   "published": "2026-11-17T14:06:29Z",
+   "category": "government",
+   "countries": [
+    "IT",
+    "EU"
+   ],
+   "severity": 1,
+   "direction": "down",
+   "points": 1.25,
+   "corroboration": 2,
+   "also": [
+    {
+     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZY1dEVE1maVktcmozWmVvWlVBZ2kwWDJVTXJ3Rkt6Rm1rcE9sb3E3ODVqbzZhRHNMWV9LMGJLVVR0NHdBOW9sWkhqeEcweG84Yk81Rk55TW1Ga04tWFRheWx0X0x5b1l0dHc4U0t3aW1VODdzdTlaZld2dw?oc=5"
+    }
+   ],
+   "memo": "Assessment: not ideal. Further assessment: also not ideal."
   },
   {
    "id": "cdab281957ae",
@@ -6790,410 +7218,11 @@
    "corroboration": 1,
    "also": [],
    "memo": "Directorate notes: the trend remains, regrettably, a trend."
-  },
-  {
-   "id": "031921d3453f",
-   "title": "Latvia's economy records fastest growth in four years, but warning signs emerge",
-   "source": "Baltic News Network",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWYxeHpSNGFQVzBTMnNVU3hVczJzTmJENUVEbWtqcFR5ejRLdVVoSks4QXRYT0hUMlRLVWk4ZnZwNWhuQ2Mxa1dhc1l4UktaYU9rakpaUVo4a3dKbWJ1eXItSERLSXVHUFNBU2MxSjhXQ1NGeWtFMnZKRl9QR0hGMk1WUWVsTlpyaGtSRjUtVUhTa1B1cG1fMEotQmxPR0RwRnpWRVdkYzZTa0FnQ3FYRjVOUQ?oc=5",
-   "published": "2026-11-17T08:12:25Z",
-   "category": "economy",
-   "countries": [
-    "LV"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Ministers are monitoring the situation closely, from a safe distance."
-  },
-  {
-   "id": "0094ff21d14e",
-   "title": "Andy Burnham accused of wiping out 200,000 jobs as work opportunities fall",
-   "source": "AOL.co.uk",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN2I1cWF6Zm0zYVAwYWhjODctdlVvOUtkVFVMcDF0ajZjUHBSTm4tMWxUR3Q1Um9uTkpFcUl0bGU5ZTl1UXU2WkpqSWpDNEc5Rm9tQnVOU1hWQlBJaExQTmZyYnlCVkpNcmRTck84aWZjb3QzSS1lTWpMQ0FIYkFpM2pLVQ?oc=5",
-   "published": "2026-11-17T08:12:10Z",
-   "category": "jobs",
-   "countries": [
-    "GB"
-   ],
-   "severity": 3,
-   "direction": "down",
-   "points": 3.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Upgraded from 'concerning' to 'deeply concerning'. Stationery order placed."
-  },
-  {
-   "id": "9b40afff220b",
-   "title": "Alan Milburn throws lifeline to London pubs and shops by calling for tax cuts to hire young workers",
-   "source": "Yahoo News UK",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOV3RUemRZdkU4N2xkRzNCRlY0RkF0amJVZXBIdnJra21LaWdIY285c0hlSUt0SnpOMHd0blVTSXVDWFVPUkp5NUVJZzhiVUhXZlRicjhyMGpta1c1UkpQZ19TdUY1TU1QX1ZMTGdVUWl1QTdWTUdXVVhBdTZlUFp4X2RR?oc=5",
-   "published": "2026-11-17T08:09:52Z",
-   "category": "government",
-   "countries": [
-    "GB"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.25,
-   "corroboration": 2,
-   "also": [
-    {
-     "source": "London Evening Standard",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOUNrazlqeldFNkptcVZ4WWJqb04yZWU3ZlkwS1hkMTM0T3dNZ1BCOW1ETl9yczVwMlFtX1pOUVhaSkp1RXByUWlSeHRpdVB1SFN2YXJMX0dpN0x6c1pBYTZmcUVNMzBpYUl1ZjR0dFk4dE10MVVxTnY3QVBJUHZyaHQ2TTNDSy1MclJFV2p5dTNQczB4azFvazZSeHEyWVZDSmFWY0NTZ1dfX3Z6cnFlazF5aFllNmhOZlI2Zg?oc=5"
-    }
-   ],
-   "memo": "Classified as 'regrettable'. Filed alphabetically."
-  },
-  {
-   "id": "ef48779bd1da",
-   "title": "UK jobs market stalled ahead of October Budget",
-   "source": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM1FRSTdsUmJVMDFiemZRV3BXUEEzeGk5LWt5THNRRkFFWVBHNkxNajNmcE5DVndXWTdEeThxUWY5Z1BqalIzWER5ZzEyWFlXSEVPdkpVb0g2WlZqYUNrRkQ4OU5hb3NaSWplVERMSldwRWx1M0VJYU91TWkxNlFSM2dMaVQ?oc=5",
-   "published": "2026-11-17T07:50:26Z",
-   "category": "government",
-   "countries": [
-    "GB"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Directorate notes: the trend remains, regrettably, a trend."
-  },
-  {
-   "id": "e2c91427d877",
-   "title": "UK wage growth slows as unemployment rate drops again",
-   "source": "The Times",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN1ZOUHJEc3NTTXZicFQwZ2VQZDRnYVhEYXRSQ21MaTRPRS10ZEhRU1ZlLWFuSU45U1QwXzY0cVlrUTJWR3ZEMm1kOHhNZU5tZEFsRXNzLTdESVBXR3lUaTNFUXB5VFF1OWgtZldmLXNVSXl3QmhkdnA4YUVQZmxDeWdFZVFjVGluOTdqRFFFSk1KeGpwcWVmQVlwTjRoOUJqSEltUUNaU3RKNXpoanhGcWVLR0E?oc=5",
-   "published": "2026-11-17T07:32:30Z",
-   "category": "jobs",
-   "countries": [
-    "GB"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Stamped, scanned and placed in the tray marked 'eventually'."
-  },
-  {
-   "id": "49c8d93e5a30",
-   "title": "“Even Tariff Barriers May Prove Ineffective”: China Gains Ground in Europe’s Vehicle and Parts Markets, Spurring Calls for an Industrial Strategy Shift",
-   "source": "https://economy.ac/",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE03WDNKZW0wcl82clJkaEFfbWJrSkhWRHJVWUd1U0JQTnhqVmtkLW5PRFhzdDFjZXBZV2ZCZWo2RWIwX0hJMmwwRFhmbW1ucURHZm5kWmhjMA?oc=5",
-   "published": "2026-11-17T07:29:35Z",
-   "category": "economy",
-   "countries": [
-    "EU"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Assessment: not ideal. Further assessment: also not ideal."
-  },
-  {
-   "id": "475772ca7257",
-   "title": "UK wage growth slows to 3.5% in three months to September",
-   "source": "RTE.ie",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYzBBdU15ZFdsUXllR1d0akZiLTVDaU9CU0p4LVJZRmJ5OWJPaWM5M2Fkci1CUmN3cWswcUI1R3dfMENlakpyZTRyUkkzZ3lDLW1JdndGTllYRVJXTk45N0RzeWo0TVJkdlIydkpiUjNET25JTzhvWVA1YkNxUUwwSQ?oc=5",
-   "published": "2026-11-17T07:26:04Z",
-   "category": "living",
-   "countries": [
-    "GB"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Ministers are monitoring the situation closely, from a safe distance."
-  },
-  {
-   "id": "531522005ef5",
-   "title": "What to expect from the Milburn report into UK’s youth unemployment crisis",
-   "source": "The Independent",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTXo1cVo3VUVnMjZGZ29zMG8zWi1FenJLUlZfNWMxYl8weVlsVzhUdy1faWNwMzRnYUFUamZBX2JHZEd1alI4WFJzSlE0MkI4SHczUjZSYTQzYWRqM2lXTENMbkVuUjROQVZyNGp6M0hkQl9mLUdTRThUY09FT3BtU0xSTEI4TVpVd0ZsWkQ2SVY0TW02WVV5MDc1WWdDWlRzY19aaHU1Z2djTHVL?oc=5",
-   "published": "2026-11-17T07:18:00Z",
-   "category": "jobs",
-   "countries": [
-    "GB"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Filed in triplicate. Two copies lost in a restructuring."
-  },
-  {
-   "id": "2478b9afb746",
-   "title": "Hyundai Motor faces mounting losses in Europe, domestic strike and union push for retirement age extension",
-   "source": "머니투데이",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53MzNzUlRyc19DRUZQTEhTOTJ4ellIakhXYTM0ZklaaVZsYjctYmgwbUpjN1hZTFFXWkQ0dVQyUjZYaVBqaDJLR256Zl9hbklHRzJtMmhFLUlDUXdzdVVDaF9JXzFvX25tYVEzLWhkZWM?oc=5",
-   "published": "2026-11-17T07:10:00Z",
-   "category": "jobs",
-   "countries": [
-    "EU"
-   ],
-   "severity": 2,
-   "direction": "down",
-   "points": 2.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Stamped, scanned and placed in the tray marked 'eventually'."
-  },
-  {
-   "id": "461058a6fe58",
-   "title": "UK pay growth slows as job vacancies hit lowest since 2021",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeW5Jb0ZqQ1hLSlZCUmJPczQycG5oV1NjeGlTZHZqY2F6aER6MkJ4MnUxMXNmQjZpTlFadlgzV2lTSVBYSFhuLUtSTzRucllid1ZpSnkwUGFKVlBFVTMyLWVrcnRIRzkzRDk0WTZFck1HaU5lRlFqUDhQeEVDSnZIc1UyNk5ULThvVmdVSHEwdkFBSjQ2MEE?oc=5",
-   "published": "2026-11-17T07:07:00Z",
-   "category": "living",
-   "countries": [
-    "GB"
-   ],
-   "severity": 2,
-   "direction": "down",
-   "points": 2.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Assessment: not ideal. Further assessment: also not ideal."
-  },
-  {
-   "id": "7d339d24715b",
-   "title": "Video. Fresh public sector strike in France under way over pay",
-   "source": "Euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSTlodWFlMmlNbzVmN05XTWQyamtyNnVtMVBoOEdRRFNXYWZhYjdRckROcU1ac2hwZzlSSkw1UloyZ2pDZ0R1NHlMUnhtUGhNMlZnTUlMaE5PZVFxQklOTHVRUUNvLVJyUmdFMm96djQwYjFuMDB2blZqOW9xTmJBYnUzSFI1Zk5vQmU4Nm9TU18tNHJ3MEdlUkRYeXZDYVdJamtTWWs5Y0YwenZJNFV2VUtQQkJWWEtPQWZjMkxMSl8yRk0tWVhFWFpiVXg?oc=5",
-   "published": "2026-11-17T07:05:00Z",
-   "category": "jobs",
-   "countries": [
-    "FR"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 2.0,
-   "corroboration": 5,
-   "also": [
-    {
-     "source": "The Straits Times",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFIwM0xhTnVOSW1DZG91Yk40emU5NDBLbVZsZy1JbF9GUHMwSmo1UWdVZ1NBTVEwT3huYWFMSjd1c0lycjNHUnhHOWhkbFp5OXRBM2pMVVlhYmp2WHE5Q1RseXpSS1J2OUQyM1dLenZabTliRk1hMmdOeHVyQTR5QTU1VUNwTmF3YWt1Tnc4QlNoZ2lEbWR4Tmt4OA?oc=5"
-    },
-    {
-     "source": "China Daily",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83MUZSYlY5aTMxS09pMkR6QnRkdU5GRlc3M1RnUTVuUVlLbXowMEhhdV9jNk92VXlnZk1GZVZkMkFKeU5qQjc4aU1xblh6ZmdWcnNUdXpUS2F5cXI0cTgyMGFhWjNlUXpTVE5VXzFTc0NIR3lwc1hmeENSY3FWQQ?oc=5"
-    },
-    {
-     "source": "China Daily Global Edition",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbkp5X1oyZ0lrV1VKLWRpSzk2Y2ZYRXp6RFVPdmNSb1NPVGpTaFAxZGpwWGlhajhMTWdTUFBGc3gwN1hmZTRFWjRSZy14RkdEMm10LUZORFQzRG5BdEc4Ul9WOWJkQmVQMzdtbDBFRFNGUEhOQmNXTF8zWlluelJ2OEN3?oc=5"
-    }
-   ],
-   "memo": "Action: a working group will be convened to consider convening a working group."
-  },
-  {
-   "id": "11304ebc342f",
-   "title": "Belgium’s Budget Crisis Deepens as King Gives De Wever Another Week to Save His Coalition",
-   "source": "EU Today",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91UjUtOXJfMWJPZ0VOR3lSMUw3RTEteGU5NGl1WHN1azU3Q3NoWGhtRmhEOUJkZi0xZ0VuQXdiNjVvaHJScTg2YTdUYzBTYnUwNjB6Y2NSeU8tZkd3enBha1E5aUpQVExtTWJROXQ0a1UtVkUxTExSWFBn?oc=5",
-   "published": "2026-11-17T07:00:00Z",
-   "category": "government",
-   "countries": [
-    "BE"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "A consultation will be launched on whether to hold a consultation."
-  },
-  {
-   "id": "cf60b5c3240e",
-   "title": "France Braces for More Strikes and Protests Over Cost of Living",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSnZxV0xGdVlVZjV3RkRSLWNTb3FrMWYzaF96S29ac0ltX3k2bFJCMEE1b0d1cVpDMHlYMVBtMVZYSUlRNDZtLXZWY2lBaE1zT2VZdnNhVGR3dVJOcGFySjljdG5vVTZkcDFRbTJySVQyMWx5WkVXaGJzbTBScU5zb2R6SkR5R043Mnc2eC1lcWN2WFZrdjdpXzB0RDlaS2JjSTFobTkzdHg2aTAtT2pzQ0E2VnFqQ3l2WlNLd2NiUQ?oc=5",
-   "published": "2026-11-17T06:35:19Z",
-   "category": "living",
-   "countries": [
-    "FR"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.25,
-   "corroboration": 2,
-   "also": [
-    {
-     "source": "Hindustan Times",
-     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVDJiZlFmb2ZYSFVwbXpzTFhtV0NUMXlkQkgtREdUMUxfbVNZTElhN3NyWGpUaE8xNm1YQXkxaWNqeGE0ZEotSEc0Ym9hT3JJdXgtbDdUeUhNdVktTjNJWjJoM0VIVVlOaEpQRy00WlItRXFkMGM0aGJZUV9Fc0VmQk44UWNYMzVyRDNfVTNmbGtZZjg4OXBfckpTUmtWZzd0VDcwSXhsRWVaRUltcnp1dElUR3J4enM5QTE0T1pXa1dOWXV00gHKAUFVX3lxTE8wQ2lwcUloaFNfNGlmeGRMY2VwdG9xcTQ4RHJfcFhTQ2FtRXlIcE44b1VjRVcycUFSZUQySzliSFVrcjJGV21PNmpyT2lzdWdMdzQzV0FENnQ5Q013LW9FSGd2WWxZb0NiMG4yYkFoWVE1Rk1SNzVDS3g4Wm03SkhWbjMydlBjVFdUVGN2aUFfMTQ5cXliMkxiWkh1eWdNd0tpWTNzYVdRLW9vMWNjMU1XRWV0ZHZzOUFZb3hRSUpmc1A4c19VY1ZTNXc?oc=5"
-    }
-   ],
-   "memo": "Filed in triplicate. Two copies lost in a restructuring."
-  },
-  {
-   "id": "8bcd553dd09b",
-   "title": "Northwestern Bulgaria Has the EU's Highest Road Death Rate",
-   "source": "Novinite.com",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOE0tVXoyR0g0VGJrVlVFWTJMaVNWMGVQZWxkZWVYV2x4VE50TS00Z2N3eW5fTnAxSEstRXZ6UWJsbFdJYktPbmJGWHYyeTVDckJnUnU1c1VsSGZEZE1RTTV2Zk1vb0R3M2tqV2xiNVNtMmdxSVlKdUR2UDl5QTU2OWdrVlRrRldHUDVXUEJLRlJfMzJPUzdYQ00ycE5WOG1GNU5n?oc=5",
-   "published": "2026-11-17T06:34:13Z",
-   "category": "economy",
-   "countries": [
-    "BG",
-    "EU"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Cross-referenced with last year's file. It is the same file."
-  },
-  {
-   "id": "fa378ef3f247",
-   "title": "NI economic growth expected to outpace wider UK in 2027 — but weaknesses coming to the fore",
-   "source": "Belfast Telegraph",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUGNfSzJaamZBTjlNbkhuWS1oN2lBM19aUDNUZ2tkcy1sRkZPb3g4aWdpcGJNdjhpUnM1NXdSM3N6ZDFfaUtDODdqdl9qaHlJbHF2OG05aloxbm1odXFicDZNNVZSRUVfRmdWb2hJeThmaGlXT09rMjBOM3lmUFNSLTRBSUIyQnZ6eHJQQ3JnRDJfSnZLQnFlek43MEY2eEpQWTk5VDc3T0tKNXJRSDZERVNSQThhS0RZZk5YdmVfb1IxNGE5bE9ycklJUENKQWhtcFVyVnN4VmpKR01DSnRpWFdfNHF1QWRELW0zd1dLM09jSE9helZjblJHRQ?oc=5",
-   "published": "2026-11-17T06:20:00Z",
-   "category": "economy",
-   "countries": [
-    "GB"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Growth located. Size of growth: under investigation."
-  },
-  {
-   "id": "81ad8c41de2f",
-   "title": "Bulgaria's 2027 budget goes to parliament with 3.5% cash deficit",
-   "source": "BurgasMedia",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWJEa19la1lKNVk4c01ESmZDYlduWnVHM1Rub3VfMjZyMnhRSXRfbmdJNHlEc1hJNWYxMDBSZGFmQzNFSEtla3M4dlphTTE3blJPRVRsTVNraE54eHBGbjcyaVFVQzBROTZTV29DVXhsdWNSdFpGOW5taEcwM0dtNGVUSjJLaGVrdWtYSlpTWkJPVnFkYWJWMGlOWTVNSmM20gGmAUFVX3lxTE54UnIySmQ1WlNLdUhIUGVUU0NJSU1LTEpnM0cxc0xvLWFTRXJnc1A5MC03ZHI3UGtoQ0g5ZFhJd2NkOXVld0pJT2Z3RUpBbmhndWR0SUE5b2RNclFiWThSa3hsaTBGMWxnVkhwc3d6VklnalZJWm9aNGRRZzloaHFSTnFnYmRGb1ByVWw5UUlVXzJ6MS1DcVp3ZHp3a19iVkt3UlMwUWc?oc=5",
-   "published": "2026-11-17T05:57:38Z",
-   "category": "government",
-   "countries": [
-    "BG"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Communique drafted. Adjectives softened."
-  },
-  {
-   "id": "af66446b278c",
-   "title": "Spain’s far right eyes power as Sánchez gambles on snap election",
-   "source": "Philenews",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB4azJNWmpROFVzcGpzbnRBVWlkZjg3S3JXNWxzZElORklhSWZEcmR6Q2dpRmtSTXVibmVMQnlSQks2RnZ3MUoxS19HLWhOV0pHM2NuYzMyN2VfZDhYaG1KR00wdGcyRXdDYVFsRkxoX3VvVWdCRG9iQzM0UGQ?oc=5",
-   "published": "2026-11-17T05:47:08Z",
-   "category": "government",
-   "countries": [
-    "ES"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Filed in triplicate. Two copies lost in a restructuring."
-  },
-  {
-   "id": "73775d41ccd8",
-   "title": "Russian gas imports into the EU rose 4% this year. LNG import ban has so far brought only a limited decline",
-   "source": "oEnergetice.cz",
-   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMDgtZjlZZVY2LWE1SXpncm5GWkg4WmNNcGNxRUFDMWNodWkzQXB3RUJlRl9fT2V1b3VQV1JlUmx2Q0dKc0c4ekpyemY3V05pb3YwejVFeTJvVjdtamZ6ZXowVjN4TU85blc1S1pRd0RhdkpST0pob2dIdVFEWUxBcTlZRFMtQ00xWkZ0ZjhySTE2S1pLMlV0T1pqcEw3RWV2blVobkVVcTc2T1dJd0RhbmVuNE5PcDVDWE5hdmFuWTZ4UjcwOUNOT2RhSVhDS2w2a2QxajBVTkd6QQ?oc=5",
-   "published": "2026-11-17T05:14:00Z",
-   "category": "energy",
-   "countries": [
-    "EU"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Action: a working group will be convened to consider convening a working group."
-  },
-  {
-   "id": "f0a1fafa70d3",
-   "title": "Will the EU’s next Russia sanctions bite?",
-   "source": "POLITICO Europe",
-   "url": "https://www.politico.eu/podcast/brussels-playbook-podcast/will-the-eus-next-russia-sanctions-bite/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-   "published": "2026-11-17T05:05:00Z",
-   "category": "economy",
-   "countries": [
-    "EU"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Classified as 'regrettable'. Filed alphabetically."
-  },
-  {
-   "id": "af3eb36728c0",
-   "title": "Hungary Is Set to Hold Rates as Global Risks Support Caution",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVnNxckF6Y3dnaFZReU1meFFNQVBiWEtuRzdYRTVhSWNRaGwzcHhfdjd4VnZRYjhaMW5jQy1aVGg1WFFuSmFobGJaanVVVl8tOWVnWEtXSDZ2MVRlNUhOZld6SjZGZ3RtbUE5akZLQ2Vwd004b1V2WFJ1V3E2RU5YTFVRRGRZb2tYSUZkVV9IZXFXSTVoNHY0WHdOM05qdU8xWFRNQ01qS0NUeEJDS05CeA?oc=5",
-   "published": "2026-11-17T05:00:00Z",
-   "category": "economy",
-   "countries": [
-    "HU"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Assessment: not ideal. Further assessment: also not ideal."
-  },
-  {
-   "id": "5e24622576a7",
-   "title": "The slow economic decline of France compared to the rest of Europe",
-   "source": "Le Monde.fr",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcHhUb0VhdWpKMXNkeVY3UXQ2azFrR2xOWkFOdTFlMlp1cS0zZklldVREaldiWU1EV1NjZUU2UjYzaUxVdHhxSnNRa1ZVdU1OMXFjQW80NWlVa0FmRGVuWkhndkwwZVJobmtMZGtOa0J3ZWtSeE8yN1NuSW82Um1qZEJ0b3FKR1hGb1oyTWdNWFY1ZW01YXUzUVFLbFpyNjNzOUR3SG12MnlUeU9Cc2lHSVBhNldsWFlmQkJ5MjdtbFZZTGJGN0p3V3JMWVROaDgw?oc=5",
-   "published": "2026-11-17T04:00:12Z",
-   "category": "economy",
-   "countries": [
-    "FR",
-    "EU"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Communique drafted. Adjectives softened."
-  },
-  {
-   "id": "d5390c4d3523",
-   "title": "Housing unites Spaniards: they support taxing millionaires but question the methods of the protests",
-   "source": "Demócrata",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0FMUnA4azZNdW1lS1NRa3J5SVRMWFJHZE5VVVFlMktqWGlaam11Q3ZNT29sbEVfcElEd2E3SklIei0wS1NuTUJtM0RiSEIySVJ1QnhoX2pRdVBGRGlFWUJ2UnA1OGNiSjJvN25pLXd2aXJyVTQ4d1pDLTR1UHVoTklxZjFGZUg2WFhUMzFSNVZwdWttQ0pDbVVQNTV0UjhXRVRWTzBCZ3FOelHSAbABQVVfeXFMTVd5SWowdXNzWWpvd040YnNuWjNHcmJlOWFTR3BwOGF0dkZlY1dvYWpOVE5mUzZLQUFhanUtSlBYVU5fY0Z0U1BvUEU0b1FwUTF2eHBvS3g0aC1QaTFCWS1rZFRWOUlObThseVNmYWRvX2RMSjBFLWhENk9EUDhlajJqUURqcFItVGJNVVFhTXg1RGkwa1BkeElvMDdHbWZZVWJRWnoyTnN2dE0xZEJZWS0?oc=5",
-   "published": "2026-11-17T04:00:00Z",
-   "category": "housing",
-   "countries": [
-    "ES"
-   ],
-   "severity": 1,
-   "direction": "down",
-   "points": 1.0,
-   "corroboration": 1,
-   "also": [],
-   "memo": "Cross-referenced with last year's file. It is the same file."
   }
  ],
  "league": {
   "window": "7d",
-  "updated": "2026-11-19T09:30:11Z",
+  "updated": "2026-11-19T15:38:26Z",
   "table": [
    {
     "pos": 1,
@@ -7201,10 +7230,10 @@
     "slug": "united-kingdom",
     "name": "United Kingdom",
     "flag": "🇬🇧",
-    "score": 148.1,
-    "filings": 184,
-    "points": 273.0,
-    "coverage": 340.0,
+    "score": 150.5,
+    "filings": 188,
+    "points": 279.25,
+    "coverage": 344.4,
     "form": [
      "D",
      "L",
@@ -7213,60 +7242,29 @@
      "L"
     ],
     "movement": 2,
-    "score_28d": 455.0,
-    "filings_28d": 579,
-    "score_season": 524.0,
-    "filings_season": 657,
+    "score_28d": 452.9,
+    "filings_28d": 580,
+    "score_season": 525.8,
+    "filings_season": 664,
     "zone": "crisis",
     "weekly": [
-     116.3,
-     118.2,
-     68.6,
-     92.9,
-     142.8
+     115.4,
+     116.9,
+     76.0,
+     79.6,
+     150.8
     ]
    },
    {
     "pos": 2,
-    "code": "ES",
-    "slug": "spain",
-    "name": "Spain",
-    "flag": "🇪🇸",
-    "score": 62.0,
-    "filings": 45,
-    "points": 58.0,
-    "coverage": 87.4,
-    "form": [
-     "L",
-     "D",
-     "D",
-     "L",
-     "D"
-    ],
-    "movement": -1,
-    "score_28d": 361.8,
-    "filings_28d": 229,
-    "score_season": 401.1,
-    "filings_season": 248,
-    "zone": "crisis",
-    "weekly": [
-     66.2,
-     60.8,
-     52.3,
-     156.9,
-     59.8
-    ]
-   },
-   {
-    "pos": 3,
     "code": "DE",
     "slug": "germany",
     "name": "Germany",
     "flag": "🇩🇪",
-    "score": 61.7,
-    "filings": 49,
-    "points": 71.75,
-    "coverage": 135.4,
+    "score": 64.8,
+    "filings": 51,
+    "points": 75.75,
+    "coverage": 136.6,
     "form": [
      "D",
      "L",
@@ -7274,30 +7272,30 @@
      "D",
      "D"
     ],
-    "movement": 1,
-    "score_28d": 354.7,
-    "filings_28d": 248,
-    "score_season": 392.5,
-    "filings_season": 270,
+    "movement": 2,
+    "score_28d": 359.1,
+    "filings_28d": 251,
+    "score_season": 395.1,
+    "filings_season": 273,
     "zone": "crisis",
     "weekly": [
-     63.7,
-     72.9,
-     114.2,
-     67.9,
-     59.5
+     56.9,
+     69.4,
+     118.8,
+     67.3,
+     65.0
     ]
    },
    {
-    "pos": 4,
+    "pos": 3,
     "code": "FR",
     "slug": "france",
     "name": "France",
     "flag": "🇫🇷",
-    "score": 61.0,
-    "filings": 48,
-    "points": 72.0,
-    "coverage": 139.4,
+    "score": 60.3,
+    "filings": 47,
+    "points": 71.25,
+    "coverage": 139.6,
     "form": [
      "L",
      "D",
@@ -7305,18 +7303,49 @@
      "D",
      "W"
     ],
-    "movement": -2,
-    "score_28d": 521.1,
-    "filings_28d": 384,
-    "score_season": 643.9,
+    "movement": -1,
+    "score_28d": 518.8,
+    "filings_28d": 381,
+    "score_season": 644.1,
     "filings_season": 466,
     "zone": "crisis",
     "weekly": [
-     206.9,
-     140.1,
-     167.9,
-     97.0,
-     58.8
+     198.4,
+     141.3,
+     172.6,
+     87.4,
+     60.4
+    ]
+   },
+   {
+    "pos": 4,
+    "code": "ES",
+    "slug": "spain",
+    "name": "Spain",
+    "flag": "🇪🇸",
+    "score": 60.2,
+    "filings": 44,
+    "points": 56.75,
+    "coverage": 88.8,
+    "form": [
+     "L",
+     "D",
+     "D",
+     "L",
+     "D"
+    ],
+    "movement": -3,
+    "score_28d": 357.9,
+    "filings_28d": 229,
+    "score_season": 402.5,
+    "filings_season": 252,
+    "zone": "crisis",
+    "weekly": [
+     70.6,
+     52.2,
+     53.2,
+     165.0,
+     60.4
     ]
    },
    {
@@ -7325,29 +7354,29 @@
     "slug": "romania",
     "name": "Romania",
     "flag": "🇷🇴",
-    "score": 58.7,
-    "filings": 29,
-    "points": 44.0,
-    "coverage": 56.2,
+    "score": 50.6,
+    "filings": 25,
+    "points": 38.0,
+    "coverage": 56.4,
     "form": [
      "L",
      "W",
      "D",
-     "D",
-     "L"
+     "L",
+     "D"
     ],
-    "movement": 1,
-    "score_28d": 191.4,
-    "filings_28d": 96,
-    "score_season": 232.8,
-    "filings_season": 117,
+    "movement": 0,
+    "score_28d": 189.7,
+    "filings_28d": 95,
+    "score_season": 231.0,
+    "filings_season": 116,
     "zone": "mid",
     "weekly": [
-     69.7,
-     21.6,
-     43.8,
-     50.3,
-     56.6
+     65.4,
+     19.3,
+     45.2,
+     58.0,
+     50.7
     ]
    },
    {
@@ -7356,134 +7385,72 @@
     "slug": "netherlands",
     "name": "Netherlands",
     "flag": "🇳🇱",
-    "score": 48.0,
+    "score": 44.0,
     "filings": 12,
-    "points": 25.75,
-    "coverage": 28.8,
+    "points": 23.75,
+    "coverage": 29.2,
     "form": [
      "W",
      "D",
-     "W",
+     "D",
      "L",
      "L"
     ],
     "movement": 4,
-    "score_28d": 156.1,
-    "filings_28d": 50,
-    "score_season": 167.2,
-    "filings_season": 55,
+    "score_28d": 156.8,
+    "filings_28d": 51,
+    "score_season": 167.9,
+    "filings_season": 56,
     "zone": "mid",
     "weekly": [
-     18.8,
-     39.5,
-     19.3,
-     40.2,
-     46.3
+     17.6,
+     37.5,
+     23.7,
+     41.2,
+     44.1
     ]
    },
    {
     "pos": 7,
-    "code": "IT",
-    "slug": "italy",
-    "name": "Italy",
-    "flag": "🇮🇹",
-    "score": 45.6,
-    "filings": 29,
-    "points": 38.5,
-    "coverage": 71.2,
-    "form": [
-     "L",
-     "D",
-     "L",
-     "D",
-     "D"
-    ],
-    "movement": 5,
-    "score_28d": 279.4,
-    "filings_28d": 160,
-    "score_season": 342.2,
-    "filings_season": 190,
-    "zone": "mid",
-    "weekly": [
-     105.8,
-     66.4,
-     100.8,
-     35.5,
-     44.0
-    ]
-   },
-   {
-    "pos": 8,
     "code": "PT",
     "slug": "portugal",
     "name": "Portugal",
     "flag": "🇵🇹",
-    "score": 39.1,
-    "filings": 10,
-    "points": 19.25,
-    "coverage": 24.2,
+    "score": 40.8,
+    "filings": 11,
+    "points": 20.25,
+    "coverage": 24.6,
     "form": [
      "L",
-     "L",
      "D",
      "D",
-     "D"
+     "D",
+     "L"
     ],
     "movement": 10,
-    "score_28d": 160.1,
-    "filings_28d": 51,
-    "score_season": 227.7,
-    "filings_season": 67,
+    "score_28d": 156.8,
+    "filings_28d": 50,
+    "score_season": 227.8,
+    "filings_season": 68,
     "zone": "mid",
     "weekly": [
-     113.9,
-     45.7,
-     39.3,
-     23.1,
-     37.7
+     112.5,
+     39.4,
+     39.4,
+     23.6,
+     40.9
     ]
    },
    {
-    "pos": 9,
-    "code": "IE",
-    "slug": "ireland",
-    "name": "Ireland",
-    "flag": "🇮🇪",
-    "score": 38.1,
-    "filings": 20,
-    "points": 23.75,
-    "coverage": 38.8,
-    "form": [
-     "L",
-     "W",
-     "D",
-     "L",
-     "D"
-    ],
-    "movement": -2,
-    "score_28d": 146.1,
-    "filings_28d": 65,
-    "score_season": 179.8,
-    "filings_season": 76,
-    "zone": "mid",
-    "weekly": [
-     56.8,
-     16.2,
-     29.8,
-     48.9,
-     36.8
-    ]
-   },
-   {
-    "pos": 10,
-    "code": "BG",
-    "slug": "bulgaria",
-    "name": "Bulgaria",
-    "flag": "🇧🇬",
-    "score": 35.5,
-    "filings": 21,
-    "points": 25.25,
-    "coverage": 50.6,
+    "pos": 8,
+    "code": "IT",
+    "slug": "italy",
+    "name": "Italy",
+    "flag": "🇮🇹",
+    "score": 37.5,
+    "filings": 25,
+    "points": 31.75,
+    "coverage": 71.6,
     "form": [
      "L",
      "D",
@@ -7492,28 +7459,121 @@
      "D"
     ],
     "movement": 3,
-    "score_28d": 145.9,
-    "filings_28d": 79,
-    "score_season": 184.2,
+    "score_28d": 273.0,
+    "filings_28d": 157,
+    "score_season": 341.5,
+    "filings_season": 190,
+    "zone": "mid",
+    "weekly": [
+     108.5,
+     61.0,
+     103.3,
+     38.7,
+     37.6
+    ]
+   },
+   {
+    "pos": 9,
+    "code": "BG",
+    "slug": "bulgaria",
+    "name": "Bulgaria",
+    "flag": "🇧🇬",
+    "score": 34.0,
+    "filings": 20,
+    "points": 24.25,
+    "coverage": 50.8,
+    "form": [
+     "L",
+     "W",
+     "L",
+     "D",
+     "D"
+    ],
+    "movement": 3,
+    "score_28d": 142.4,
+    "filings_28d": 77,
+    "score_season": 183.8,
     "filings_season": 98,
     "zone": "mid",
     "weekly": [
-     64.5,
-     17.7,
-     47.0,
-     29.7,
-     34.2
+     65.5,
+     13.9,
+     48.4,
+     30.6,
+     34.1
+    ]
+   },
+   {
+    "pos": 10,
+    "code": "IE",
+    "slug": "ireland",
+    "name": "Ireland",
+    "flag": "🇮🇪",
+    "score": 33.3,
+    "filings": 18,
+    "points": 20.75,
+    "coverage": 38.8,
+    "form": [
+     "L",
+     "D",
+     "D",
+     "L",
+     "D"
+    ],
+    "movement": -3,
+    "score_28d": 144.5,
+    "filings_28d": 64,
+    "score_season": 179.8,
+    "filings_season": 76,
+    "zone": "mid",
+    "weekly": [
+     55.9,
+     17.0,
+     30.1,
+     51.9,
+     33.4
     ]
    },
    {
     "pos": 11,
+    "code": "LT",
+    "slug": "lithuania",
+    "name": "Lithuania",
+    "flag": "🇱🇹",
+    "score": 32.8,
+    "filings": 9,
+    "points": 12.0,
+    "coverage": 13.4,
+    "form": [
+     "L",
+     "D",
+     "D",
+     "D",
+     "L"
+    ],
+    "movement": 7,
+    "score_28d": 90.8,
+    "filings_28d": 23,
+    "score_season": 115.4,
+    "filings_season": 27,
+    "zone": "mid",
+    "weekly": [
+     38.9,
+     13.2,
+     17.8,
+     20.5,
+     32.9
+    ]
+   },
+   {
+    "pos": 12,
     "code": "FI",
     "slug": "finland",
     "name": "Finland",
     "flag": "🇫🇮",
-    "score": 34.0,
-    "filings": 9,
-    "points": 14.0,
+    "score": 29.1,
+    "filings": 8,
+    "points": 12.0,
     "coverage": 17.0,
     "form": [
      "L",
@@ -7523,59 +7583,59 @@
      "D"
     ],
     "movement": 10,
-    "score_28d": 119.4,
-    "filings_28d": 32,
+    "score_28d": 114.0,
+    "filings_28d": 30,
     "score_season": 151.6,
     "filings_season": 41,
     "zone": "mid",
     "weekly": [
-     54.1,
-     21.4,
-     34.1,
-     18.7,
-     32.8
-    ]
-   },
-   {
-    "pos": 12,
-    "code": "LT",
-    "slug": "lithuania",
-    "name": "Lithuania",
-    "flag": "🇱🇹",
-    "score": 30.5,
-    "filings": 8,
-    "points": 11.0,
-    "coverage": 13.0,
-    "form": [
-     "L",
-     "D",
-     "D",
-     "D",
-     "L"
-    ],
-    "movement": 8,
-    "score_28d": 89.4,
-    "filings_28d": 22,
-    "score_season": 114.4,
-    "filings_season": 26,
-    "zone": "mid",
-    "weekly": [
-     42.1,
-     14.0,
-     17.9,
-     20.2,
-     29.4
+     59.5,
+     15.2,
+     40.2,
+     17.0,
+     29.2
     ]
    },
    {
     "pos": 13,
+    "code": "BE",
+    "slug": "belgium",
+    "name": "Belgium",
+    "flag": "🇧🇪",
+    "score": 26.5,
+    "filings": 12,
+    "points": 14.5,
+    "coverage": 30.0,
+    "form": [
+     "L",
+     "D",
+     "L",
+     "D",
+     "D"
+    ],
+    "movement": -5,
+    "score_28d": 286.2,
+    "filings_28d": 96,
+    "score_season": 324.5,
+    "filings_season": 111,
+    "zone": "mid",
+    "weekly": [
+     60.7,
+     36.6,
+     135.8,
+     46.6,
+     26.5
+    ]
+   },
+   {
+    "pos": 14,
     "code": "PL",
     "slug": "poland",
     "name": "Poland",
     "flag": "🇵🇱",
-    "score": 28.8,
-    "filings": 20,
-    "points": 21.0,
+    "score": 26.0,
+    "filings": 18,
+    "points": 19.0,
     "coverage": 53.2,
     "form": [
      "D",
@@ -7585,48 +7645,17 @@
      "D"
     ],
     "movement": -8,
-    "score_28d": 143.3,
-    "filings_28d": 74,
-    "score_season": 154.2,
-    "filings_season": 80,
+    "score_28d": 140.2,
+    "filings_28d": 72,
+    "score_season": 152.9,
+    "filings_season": 79,
     "zone": "mid",
     "weekly": [
-     18.5,
-     17.0,
-     33.0,
-     50.4,
-     27.8
-    ]
-   },
-   {
-    "pos": 14,
-    "code": "BE",
-    "slug": "belgium",
-    "name": "Belgium",
-    "flag": "🇧🇪",
-    "score": 28.3,
-    "filings": 13,
-    "points": 15.5,
-    "coverage": 30.0,
-    "form": [
-     "L",
-     "D",
-     "L",
-     "D",
-     "D"
-    ],
-    "movement": -6,
-    "score_28d": 286.2,
-    "filings_28d": 96,
-    "score_season": 324.5,
-    "filings_season": 111,
-    "zone": "mid",
-    "weekly": [
-     64.6,
-     28.6,
-     142.1,
-     43.5,
-     27.3
+     20.1,
+     14.9,
+     34.1,
+     52.0,
+     26.1
     ]
    },
    {
@@ -7635,10 +7664,10 @@
     "slug": "switzerland",
     "name": "Switzerland",
     "flag": "🇨🇭",
-    "score": 20.1,
-    "filings": 7,
-    "points": 10.25,
-    "coverage": 26.0,
+    "score": 18.1,
+    "filings": 6,
+    "points": 9.25,
+    "coverage": 26.2,
     "form": [
      "D",
      "L",
@@ -7646,18 +7675,18 @@
      "D",
      "D"
     ],
-    "movement": 0,
-    "score_28d": 140.7,
-    "filings_28d": 42,
-    "score_season": 162.3,
-    "filings_season": 48,
+    "movement": 4,
+    "score_28d": 142.1,
+    "filings_28d": 43,
+    "score_season": 163.6,
+    "filings_season": 49,
     "zone": "mid",
     "weekly": [
-     36.3,
-     37.6,
-     42.9,
-     25.8,
-     19.4
+     34.0,
+     37.7,
+     50.9,
+     19.2,
+     18.1
     ]
    },
    {
@@ -7666,29 +7695,29 @@
     "slug": "hungary",
     "name": "Hungary",
     "flag": "🇭🇺",
-    "score": 17.8,
-    "filings": 6,
-    "points": 9.0,
+    "score": 15.8,
+    "filings": 5,
+    "points": 8.0,
     "coverage": 25.6,
     "form": [
      "L",
-     "W",
+     "D",
      "D",
      "L",
      "D"
     ],
-    "movement": 0,
+    "movement": -2,
     "score_28d": 78.6,
     "filings_28d": 30,
     "score_season": 102.3,
     "filings_season": 41,
     "zone": "mid",
     "weekly": [
-     40.0,
-     8.0,
-     20.1,
-     24.7,
-     17.2
+     37.6,
+     11.4,
+     17.2,
+     27.3,
+     15.8
     ]
    },
    {
@@ -7700,26 +7729,26 @@
     "score": 14.7,
     "filings": 7,
     "points": 8.5,
-    "coverage": 33.4,
+    "coverage": 33.6,
     "form": [
      "L",
      "D",
-     "W",
+     "D",
      "L",
      "D"
     ],
     "movement": -8,
-    "score_28d": 102.1,
-    "filings_28d": 37,
-    "score_season": 154.9,
+    "score_28d": 100.1,
+    "filings_28d": 36,
+    "score_season": 154.4,
     "filings_season": 58,
     "zone": "mid",
     "weekly": [
-     88.9,
-     27.1,
-     10.8,
-     42.4,
-     14.2
+     86.1,
+     24.1,
+     12.3,
+     42.0,
+     14.7
     ]
    },
    {
@@ -7728,29 +7757,29 @@
     "slug": "cyprus",
     "name": "Cyprus",
     "flag": "🇨🇾",
-    "score": 14.2,
-    "filings": 9,
-    "points": 9.0,
-    "coverage": 40.4,
+    "score": 12.6,
+    "filings": 8,
+    "points": 8.0,
+    "coverage": 40.6,
     "form": [
-     "L",
+     "D",
      "W",
      "L",
-     "D",
+     "L",
      "W"
     ],
-    "movement": -4,
-    "score_28d": 92.4,
+    "movement": -5,
+    "score_28d": 92.2,
     "filings_28d": 43,
-    "score_season": 110.1,
+    "score_season": 109.9,
     "filings_season": 53,
     "zone": "mid",
     "weekly": [
-     29.8,
-     10.3,
-     29.5,
-     27.5,
-     13.7
+     28.0,
+     9.8,
+     31.0,
+     28.3,
+     12.6
     ]
    },
    {
@@ -7766,22 +7795,22 @@
     "form": [
      "L",
      "D",
-     "D",
      "L",
-     "D"
+     "D",
+     "W"
     ],
-    "movement": -8,
-    "score_28d": 97.5,
-    "filings_28d": 47,
+    "movement": -4,
+    "score_28d": 95.7,
+    "filings_28d": 46,
     "score_season": 127.9,
     "filings_season": 60,
     "zone": "mid",
     "weekly": [
-     51.3,
-     21.5,
-     19.1,
-     36.0,
-     11.8
+     51.0,
+     18.9,
+     28.2,
+     26.5,
+     12.2
     ]
    },
    {
@@ -7808,11 +7837,11 @@
     "filings_season": 14,
     "zone": "mid",
     "weekly": [
-     10.4,
+     9.8,
      0.0,
-     19.4,
-     14.1,
-     9.0
+     19.6,
+     14.5,
+     9.3
     ]
    },
    {
@@ -7832,7 +7861,7 @@
      "D",
      "D"
     ],
-    "movement": 7,
+    "movement": 8,
     "score_28d": 48.5,
     "filings_28d": 12,
     "score_season": 48.5,
@@ -7840,10 +7869,10 @@
     "zone": "mid",
     "weekly": [
      0.0,
-     15.4,
-     13.0,
-     7.6,
-     8.0
+     20.1,
+     10.9,
+     5.2,
+     8.3
     ]
    },
    {
@@ -7855,7 +7884,7 @@
     "score": 8.1,
     "filings": 6,
     "points": 6.0,
-    "coverage": 54.8,
+    "coverage": 55.0,
     "form": [
      "L",
      "L",
@@ -7863,18 +7892,18 @@
      "D",
      "W"
     ],
-    "movement": 0,
-    "score_28d": 107.4,
-    "filings_28d": 68,
-    "score_season": 128.0,
+    "movement": -1,
+    "score_28d": 104.5,
+    "filings_28d": 67,
+    "score_season": 127.8,
     "filings_season": 76,
     "zone": "mid",
     "weekly": [
-     34.7,
-     49.8,
-     23.2,
-     18.4,
-     7.8
+     36.8,
+     47.5,
+     22.3,
+     17.7,
+     8.1
     ]
    },
    {
@@ -7894,80 +7923,80 @@
      "D",
      "D"
     ],
-    "movement": 6,
+    "movement": 5,
     "score_28d": 70.4,
     "filings_28d": 15,
     "score_season": 73.0,
     "filings_season": 16,
     "zone": "mid",
     "weekly": [
-     4.2,
-     17.8,
-     29.5,
-     6.9,
-     7.3
+     4.0,
+     17.0,
+     29.8,
+     7.1,
+     7.6
     ]
    },
    {
     "pos": 24,
-    "code": "SE",
-    "slug": "sweden",
-    "name": "Sweden",
-    "flag": "🇸🇪",
-    "score": 7.0,
+    "code": "NO",
+    "slug": "norway",
+    "name": "Norway",
+    "flag": "🇳🇴",
+    "score": 7.2,
     "filings": 3,
     "points": 3.0,
-    "coverage": 18.2,
+    "coverage": 17.4,
     "form": [
-     "D",
+     "L",
      "L",
      "D",
      "D",
      "W"
     ],
-    "movement": 1,
-    "score_28d": 158.8,
-    "filings_28d": 38,
-    "score_season": 168.2,
-    "filings_season": 41,
+    "movement": -4,
+    "score_28d": 61.1,
+    "filings_28d": 19,
+    "score_season": 80.3,
+    "filings_season": 25,
     "zone": "mid",
     "weekly": [
-     15.8,
-     116.0,
-     19.2,
-     11.2,
-     6.8
+     30.4,
+     20.8,
+     9.9,
+     18.5,
+     7.2
     ]
    },
    {
     "pos": 25,
-    "code": "SI",
-    "slug": "slovenia",
-    "name": "Slovenia",
-    "flag": "🇸🇮",
-    "score": 5.9,
-    "filings": 2,
-    "points": 2.0,
-    "coverage": 11.4,
+    "code": "SE",
+    "slug": "sweden",
+    "name": "Sweden",
+    "flag": "🇸🇪",
+    "score": 7.1,
+    "filings": 3,
+    "points": 3.0,
+    "coverage": 18.0,
     "form": [
+     "D",
      "L",
      "D",
-     "W",
      "D",
      "D"
     ],
     "movement": 2,
-    "score_28d": 36.3,
-    "filings_28d": 11,
-    "score_season": 45.2,
-    "filings_season": 13,
+    "score_28d": 159.7,
+    "filings_28d": 38,
+    "score_season": 166.8,
+    "filings_season": 40,
     "zone": "mid",
     "weekly": [
-     15.0,
-     21.7,
-     0.0,
-     8.1,
-     5.7
+     11.2,
+     111.5,
+     21.9,
+     8.8,
+     7.1
     ]
    },
    {
@@ -7979,7 +8008,7 @@
     "score": 5.2,
     "filings": 2,
     "points": 2.0,
-    "coverage": 14.8,
+    "coverage": 15.0,
     "form": [
      "L",
      "L",
@@ -7988,60 +8017,29 @@
      "W"
     ],
     "movement": 4,
-    "score_28d": 50.0,
+    "score_28d": 49.7,
     "filings_28d": 15,
-    "score_season": 74.1,
+    "score_season": 73.6,
     "filings_season": 23,
     "zone": "mid",
     "weekly": [
-     40.5,
-     18.4,
+     37.8,
+     17.4,
      16.8,
-     4.7,
-     5.0
+     4.8,
+     5.2
     ]
    },
    {
     "pos": 27,
-    "code": "NO",
-    "slug": "norway",
-    "name": "Norway",
-    "flag": "🇳🇴",
-    "score": 4.8,
-    "filings": 2,
-    "points": 2.0,
-    "coverage": 17.2,
-    "form": [
-     "L",
-     "D",
-     "W",
-     "L",
-     "W"
-    ],
-    "movement": -8,
-    "score_28d": 59.1,
-    "filings_28d": 18,
-    "score_season": 78.4,
-    "filings_season": 24,
-    "zone": "mid",
-    "weekly": [
-     32.5,
-     21.9,
-     6.1,
-     22.5,
-     4.7
-    ]
-   },
-   {
-    "pos": 28,
     "code": "HR",
     "slug": "croatia",
     "name": "Croatia",
     "flag": "🇭🇷",
-    "score": 4.5,
+    "score": 4.4,
     "filings": 2,
     "points": 2.0,
-    "coverage": 19.8,
+    "coverage": 20.2,
     "form": [
      "D",
      "W",
@@ -8050,79 +8048,110 @@
      "W"
     ],
     "movement": -11,
-    "score_28d": 69.7,
+    "score_28d": 69.0,
     "filings_28d": 24,
-    "score_season": 83.7,
+    "score_season": 82.9,
     "filings_season": 29,
-    "zone": "fine",
+    "zone": "mid",
     "weekly": [
-     23.7,
-     4.5,
-     26.4,
-     24.5,
-     4.3
+     22.0,
+     6.4,
+     24.6,
+     25.0,
+     4.5
     ]
    },
    {
-    "pos": 29,
+    "pos": 28,
     "code": "LV",
     "slug": "latvia",
     "name": "Latvia",
     "flag": "🇱🇻",
-    "score": 4.1,
+    "score": 4.2,
     "filings": 2,
     "points": 2.0,
-    "coverage": 23.4,
+    "coverage": 23.2,
     "form": [
      "D",
-     "L",
-     "L",
      "D",
-     "W"
-    ],
-    "movement": -5,
-    "score_28d": 59.4,
-    "filings_28d": 21,
-    "score_season": 68.7,
-    "filings_season": 25,
-    "zone": "fine",
-    "weekly": [
-     15.7,
-     18.3,
-     17.8,
-     13.1,
-     4.0
-    ]
-   },
-   {
-    "pos": 30,
-    "code": "IS",
-    "slug": "iceland",
-    "name": "Iceland",
-    "flag": "🇮🇸",
-    "score": 3.5,
-    "filings": 1,
-    "points": 1.0,
-    "coverage": 8.2,
-    "form": [
-     "D",
-     "W",
      "L",
      "D",
      "W"
     ],
     "movement": -4,
-    "score_28d": 27.9,
+    "score_28d": 57.6,
+    "filings_28d": 20,
+    "score_season": 69.0,
+    "filings_season": 25,
+    "zone": "fine",
+    "weekly": [
+     18.1,
+     15.5,
+     18.0,
+     13.6,
+     4.2
+    ]
+   },
+   {
+    "pos": 29,
+    "code": "IS",
+    "slug": "iceland",
+    "name": "Iceland",
+    "flag": "🇮🇸",
+    "score": 3.4,
+    "filings": 1,
+    "points": 1.0,
+    "coverage": 8.6,
+    "form": [
+     "D",
+     "W",
+     "D",
+     "D",
+     "W"
+    ],
+    "movement": -3,
+    "score_28d": 27.3,
     "filings_28d": 7,
-    "score_season": 35.8,
+    "score_season": 35.0,
     "filings_season": 9,
     "zone": "fine",
     "weekly": [
-     13.2,
-     0.0,
-     10.9,
-     9.5,
+     12.1,
+     3.3,
+     8.1,
+     9.6,
      3.4
+    ]
+   },
+   {
+    "pos": 30,
+    "code": "SI",
+    "slug": "slovenia",
+    "name": "Slovenia",
+    "flag": "🇸🇮",
+    "score": 3.0,
+    "filings": 1,
+    "points": 1.0,
+    "coverage": 11.4,
+    "form": [
+     "L",
+     "D",
+     "W",
+     "D",
+     "W"
+    ],
+    "movement": -5,
+    "score_28d": 36.3,
+    "filings_28d": 11,
+    "score_season": 45.2,
+    "filings_season": 13,
+    "zone": "fine",
+    "weekly": [
+     14.1,
+     20.7,
+     0.0,
+     11.1,
+     3.0
     ]
    },
    {
@@ -8145,32 +8174,32 @@
     "movement": 0,
     "score_28d": 35.4,
     "filings_28d": 10,
-    "score_season": 55.3,
-    "filings_season": 18,
+    "score_season": 52.8,
+    "filings_season": 17,
     "zone": "fine",
     "weekly": [
-     33.5,
-     10.7,
-     15.5,
+     27.5,
+     10.2,
+     15.7,
      2.3,
-     2.4
+     2.5
     ]
    }
   ]
  },
  "stats": {
-  "items_24h": 268,
-  "items_7d": 1717,
+  "items_24h": 172,
+  "items_7d": 1665,
   "severe_7d": 31,
   "by_category": {
-   "inflation": 210,
-   "debt": 61,
-   "jobs": 167,
-   "energy": 145,
-   "housing": 94,
-   "living": 72,
-   "government": 278,
-   "economy": 690
+   "inflation": 205,
+   "debt": 64,
+   "jobs": 168,
+   "energy": 141,
+   "housing": 92,
+   "living": 71,
+   "government": 264,
+   "economy": 660
   },
   "most_filed_country": "GB"
  }
